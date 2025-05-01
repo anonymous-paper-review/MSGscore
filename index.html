@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Homepage</title>
+    <style>
+        body {
+            font-family: 'Noto Sans', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        .project-image {
+            width: 100%;
+            max-width: 800px;
+            margin: 20px auto;
+            display: block;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .description {
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto 40px;
+        }
+        
+        .video-tables {
+            margin-top: 50px;
+        }
+        
+        .table-container {
+            margin-bottom: 30px;
+        }
+        
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 40px;
+        }
+        
+        td {
+            width: 20%;
+            padding: 10px;
+            text-align: center;
+            vertical-align: top;
+        }
+        
+        .thumbnail {
+            width: 100%;
+            aspect-ratio: 16/9;
+            object-fit: cover;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        
+        .thumbnail:hover {
+            transform: scale(1.05);
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            padding: 20px;
+            border-top: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Project Showcase</h1>
+        </header>
+        
+        <div class="main-content">
+            <img src="./assets/images/main.jpg" alt="Project Main Image" class="project-image" id="mainImage">
+            
+            <div class="description">
+                <p>Welcome to our project showcase. Below you'll find a collection of videos demonstrating our work.</p>
+            </div>
+        </div>
+        
+        <div class="video-tables">
+            <div class="table-container">
+                <h2>Video Collection - Part 1</h2>
+                <table id="videoTable1"></table>
+            </div>
+            
+            <div class="table-container">
+                <h2>Video Collection - Part 2</h2>
+                <table id="videoTable2"></table>
+            </div>
+        </div>
+        
+        <footer>
+            <p>&copy; 2023 Project Team. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Function to load video URLs from the text file
+            async function loadVideoUrls() {
+                try {
+                    const response = await fetch('./assets/urls.txt');
+                    const text = await response.text();
+                    const lines = text.trim().split('\n');
+                    
+                    let allUrls = [];
+                    lines.forEach(line => {
+                        const urls = line.split(',');
+                        allUrls = allUrls.concat(urls);
+                    });
+                    
+                    // Remove any empty strings and trim whitespace
+                    allUrls = allUrls.map(url => url.trim()).filter(url => url);
+                    
+                    // Create tables
+                    createVideoTable(allUrls.slice(0, 50), 'videoTable1');
+                    createVideoTable(allUrls.slice(50, 100), 'videoTable2');
+                } catch (error) {
+                    console.error('Error loading video URLs:', error);
+                }
+            }
+            
+            // Function to create a video table with 5 columns and 10 rows
+            function createVideoTable(urls, tableId) {
+                const table = document.getElementById(tableId);
+                if (!table) return;
+                
+                for (let row = 0; row < 10; row++) {
+                    const tr = document.createElement('tr');
+                    
+                    for (let col = 0; col < 5; col++) {
+                        const index = row * 5 + col;
+                        const td = document.createElement('td');
+                        
+                        if (index < urls.length) {
+                            const url = urls[index];
+                            const videoId = getYoutubeId(url);
+                            
+                            const img = document.createElement('img');
+                            img.classList.add('thumbnail');
+                            img.src = `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`;
+                            img.alt = `Video ${index + 1}`;
+                            
+                            const link = document.createElement('a');
+                            link.href = url;
+                            link.target = "_blank";
+                            link.appendChild(img);
+                            
+                            td.appendChild(link);
+                        }
+                        
+                        tr.appendChild(td);
+                    }
+                    
+                    table.appendChild(tr);
+                }
+            }
+            
+            // Function to extract YouTube video ID
+            function getYoutubeId(url) {
+                const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
+                const match = url.match(regExp);
+                return (match && match[2].length === 11) ? match[2] : 'dQw4w9WgXcQ'; // Default video ID
+            }
+            
+            // Find the main image and handle if it doesn't exist
+            const mainImage = document.getElementById('mainImage');
+            mainImage.onerror = function() {
+                this.src = 'https://via.placeholder.com/800x400?text=Project+Main+Image';
+            };
+            
+            // Load video URLs and create tables
+            loadVideoUrls();
+        });
+    </script>
+</body>
+</html>
