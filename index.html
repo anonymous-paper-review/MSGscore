@@ -33,9 +33,7 @@
         
         .project-image {
             width: 100%;
-            max-width: 800px;
-            margin: 20px auto;
-            display: block;
+            max-width: 100%;
             border-radius: 5px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
@@ -91,6 +89,32 @@
             padding: 20px;
             border-top: 1px solid #ddd;
         }
+
+        .image-container {
+            width: 100%;
+            margin: 20px auto;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+            width: 100%;
+            border-radius: 5px;
+        }
+        
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 5px;
+        }
     </style>
 </head>
 <body>
@@ -100,7 +124,10 @@
         </header>
         
         <div class="main-content">
-            <img src="./assets/images/main.jpg" alt="Project Main Image" class="project-image" id="mainImage">
+            <div class="image-container">
+                <img src="./assets/images/main1.jpg" alt="Project Image 1" class="project-image" id="mainImage1">
+                <img src="./assets/images/main2.jpg" alt="Project Image 2" class="project-image" id="mainImage2">
+            </div>
             
             <div class="description">
                 <p>Welcome to our project showcase. Below you'll find a collection of videos demonstrating our work.</p>
@@ -155,35 +182,76 @@
                 const table = document.getElementById(tableId);
                 if (!table) return;
                 
-                for (let row = 0; row < 10; row++) {
+                // Create header row with Shot labels
+                const thead = document.createElement('thead');
+                const headerRow = document.createElement('tr');
+                
+                // Empty cell for top-left corner
+                const cornerCell = document.createElement('th');
+                headerRow.appendChild(cornerCell);
+                
+                // Add Shot 01 - Shot 10 headers
+                for (let i = 1; i <= 10; i++) {
+                    const th = document.createElement('th');
+                    th.textContent = `${i.toString().padStart(2, '0')}`;
+                    headerRow.appendChild(th);
+                }
+                
+                thead.appendChild(headerRow);
+                table.appendChild(thead);
+                
+                // Create table body
+                const tbody = document.createElement('tbody');
+                
+                for (let row = 0; row < 5; row++) {
                     const tr = document.createElement('tr');
                     
-                    for (let col = 0; col < 5; col++) {
-                        const index = row * 5 + col;
+                    // Add row number cell (1-5)
+                    const rowLabel = document.createElement('td');
+                    rowLabel.textContent = 'shot' + (row+1).toString().padStart(2, '0');
+                    rowLabel.style.fontWeight = 'bold';
+                    tr.appendChild(rowLabel);
+                    
+                    for (let col = 0; col < 10; col++) {
+                        const index = row * 10 + col;
                         const td = document.createElement('td');
                         
                         if (index < urls.length) {
                             const url = urls[index];
                             const videoId = getYoutubeId(url);
                             
-                            const img = document.createElement('img');
-                            img.classList.add('thumbnail');
-                            img.src = `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`;
-                            img.alt = `Video ${index + 1}`;
+                            // Create iframe for YouTube video
+                            const iframe = document.createElement('iframe');
+                            iframe.width = '100%';
+                            iframe.height = '100%';
+                            iframe.src = `https://www.youtube.com/embed/${videoId}`;
+                            iframe.frameBorder = '0';
+                            iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+                            iframe.allowFullscreen = true;
                             
-                            const link = document.createElement('a');
-                            link.href = url;
-                            link.target = "_blank";
-                            link.appendChild(img);
+                            // Create a container for responsive iframe
+                            const videoContainer = document.createElement('div');
+                            videoContainer.classList.add('video-container');
+                            videoContainer.appendChild(iframe);
                             
-                            td.appendChild(link);
+                            // Add URL text below video
+                            const urlText = document.createElement('div');
+                            urlText.textContent = url;
+                            urlText.style.fontSize = '12px';
+                            urlText.style.marginTop = '5px';
+                            urlText.style.overflowWrap = 'break-word';
+                            
+                            td.appendChild(videoContainer);
+                            td.appendChild(urlText);
                         }
                         
                         tr.appendChild(td);
                     }
                     
-                    table.appendChild(tr);
+                    tbody.appendChild(tr);
                 }
+                
+                table.appendChild(tbody);
             }
             
             // Function to extract YouTube video ID
@@ -193,10 +261,15 @@
                 return (match && match[2].length === 11) ? match[2] : 'dQw4w9WgXcQ'; // Default video ID
             }
             
-            // Find the main image and handle if it doesn't exist
-            const mainImage = document.getElementById('mainImage');
-            mainImage.onerror = function() {
-                this.src = 'https://via.placeholder.com/800x400?text=Project+Main+Image';
+            // Find the main images and handle if they don't exist
+            const mainImage1 = document.getElementById('mainImage1');
+            mainImage1.onerror = function() {
+                this.src = 'https://via.placeholder.com/800x400?text=Project+Image+1';
+            };
+            
+            const mainImage2 = document.getElementById('mainImage2');
+            mainImage2.onerror = function() {
+                this.src = 'https://via.placeholder.com/800x400?text=Project+Image+2';
             };
             
             // Load video URLs and create tables
