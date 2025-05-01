@@ -1,0 +1,3847 @@
+{
+    "subject_consistency": [
+        0.9592813735132416,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000241.mp4",
+                "video_results": 0.9610781987508138
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000711.mp4",
+                "video_results": 0.9603845171630383
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000201.mp4",
+                "video_results": 0.9721828304231167
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000171.mp4",
+                "video_results": 0.9049942009150982
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000301.mp4",
+                "video_results": 0.9638487125436465
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000211.mp4",
+                "video_results": 0.9384787609179814
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000801.mp4",
+                "video_results": 0.9694686469932398
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000031.mp4",
+                "video_results": 0.9514428469041983
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000971.mp4",
+                "video_results": 0.9486205175518989
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000141.mp4",
+                "video_results": 0.9611460223793984
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000761.mp4",
+                "video_results": 0.9884870174030463
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000961.mp4",
+                "video_results": 0.9310433700680733
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000121.mp4",
+                "video_results": 0.9572393504281839
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000541.mp4",
+                "video_results": 0.9408026948571205
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000551.mp4",
+                "video_results": 0.9914059430360794
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000081.mp4",
+                "video_results": 0.8278427831828594
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000041.mp4",
+                "video_results": 0.8931864077846209
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000951.mp4",
+                "video_results": 0.978399553646644
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000101.mp4",
+                "video_results": 0.9557826081911723
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000641.mp4",
+                "video_results": 0.9525347744425138
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000321.mp4",
+                "video_results": 0.9755213064452012
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000941.mp4",
+                "video_results": 0.9646579866607984
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000261.mp4",
+                "video_results": 0.9684990001221497
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000431.mp4",
+                "video_results": 0.8961568055053551
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000481.mp4",
+                "video_results": 0.9747315367062886
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000511.mp4",
+                "video_results": 0.8601564680536588
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000731.mp4",
+                "video_results": 0.9746453868846099
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000991.mp4",
+                "video_results": 0.9559760001798471
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000771.mp4",
+                "video_results": 0.9826584624747435
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000251.mp4",
+                "video_results": 0.9321117594838142
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000561.mp4",
+                "video_results": 0.9899185945590337
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000521.mp4",
+                "video_results": 0.9716220967471599
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000181.mp4",
+                "video_results": 0.9365988798439503
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000881.mp4",
+                "video_results": 0.9972547488907973
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000391.mp4",
+                "video_results": 0.9901209332048893
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000911.mp4",
+                "video_results": 0.9692688144743442
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000411.mp4",
+                "video_results": 0.9217208323379358
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000811.mp4",
+                "video_results": 0.9865273661911488
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000821.mp4",
+                "video_results": 0.9597608091930548
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000681.mp4",
+                "video_results": 0.995777802169323
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000221.mp4",
+                "video_results": 0.8806532238920529
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000131.mp4",
+                "video_results": 0.9691286171476047
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000011.mp4",
+                "video_results": 0.974750867486
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000001.mp4",
+                "video_results": 0.9824017678697904
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000671.mp4",
+                "video_results": 0.9712453330556552
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000531.mp4",
+                "video_results": 0.9698136913279692
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000191.mp4",
+                "video_results": 0.9680126669506232
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000091.mp4",
+                "video_results": 0.9221450890103976
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000861.mp4",
+                "video_results": 0.9347451306879521
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000331.mp4",
+                "video_results": 0.9748679558436076
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000491.mp4",
+                "video_results": 0.9795040259758632
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000741.mp4",
+                "video_results": 0.9479633207122485
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000581.mp4",
+                "video_results": 0.9720282604297003
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000061.mp4",
+                "video_results": 0.9785462655127048
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000051.mp4",
+                "video_results": 0.9502080964545409
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000441.mp4",
+                "video_results": 0.9407007798552514
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000631.mp4",
+                "video_results": 0.9801522781451543
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000381.mp4",
+                "video_results": 0.9567920585473378
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000981.mp4",
+                "video_results": 0.9893586533764999
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000841.mp4",
+                "video_results": 0.9977183406551678
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000891.mp4",
+                "video_results": 0.9873891308903694
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000901.mp4",
+                "video_results": 0.948026445756356
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000661.mp4",
+                "video_results": 0.9606444798409939
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000271.mp4",
+                "video_results": 0.8851129891971747
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000371.mp4",
+                "video_results": 0.9848362925151984
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000231.mp4",
+                "video_results": 0.9121403358876705
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000601.mp4",
+                "video_results": 0.9782822238902251
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000691.mp4",
+                "video_results": 0.9291881747543812
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000151.mp4",
+                "video_results": 0.9763892893989881
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000571.mp4",
+                "video_results": 0.9492043003439903
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000751.mp4",
+                "video_results": 0.9826490836838881
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000611.mp4",
+                "video_results": 0.972420388708512
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000871.mp4",
+                "video_results": 0.9501735053956508
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000071.mp4",
+                "video_results": 0.9421732929845651
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000931.mp4",
+                "video_results": 0.9720320130387942
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000831.mp4",
+                "video_results": 0.9539621700843175
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000501.mp4",
+                "video_results": 0.9836296285192172
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000341.mp4",
+                "video_results": 0.990385252982378
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000651.mp4",
+                "video_results": 0.9714524651567141
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000781.mp4",
+                "video_results": 0.9785664297640324
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000421.mp4",
+                "video_results": 0.9681974892814954
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000791.mp4",
+                "video_results": 0.9819652271767457
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000291.mp4",
+                "video_results": 0.9605766383310159
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000361.mp4",
+                "video_results": 0.9773967422544956
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000921.mp4",
+                "video_results": 0.9632074924806754
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000471.mp4",
+                "video_results": 0.9752566049496333
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000621.mp4",
+                "video_results": 0.8838886300722758
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000311.mp4",
+                "video_results": 0.9917434421678384
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000451.mp4",
+                "video_results": 0.9639139659702778
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000461.mp4",
+                "video_results": 0.9905941061675548
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000401.mp4",
+                "video_results": 0.9599784195423127
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000591.mp4",
+                "video_results": 0.9757275246083736
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000721.mp4",
+                "video_results": 0.9861228165527185
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000351.mp4",
+                "video_results": 0.9593324504792691
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000161.mp4",
+                "video_results": 0.9708066932857037
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000281.mp4",
+                "video_results": 0.9685588325063388
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000851.mp4",
+                "video_results": 0.933759002139171
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000021.mp4",
+                "video_results": 0.976947133988142
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000701.mp4",
+                "video_results": 0.9909340525666873
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000111.mp4",
+                "video_results": 0.9477804233630498
+            }
+        ]
+    ],
+    "background_consistency": [
+        0.9550628458658854,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000241.mp4",
+                "video_results": 0.975128173828125,
+                "video_sim": 117.015380859375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000711.mp4",
+                "video_results": 0.9343058268229166,
+                "video_sim": 112.11669921875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000201.mp4",
+                "video_results": 0.9411397298177083,
+                "video_sim": 112.936767578125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000171.mp4",
+                "video_results": 0.906500244140625,
+                "video_sim": 108.780029296875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000301.mp4",
+                "video_results": 0.926275634765625,
+                "video_sim": 111.153076171875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000211.mp4",
+                "video_results": 0.925091552734375,
+                "video_sim": 111.010986328125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000801.mp4",
+                "video_results": 0.9642110188802083,
+                "video_sim": 115.705322265625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000031.mp4",
+                "video_results": 0.9577046712239583,
+                "video_sim": 114.924560546875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000971.mp4",
+                "video_results": 0.9500956217447917,
+                "video_sim": 114.011474609375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000141.mp4",
+                "video_results": 0.9596944173177083,
+                "video_sim": 115.163330078125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000761.mp4",
+                "video_results": 0.9719645182291666,
+                "video_sim": 116.6357421875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000961.mp4",
+                "video_results": 0.9385009765625,
+                "video_sim": 112.6201171875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000121.mp4",
+                "video_results": 0.937030029296875,
+                "video_sim": 112.443603515625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000541.mp4",
+                "video_results": 0.9572733561197917,
+                "video_sim": 114.872802734375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000551.mp4",
+                "video_results": 0.9821818033854167,
+                "video_sim": 117.86181640625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000081.mp4",
+                "video_results": 0.9427652994791667,
+                "video_sim": 113.1318359375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000041.mp4",
+                "video_results": 0.9079243977864583,
+                "video_sim": 108.950927734375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000951.mp4",
+                "video_results": 0.954705810546875,
+                "video_sim": 114.564697265625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000101.mp4",
+                "video_results": 0.945928955078125,
+                "video_sim": 113.511474609375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000641.mp4",
+                "video_results": 0.9598103841145833,
+                "video_sim": 115.17724609375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000321.mp4",
+                "video_results": 0.976019287109375,
+                "video_sim": 117.122314453125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000941.mp4",
+                "video_results": 0.9566507975260417,
+                "video_sim": 114.798095703125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000261.mp4",
+                "video_results": 0.9653462727864583,
+                "video_sim": 115.841552734375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000431.mp4",
+                "video_results": 0.9051472981770833,
+                "video_sim": 108.61767578125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000481.mp4",
+                "video_results": 0.9614644368489583,
+                "video_sim": 115.375732421875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000511.mp4",
+                "video_results": 0.847955322265625,
+                "video_sim": 101.754638671875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000731.mp4",
+                "video_results": 0.9642374674479167,
+                "video_sim": 115.70849609375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000991.mp4",
+                "video_results": 0.9490030924479167,
+                "video_sim": 113.88037109375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000771.mp4",
+                "video_results": 0.9814371744791667,
+                "video_sim": 117.7724609375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000251.mp4",
+                "video_results": 0.928204345703125,
+                "video_sim": 111.384521484375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000561.mp4",
+                "video_results": 0.9871358235677083,
+                "video_sim": 118.456298828125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000521.mp4",
+                "video_results": 0.971099853515625,
+                "video_sim": 116.531982421875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000181.mp4",
+                "video_results": 0.9281331380208333,
+                "video_sim": 111.3759765625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000881.mp4",
+                "video_results": 0.9943074544270833,
+                "video_sim": 119.31689453125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000391.mp4",
+                "video_results": 0.9778951009114584,
+                "video_sim": 117.347412109375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000911.mp4",
+                "video_results": 0.99375,
+                "video_sim": 119.25,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000411.mp4",
+                "video_results": 0.929150390625,
+                "video_sim": 111.498046875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000811.mp4",
+                "video_results": 0.9674723307291667,
+                "video_sim": 116.0966796875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000821.mp4",
+                "video_results": 0.9604410807291667,
+                "video_sim": 115.2529296875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000681.mp4",
+                "video_results": 0.9768819173177083,
+                "video_sim": 117.225830078125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000221.mp4",
+                "video_results": 0.8984171549479166,
+                "video_sim": 107.81005859375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000131.mp4",
+                "video_results": 0.925958251953125,
+                "video_sim": 111.114990234375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000011.mp4",
+                "video_results": 0.9750101725260417,
+                "video_sim": 117.001220703125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000001.mp4",
+                "video_results": 0.972833251953125,
+                "video_sim": 116.739990234375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000671.mp4",
+                "video_results": 0.96234130859375,
+                "video_sim": 115.48095703125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000531.mp4",
+                "video_results": 0.969757080078125,
+                "video_sim": 116.370849609375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000191.mp4",
+                "video_results": 0.9470174153645833,
+                "video_sim": 113.64208984375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000091.mp4",
+                "video_results": 0.9193684895833333,
+                "video_sim": 110.32421875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000861.mp4",
+                "video_results": 0.9738016764322917,
+                "video_sim": 116.856201171875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000331.mp4",
+                "video_results": 0.9665913899739583,
+                "video_sim": 115.990966796875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000491.mp4",
+                "video_results": 0.9303426106770833,
+                "video_sim": 111.64111328125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000741.mp4",
+                "video_results": 0.9513834635416667,
+                "video_sim": 114.166015625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000581.mp4",
+                "video_results": 0.9849812825520833,
+                "video_sim": 118.19775390625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000061.mp4",
+                "video_results": 0.9671773274739583,
+                "video_sim": 116.061279296875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000051.mp4",
+                "video_results": 0.944940185546875,
+                "video_sim": 113.392822265625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000441.mp4",
+                "video_results": 0.9474100748697917,
+                "video_sim": 113.689208984375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000631.mp4",
+                "video_results": 0.9778361002604167,
+                "video_sim": 117.34033203125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000381.mp4",
+                "video_results": 0.95948486328125,
+                "video_sim": 115.13818359375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000981.mp4",
+                "video_results": 0.95640869140625,
+                "video_sim": 114.76904296875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000841.mp4",
+                "video_results": 0.9906656901041667,
+                "video_sim": 118.8798828125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000891.mp4",
+                "video_results": 0.9533345540364583,
+                "video_sim": 114.400146484375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000901.mp4",
+                "video_results": 0.9600423177083334,
+                "video_sim": 115.205078125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000661.mp4",
+                "video_results": 0.9564737955729167,
+                "video_sim": 114.77685546875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000271.mp4",
+                "video_results": 0.92796630859375,
+                "video_sim": 111.35595703125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000371.mp4",
+                "video_results": 0.9386515299479167,
+                "video_sim": 112.63818359375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000231.mp4",
+                "video_results": 0.9333638509114583,
+                "video_sim": 112.003662109375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000601.mp4",
+                "video_results": 0.9769083658854166,
+                "video_sim": 117.22900390625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000691.mp4",
+                "video_results": 0.9749267578125,
+                "video_sim": 116.9912109375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000151.mp4",
+                "video_results": 0.9728963216145833,
+                "video_sim": 116.74755859375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000571.mp4",
+                "video_results": 0.957244873046875,
+                "video_sim": 114.869384765625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000751.mp4",
+                "video_results": 0.9743876139322917,
+                "video_sim": 116.926513671875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000611.mp4",
+                "video_results": 0.9612080891927083,
+                "video_sim": 115.344970703125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000871.mp4",
+                "video_results": 0.9727925618489583,
+                "video_sim": 116.735107421875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000071.mp4",
+                "video_results": 0.9231282552083333,
+                "video_sim": 110.775390625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000931.mp4",
+                "video_results": 0.9696492513020833,
+                "video_sim": 116.35791015625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000831.mp4",
+                "video_results": 0.9541544596354167,
+                "video_sim": 114.49853515625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000501.mp4",
+                "video_results": 0.9765380859375,
+                "video_sim": 117.1845703125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000341.mp4",
+                "video_results": 0.9673624674479167,
+                "video_sim": 116.08349609375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000651.mp4",
+                "video_results": 0.989288330078125,
+                "video_sim": 118.714599609375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000781.mp4",
+                "video_results": 0.9499593098958333,
+                "video_sim": 113.9951171875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000421.mp4",
+                "video_results": 0.960723876953125,
+                "video_sim": 115.286865234375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000791.mp4",
+                "video_results": 0.944683837890625,
+                "video_sim": 113.362060546875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000291.mp4",
+                "video_results": 0.9843526204427083,
+                "video_sim": 118.122314453125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000361.mp4",
+                "video_results": 0.965966796875,
+                "video_sim": 115.916015625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000921.mp4",
+                "video_results": 0.9590779622395833,
+                "video_sim": 115.08935546875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000471.mp4",
+                "video_results": 0.9557474772135417,
+                "video_sim": 114.689697265625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000621.mp4",
+                "video_results": 0.9029683430989583,
+                "video_sim": 108.356201171875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000311.mp4",
+                "video_results": 0.9845662434895833,
+                "video_sim": 118.14794921875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000451.mp4",
+                "video_results": 0.9598714192708333,
+                "video_sim": 115.1845703125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000461.mp4",
+                "video_results": 0.9648783365885417,
+                "video_sim": 115.785400390625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000401.mp4",
+                "video_results": 0.9771565755208333,
+                "video_sim": 117.2587890625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000591.mp4",
+                "video_results": 0.9775410970052083,
+                "video_sim": 117.304931640625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000721.mp4",
+                "video_results": 0.9505818684895834,
+                "video_sim": 114.06982421875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000351.mp4",
+                "video_results": 0.9628885904947917,
+                "video_sim": 115.546630859375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000161.mp4",
+                "video_results": 0.9670166015625,
+                "video_sim": 116.0419921875,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000281.mp4",
+                "video_results": 0.9350382486979166,
+                "video_sim": 112.20458984375,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000851.mp4",
+                "video_results": 0.9576375325520833,
+                "video_sim": 114.91650390625,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000021.mp4",
+                "video_results": 0.952777099609375,
+                "video_sim": 114.333251953125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000701.mp4",
+                "video_results": 0.9580179850260416,
+                "video_sim": 114.962158203125,
+                "cnt_per_video": 120
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000111.mp4",
+                "video_results": 0.912823486328125,
+                "video_sim": 109.538818359375,
+                "cnt_per_video": 120
+            }
+        ]
+    ],
+    "temporal_flickering": [
+        0.9667389231289133,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000241.mp4",
+                "video_results": 0.9940723143371881
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000711.mp4",
+                "video_results": 0.9438711465573778
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000201.mp4",
+                "video_results": 0.9780038627923704
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000171.mp4",
+                "video_results": 0.9372376385857077
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000301.mp4",
+                "video_results": 0.9489820891735601
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000211.mp4",
+                "video_results": 0.9413113126567766
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000801.mp4",
+                "video_results": 0.9969954383139517
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000031.mp4",
+                "video_results": 0.9664386113484701
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000971.mp4",
+                "video_results": 0.9164984684364469
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000141.mp4",
+                "video_results": 0.9770047169105679
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000761.mp4",
+                "video_results": 0.9904235419105081
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000961.mp4",
+                "video_results": 0.9363274892171224
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000121.mp4",
+                "video_results": 0.9631534352022059
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000541.mp4",
+                "video_results": 0.9546869165757124
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000551.mp4",
+                "video_results": 0.9782113898034189
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000081.mp4",
+                "video_results": 0.946447982040106
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000041.mp4",
+                "video_results": 0.9669982872757257
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000951.mp4",
+                "video_results": 0.9670605491189396
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000101.mp4",
+                "video_results": 0.9863662485982857
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000641.mp4",
+                "video_results": 0.9201201270608341
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000321.mp4",
+                "video_results": 0.9231298858044195
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000941.mp4",
+                "video_results": 0.9673986023547603
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000261.mp4",
+                "video_results": 0.9896789765825459
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000431.mp4",
+                "video_results": 0.9472991120581533
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000481.mp4",
+                "video_results": 0.9756641144846
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000511.mp4",
+                "video_results": 0.9299774543911803
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000731.mp4",
+                "video_results": 0.9852002190608604
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000991.mp4",
+                "video_results": 0.945679739409802
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000771.mp4",
+                "video_results": 0.9842890103658041
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000251.mp4",
+                "video_results": 0.9622413111668007
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000561.mp4",
+                "video_results": 0.9931772657469207
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000521.mp4",
+                "video_results": 0.9680468129176719
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000181.mp4",
+                "video_results": 0.9709621055453431
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000881.mp4",
+                "video_results": 0.9980124029458738
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000391.mp4",
+                "video_results": 0.9842695124009077
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000911.mp4",
+                "video_results": 0.9678368961109834
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000411.mp4",
+                "video_results": 0.9535996754964192
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000811.mp4",
+                "video_results": 0.989443478864782
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000821.mp4",
+                "video_results": 0.9078001882515702
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000681.mp4",
+                "video_results": 0.9715390785067689
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000221.mp4",
+                "video_results": 0.9503002690333946
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000131.mp4",
+                "video_results": 0.9520475088381299
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000011.mp4",
+                "video_results": 0.9599952847349877
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000001.mp4",
+                "video_results": 0.9699770964828192
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000671.mp4",
+                "video_results": 0.9636537626677868
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000531.mp4",
+                "video_results": 0.9897097662383435
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000191.mp4",
+                "video_results": 0.971475954616771
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000091.mp4",
+                "video_results": 0.9699415898790547
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000861.mp4",
+                "video_results": 0.9441200929529526
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000331.mp4",
+                "video_results": 0.9565076715805951
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000491.mp4",
+                "video_results": 0.9566049688002642
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000741.mp4",
+                "video_results": 0.9293510661405675
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000581.mp4",
+                "video_results": 0.9833498767777985
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000061.mp4",
+                "video_results": 0.9922534507863662
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000051.mp4",
+                "video_results": 0.9795521025564157
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000441.mp4",
+                "video_results": 0.9722186836541867
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000631.mp4",
+                "video_results": 0.9852503655003566
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000381.mp4",
+                "video_results": 0.9766454341364842
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000981.mp4",
+                "video_results": 0.9537322437061982
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000841.mp4",
+                "video_results": 0.9957984676548078
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000891.mp4",
+                "video_results": 0.98440533619301
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000901.mp4",
+                "video_results": 0.9552101509243834
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000661.mp4",
+                "video_results": 0.9478014889885398
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000271.mp4",
+                "video_results": 0.9352021086449717
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000371.mp4",
+                "video_results": 0.9632164412853764
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000231.mp4",
+                "video_results": 0.9399669609817805
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000601.mp4",
+                "video_results": 0.997628963694853
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000691.mp4",
+                "video_results": 0.9622416178385417
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000151.mp4",
+                "video_results": 0.9854267447602515
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000571.mp4",
+                "video_results": 0.9824822033152861
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000751.mp4",
+                "video_results": 0.9847598590102851
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000611.mp4",
+                "video_results": 0.9831034866033815
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000871.mp4",
+                "video_results": 0.9885385737699621
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000071.mp4",
+                "video_results": 0.9796041974834367
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000931.mp4",
+                "video_results": 0.9806705325257544
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000831.mp4",
+                "video_results": 0.9633698369942459
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000501.mp4",
+                "video_results": 0.9380080802767885
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000341.mp4",
+                "video_results": 0.9577188267427332
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000651.mp4",
+                "video_results": 0.9876183911865832
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000781.mp4",
+                "video_results": 0.9699278775383444
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000421.mp4",
+                "video_results": 0.9530810113046684
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000791.mp4",
+                "video_results": 0.9613660475786995
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000291.mp4",
+                "video_results": 0.9833927042344037
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000361.mp4",
+                "video_results": 0.9635899338067747
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000921.mp4",
+                "video_results": 0.9704776651719037
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000471.mp4",
+                "video_results": 0.9801472701278388
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000621.mp4",
+                "video_results": 0.9586411644430721
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000311.mp4",
+                "video_results": 0.990252851972393
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000451.mp4",
+                "video_results": 0.9707833028307148
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000461.mp4",
+                "video_results": 0.9705597559611002
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000401.mp4",
+                "video_results": 0.976978707781025
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000591.mp4",
+                "video_results": 0.9465051052617092
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000721.mp4",
+                "video_results": 0.989038464602302
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000351.mp4",
+                "video_results": 0.9434648027607039
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000161.mp4",
+                "video_results": 0.9889474204942292
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000281.mp4",
+                "video_results": 0.9765857210346297
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000851.mp4",
+                "video_results": 0.9592053693883559
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000021.mp4",
+                "video_results": 0.94576322518143
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000701.mp4",
+                "video_results": 0.9908739520054237
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000111.mp4",
+                "video_results": 0.9893930930717318
+            }
+        ]
+    ],
+    "motion_smoothness": [
+        0.9834737543674598,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000241.mp4",
+                "video_results": 0.9951228136338117
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000711.mp4",
+                "video_results": 0.9838959584553814
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000201.mp4",
+                "video_results": 0.9924864001285262
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000171.mp4",
+                "video_results": 0.9673915512617858
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000301.mp4",
+                "video_results": 0.9800217548809839
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000211.mp4",
+                "video_results": 0.9788995296708891
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000801.mp4",
+                "video_results": 0.9965305272394341
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000031.mp4",
+                "video_results": 0.9875436525913756
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000971.mp4",
+                "video_results": 0.9476147605385725
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000141.mp4",
+                "video_results": 0.9917009017674941
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000761.mp4",
+                "video_results": 0.9926380410027171
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000961.mp4",
+                "video_results": 0.982517963097307
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000121.mp4",
+                "video_results": 0.9847593543282495
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000541.mp4",
+                "video_results": 0.984944008363794
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000551.mp4",
+                "video_results": 0.9882888636488742
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000081.mp4",
+                "video_results": 0.9796208171672288
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000041.mp4",
+                "video_results": 0.9804660382870052
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000951.mp4",
+                "video_results": 0.9773556211357609
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000101.mp4",
+                "video_results": 0.9917829089380462
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000641.mp4",
+                "video_results": 0.9539903527371558
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000321.mp4",
+                "video_results": 0.9686397216257863
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000941.mp4",
+                "video_results": 0.9796666180879461
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000261.mp4",
+                "video_results": 0.9937104603049733
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000431.mp4",
+                "video_results": 0.981699756677322
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000481.mp4",
+                "video_results": 0.9869000380717133
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000511.mp4",
+                "video_results": 0.9775670983170971
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000731.mp4",
+                "video_results": 0.9932413207928651
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000991.mp4",
+                "video_results": 0.9827584048693596
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000771.mp4",
+                "video_results": 0.9901477370364051
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000251.mp4",
+                "video_results": 0.9749089435217689
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000561.mp4",
+                "video_results": 0.9940251963172335
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000521.mp4",
+                "video_results": 0.9902734484403519
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000181.mp4",
+                "video_results": 0.991009072173904
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000881.mp4",
+                "video_results": 0.9975472069605201
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000391.mp4",
+                "video_results": 0.9893526719335193
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000911.mp4",
+                "video_results": 0.9910037393304707
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000411.mp4",
+                "video_results": 0.9797695794480319
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000811.mp4",
+                "video_results": 0.9942030095908497
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000821.mp4",
+                "video_results": 0.9642002959210441
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000681.mp4",
+                "video_results": 0.9793268364613561
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000221.mp4",
+                "video_results": 0.9856386767029862
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000131.mp4",
+                "video_results": 0.9829679071659584
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000011.mp4",
+                "video_results": 0.9812544493788812
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000001.mp4",
+                "video_results": 0.9801785084573795
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000671.mp4",
+                "video_results": 0.9834465194752069
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000531.mp4",
+                "video_results": 0.9901125622749739
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000191.mp4",
+                "video_results": 0.9902747376763322
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000091.mp4",
+                "video_results": 0.9887354699673498
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000861.mp4",
+                "video_results": 0.955216234170894
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000331.mp4",
+                "video_results": 0.9793035914332782
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000491.mp4",
+                "video_results": 0.9819982330851272
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000741.mp4",
+                "video_results": 0.9687395763172768
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000581.mp4",
+                "video_results": 0.9869672617136552
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000061.mp4",
+                "video_results": 0.9943422193611512
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000051.mp4",
+                "video_results": 0.9904447026616556
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000441.mp4",
+                "video_results": 0.9781538120839891
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000631.mp4",
+                "video_results": 0.9922731579748968
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000381.mp4",
+                "video_results": 0.9873103304979641
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000981.mp4",
+                "video_results": 0.9783142950751609
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000841.mp4",
+                "video_results": 0.9951636251136231
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000891.mp4",
+                "video_results": 0.9900214317759224
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000901.mp4",
+                "video_results": 0.9825712743294928
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000661.mp4",
+                "video_results": 0.9729266987381572
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000271.mp4",
+                "video_results": 0.9704356031706712
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000371.mp4",
+                "video_results": 0.9762234455955047
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000231.mp4",
+                "video_results": 0.9729529890265459
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000601.mp4",
+                "video_results": 0.9969298106830263
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000691.mp4",
+                "video_results": 0.979860506581061
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000151.mp4",
+                "video_results": 0.9910825619691421
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000571.mp4",
+                "video_results": 0.9900004087955905
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000751.mp4",
+                "video_results": 0.9909416032546078
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000611.mp4",
+                "video_results": 0.990706889957578
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000871.mp4",
+                "video_results": 0.9917880398563818
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000071.mp4",
+                "video_results": 0.9910880576726115
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000931.mp4",
+                "video_results": 0.9908552664264243
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000831.mp4",
+                "video_results": 0.974768707599821
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000501.mp4",
+                "video_results": 0.9659664740011982
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000341.mp4",
+                "video_results": 0.979712657490547
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000651.mp4",
+                "video_results": 0.988331721010081
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000781.mp4",
+                "video_results": 0.9886171884677319
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000421.mp4",
+                "video_results": 0.9708522912555229
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000791.mp4",
+                "video_results": 0.9795890400165983
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000291.mp4",
+                "video_results": 0.9876456120820593
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000361.mp4",
+                "video_results": 0.9740227190123977
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000921.mp4",
+                "video_results": 0.9882385363398716
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000471.mp4",
+                "video_results": 0.9889154355195081
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000621.mp4",
+                "video_results": 0.9852950427205268
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000311.mp4",
+                "video_results": 0.9937674626340195
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000451.mp4",
+                "video_results": 0.9823700194750362
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000461.mp4",
+                "video_results": 0.9767501080728882
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000401.mp4",
+                "video_results": 0.9793955751730475
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000591.mp4",
+                "video_results": 0.9681250970578217
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000721.mp4",
+                "video_results": 0.9894578477275775
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000351.mp4",
+                "video_results": 0.9707375123229278
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000161.mp4",
+                "video_results": 0.9930499233912082
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000281.mp4",
+                "video_results": 0.9865018406226034
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000851.mp4",
+                "video_results": 0.9855843925088326
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000021.mp4",
+                "video_results": 0.9757535095368275
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000701.mp4",
+                "video_results": 0.9932403629872871
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000111.mp4",
+                "video_results": 0.9939429265426557
+            }
+        ]
+    ],
+    "dynamic_degree": [
+        0.7,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000241.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000711.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000201.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000171.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000301.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000211.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000801.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000031.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000971.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000141.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000761.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000961.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000121.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000541.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000551.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000081.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000041.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000951.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000101.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000641.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000321.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000941.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000261.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000431.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000481.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000511.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000731.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000991.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000771.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000251.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000561.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000521.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000181.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000881.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000391.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000911.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000411.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000811.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000821.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000681.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000221.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000131.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000011.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000001.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000671.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000531.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000191.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000091.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000861.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000331.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000491.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000741.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000581.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000061.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000051.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000441.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000631.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000381.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000981.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000841.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000891.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000901.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000661.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000271.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000371.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000231.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000601.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000691.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000151.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000571.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000751.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000611.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000871.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000071.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000931.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000831.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000501.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000341.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000651.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000781.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000421.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000791.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000291.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000361.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000921.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000471.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000621.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000311.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000451.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000461.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000401.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000591.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000721.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000351.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000161.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000281.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000851.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000021.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000701.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000111.mp4",
+                "video_results": false
+            }
+        ]
+    ],
+    "aesthetic_quality": [
+        0.5949576833844185,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000241.mp4",
+                "video_results": 0.5738191604614258
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000711.mp4",
+                "video_results": 0.4724816381931305
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000201.mp4",
+                "video_results": 0.6706573963165283
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000171.mp4",
+                "video_results": 0.6978291869163513
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000301.mp4",
+                "video_results": 0.6002213954925537
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000211.mp4",
+                "video_results": 0.668449878692627
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000801.mp4",
+                "video_results": 0.5967480540275574
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000031.mp4",
+                "video_results": 0.5960002541542053
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000971.mp4",
+                "video_results": 0.447987824678421
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000141.mp4",
+                "video_results": 0.6191619634628296
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000761.mp4",
+                "video_results": 0.610621452331543
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000961.mp4",
+                "video_results": 0.6437122225761414
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000121.mp4",
+                "video_results": 0.5732536315917969
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000541.mp4",
+                "video_results": 0.5516197085380554
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000551.mp4",
+                "video_results": 0.6917904615402222
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000081.mp4",
+                "video_results": 0.5008054971694946
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000041.mp4",
+                "video_results": 0.44449177384376526
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000951.mp4",
+                "video_results": 0.5844494104385376
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000101.mp4",
+                "video_results": 0.5813294649124146
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000641.mp4",
+                "video_results": 0.6083953380584717
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000321.mp4",
+                "video_results": 0.5030893087387085
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000941.mp4",
+                "video_results": 0.6492788791656494
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000261.mp4",
+                "video_results": 0.649301290512085
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000431.mp4",
+                "video_results": 0.6512107849121094
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000481.mp4",
+                "video_results": 0.6412640810012817
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000511.mp4",
+                "video_results": 0.5011776685714722
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000731.mp4",
+                "video_results": 0.7200855612754822
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000991.mp4",
+                "video_results": 0.6466339230537415
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000771.mp4",
+                "video_results": 0.6905575394630432
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000251.mp4",
+                "video_results": 0.7462870478630066
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000561.mp4",
+                "video_results": 0.6487352252006531
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000521.mp4",
+                "video_results": 0.6109827756881714
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000181.mp4",
+                "video_results": 0.5338152050971985
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000881.mp4",
+                "video_results": 0.6898882985115051
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000391.mp4",
+                "video_results": 0.6553753018379211
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000911.mp4",
+                "video_results": 0.7131235003471375
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000411.mp4",
+                "video_results": 0.49947166442871094
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000811.mp4",
+                "video_results": 0.5843066573143005
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000821.mp4",
+                "video_results": 0.7161528468132019
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000681.mp4",
+                "video_results": 0.6835380792617798
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000221.mp4",
+                "video_results": 0.43926095962524414
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000131.mp4",
+                "video_results": 0.6574791669845581
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000011.mp4",
+                "video_results": 0.7000308632850647
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000001.mp4",
+                "video_results": 0.6109134554862976
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000671.mp4",
+                "video_results": 0.5055348873138428
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000531.mp4",
+                "video_results": 0.4429309666156769
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000191.mp4",
+                "video_results": 0.5828280448913574
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000091.mp4",
+                "video_results": 0.5116993188858032
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000861.mp4",
+                "video_results": 0.5983176231384277
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000331.mp4",
+                "video_results": 0.7630830407142639
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000491.mp4",
+                "video_results": 0.5957431793212891
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000741.mp4",
+                "video_results": 0.7100653648376465
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000581.mp4",
+                "video_results": 0.6099295616149902
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000061.mp4",
+                "video_results": 0.6258889436721802
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000051.mp4",
+                "video_results": 0.44711434841156006
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000441.mp4",
+                "video_results": 0.5216308236122131
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000631.mp4",
+                "video_results": 0.6022822260856628
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000381.mp4",
+                "video_results": 0.5366718769073486
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000981.mp4",
+                "video_results": 0.699360728263855
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000841.mp4",
+                "video_results": 0.46143513917922974
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000891.mp4",
+                "video_results": 0.5429688692092896
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000901.mp4",
+                "video_results": 0.5755717754364014
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000661.mp4",
+                "video_results": 0.6632798314094543
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000271.mp4",
+                "video_results": 0.5232416391372681
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000371.mp4",
+                "video_results": 0.5623503923416138
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000231.mp4",
+                "video_results": 0.5490207672119141
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000601.mp4",
+                "video_results": 0.566372275352478
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000691.mp4",
+                "video_results": 0.7277963757514954
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000151.mp4",
+                "video_results": 0.5682171583175659
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000571.mp4",
+                "video_results": 0.6477847695350647
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000751.mp4",
+                "video_results": 0.5861007571220398
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000611.mp4",
+                "video_results": 0.5103838443756104
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000871.mp4",
+                "video_results": 0.6063316464424133
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000071.mp4",
+                "video_results": 0.39278092980384827
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000931.mp4",
+                "video_results": 0.5277377367019653
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000831.mp4",
+                "video_results": 0.6368762254714966
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000501.mp4",
+                "video_results": 0.5244759917259216
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000341.mp4",
+                "video_results": 0.5474787950515747
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000651.mp4",
+                "video_results": 0.6240783929824829
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000781.mp4",
+                "video_results": 0.5048841238021851
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000421.mp4",
+                "video_results": 0.5133463740348816
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000791.mp4",
+                "video_results": 0.6879417300224304
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000291.mp4",
+                "video_results": 0.7383959889411926
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000361.mp4",
+                "video_results": 0.38505133986473083
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000921.mp4",
+                "video_results": 0.6390930414199829
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000471.mp4",
+                "video_results": 0.6066160202026367
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000621.mp4",
+                "video_results": 0.520000696182251
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000311.mp4",
+                "video_results": 0.6391315460205078
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000451.mp4",
+                "video_results": 0.6115812063217163
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000461.mp4",
+                "video_results": 0.687409520149231
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000401.mp4",
+                "video_results": 0.5651892423629761
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000591.mp4",
+                "video_results": 0.6241100430488586
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000721.mp4",
+                "video_results": 0.44371530413627625
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000351.mp4",
+                "video_results": 0.6688444018363953
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000161.mp4",
+                "video_results": 0.6179686784744263
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000281.mp4",
+                "video_results": 0.6188244223594666
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000851.mp4",
+                "video_results": 0.5306999683380127
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000021.mp4",
+                "video_results": 0.739780843257904
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000701.mp4",
+                "video_results": 0.6075452566146851
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000111.mp4",
+                "video_results": 0.57248854637146
+            }
+        ]
+    ],
+    "imaging_quality": [
+        0.7096059235281196,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000241.mp4",
+                "video_results": 70.56406579135863
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000711.mp4",
+                "video_results": 73.70616559745852
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000201.mp4",
+                "video_results": 70.90507292944538
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000171.mp4",
+                "video_results": 71.42179892673965
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000301.mp4",
+                "video_results": 77.61071039625436
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000211.mp4",
+                "video_results": 74.74012724821233
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000801.mp4",
+                "video_results": 70.33273573946362
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000031.mp4",
+                "video_results": 75.33208497102595
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000971.mp4",
+                "video_results": 64.39196465232156
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000141.mp4",
+                "video_results": 62.30813403168985
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000761.mp4",
+                "video_results": 76.54779115787223
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000961.mp4",
+                "video_results": 72.91786540638317
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000121.mp4",
+                "video_results": 68.7239625473653
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000541.mp4",
+                "video_results": 77.17280332707176
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000551.mp4",
+                "video_results": 73.51991978164547
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000081.mp4",
+                "video_results": 63.89858469687218
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000041.mp4",
+                "video_results": 74.10389441498054
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000951.mp4",
+                "video_results": 70.92049855634201
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000101.mp4",
+                "video_results": 72.1520672632643
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000641.mp4",
+                "video_results": 65.31650546365533
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000321.mp4",
+                "video_results": 74.28985381323444
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000941.mp4",
+                "video_results": 70.9420249875912
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000261.mp4",
+                "video_results": 73.98415305397727
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000431.mp4",
+                "video_results": 71.55147353873765
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000481.mp4",
+                "video_results": 64.4283047825837
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000511.mp4",
+                "video_results": 73.3125646922214
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000731.mp4",
+                "video_results": 70.74184121376227
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000991.mp4",
+                "video_results": 66.11982875224973
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000771.mp4",
+                "video_results": 67.30898568649923
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000251.mp4",
+                "video_results": 77.59945306699139
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000561.mp4",
+                "video_results": 68.40969344210033
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000521.mp4",
+                "video_results": 71.42883332307673
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000181.mp4",
+                "video_results": 68.9152218211781
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000881.mp4",
+                "video_results": 65.64939798402392
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000391.mp4",
+                "video_results": 77.97021017783929
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000911.mp4",
+                "video_results": 48.07315968284922
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000411.mp4",
+                "video_results": 65.39762336163481
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000811.mp4",
+                "video_results": 72.16631909835436
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000821.mp4",
+                "video_results": 65.48782055437073
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000681.mp4",
+                "video_results": 72.11668036594864
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000221.mp4",
+                "video_results": 55.460144074495176
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000131.mp4",
+                "video_results": 73.27385440542679
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000011.mp4",
+                "video_results": 72.07695530662852
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000001.mp4",
+                "video_results": 74.66523068010315
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000671.mp4",
+                "video_results": 78.41919853273502
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000531.mp4",
+                "video_results": 70.51958490797311
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000191.mp4",
+                "video_results": 73.30925902059255
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000091.mp4",
+                "video_results": 72.68450782712826
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000861.mp4",
+                "video_results": 72.97630738817956
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000331.mp4",
+                "video_results": 76.25848495861716
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000491.mp4",
+                "video_results": 77.59019035150197
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000741.mp4",
+                "video_results": 71.00966600150116
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000581.mp4",
+                "video_results": 64.72670935008152
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000061.mp4",
+                "video_results": 55.63880220523551
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000051.mp4",
+                "video_results": 75.91985396708338
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000441.mp4",
+                "video_results": 77.07009389577819
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000631.mp4",
+                "video_results": 73.30568978806173
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000381.mp4",
+                "video_results": 76.81885768165273
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000981.mp4",
+                "video_results": 77.92299040486989
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000841.mp4",
+                "video_results": 75.73800350220735
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000891.mp4",
+                "video_results": 67.60295540045115
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000901.mp4",
+                "video_results": 78.6348757152715
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000661.mp4",
+                "video_results": 78.96252315300555
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000271.mp4",
+                "video_results": 67.03313950467701
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000371.mp4",
+                "video_results": 73.02838002354646
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000231.mp4",
+                "video_results": 74.3862869010484
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000601.mp4",
+                "video_results": 43.87988196128656
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000691.mp4",
+                "video_results": 74.37989100937016
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000151.mp4",
+                "video_results": 66.26223184254543
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000571.mp4",
+                "video_results": 69.213356806227
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000751.mp4",
+                "video_results": 78.89635858456951
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000611.mp4",
+                "video_results": 68.51976126678719
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000871.mp4",
+                "video_results": 75.27086248476643
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000071.mp4",
+                "video_results": 56.433950471483975
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000931.mp4",
+                "video_results": 67.62624179430244
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000831.mp4",
+                "video_results": 65.6250748122034
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000501.mp4",
+                "video_results": 71.56166940484165
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000341.mp4",
+                "video_results": 70.27313169369027
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000651.mp4",
+                "video_results": 65.14387020394821
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000781.mp4",
+                "video_results": 73.27862517301702
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000421.mp4",
+                "video_results": 77.59071841909866
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000791.mp4",
+                "video_results": 79.17041721816891
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000291.mp4",
+                "video_results": 60.77168264467854
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000361.mp4",
+                "video_results": 69.80876714533025
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000921.mp4",
+                "video_results": 77.61298641488571
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000471.mp4",
+                "video_results": 75.2035580469557
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000621.mp4",
+                "video_results": 72.87916918037351
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000311.mp4",
+                "video_results": 74.13459399514947
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000451.mp4",
+                "video_results": 79.53087269176136
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000461.mp4",
+                "video_results": 69.19117383720462
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000401.mp4",
+                "video_results": 78.11820605569635
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000591.mp4",
+                "video_results": 65.95874326091167
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000721.mp4",
+                "video_results": 77.27689279603564
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000351.mp4",
+                "video_results": 69.21459005686863
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000161.mp4",
+                "video_results": 68.58252936749419
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000281.mp4",
+                "video_results": 71.87363162710648
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000851.mp4",
+                "video_results": 72.15432178087471
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000021.mp4",
+                "video_results": 71.9115277755359
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000701.mp4",
+                "video_results": 70.75381816517223
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000111.mp4",
+                "video_results": 70.44338604635443
+            }
+        ]
+    ],
+    "temporal_style": [
+        0.21950560621917248,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000241.mp4",
+                "video_results": 0.2254020869731903
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000711.mp4",
+                "video_results": 0.22704540193080902
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000201.mp4",
+                "video_results": 0.1736738383769989
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000171.mp4",
+                "video_results": 0.25328564643859863
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000301.mp4",
+                "video_results": 0.13745951652526855
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000211.mp4",
+                "video_results": 0.1835842877626419
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000801.mp4",
+                "video_results": 0.2024916261434555
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000031.mp4",
+                "video_results": 0.24983060359954834
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000971.mp4",
+                "video_results": 0.23935803771018982
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000141.mp4",
+                "video_results": 0.2755868434906006
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000761.mp4",
+                "video_results": 0.13000355660915375
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000961.mp4",
+                "video_results": 0.19201387465000153
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000121.mp4",
+                "video_results": 0.2526244819164276
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000541.mp4",
+                "video_results": 0.18645817041397095
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000551.mp4",
+                "video_results": 0.2526426911354065
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000081.mp4",
+                "video_results": 0.23860222101211548
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000041.mp4",
+                "video_results": 0.20012468099594116
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000951.mp4",
+                "video_results": 0.277807354927063
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000101.mp4",
+                "video_results": 0.21066634356975555
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000641.mp4",
+                "video_results": 0.25756973028182983
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000321.mp4",
+                "video_results": 0.155626118183136
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000941.mp4",
+                "video_results": 0.262652188539505
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000261.mp4",
+                "video_results": 0.2136257290840149
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000431.mp4",
+                "video_results": 0.07193880528211594
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000481.mp4",
+                "video_results": 0.17213556170463562
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000511.mp4",
+                "video_results": 0.21977290511131287
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000731.mp4",
+                "video_results": 0.1490374058485031
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000991.mp4",
+                "video_results": 0.33573341369628906
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000771.mp4",
+                "video_results": 0.17741286754608154
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000251.mp4",
+                "video_results": 0.28027305006980896
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000561.mp4",
+                "video_results": 0.21279844641685486
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000521.mp4",
+                "video_results": 0.2042820155620575
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000181.mp4",
+                "video_results": 0.22547340393066406
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000881.mp4",
+                "video_results": 0.2986244857311249
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000391.mp4",
+                "video_results": 0.2224770188331604
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000911.mp4",
+                "video_results": 0.15503205358982086
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000411.mp4",
+                "video_results": 0.24832797050476074
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000811.mp4",
+                "video_results": 0.2799098491668701
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000821.mp4",
+                "video_results": 0.2838576138019562
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000681.mp4",
+                "video_results": 0.2971190810203552
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000221.mp4",
+                "video_results": 0.1525195837020874
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000131.mp4",
+                "video_results": 0.16371721029281616
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000011.mp4",
+                "video_results": 0.1838258057832718
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000001.mp4",
+                "video_results": 0.22592231631278992
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000671.mp4",
+                "video_results": 0.19008228182792664
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000531.mp4",
+                "video_results": 0.2278035432100296
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000191.mp4",
+                "video_results": 0.18036362528800964
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000091.mp4",
+                "video_results": 0.21218401193618774
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000861.mp4",
+                "video_results": 0.24427875876426697
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000331.mp4",
+                "video_results": 0.2093401998281479
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000491.mp4",
+                "video_results": 0.19959965348243713
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000741.mp4",
+                "video_results": 0.257948637008667
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000581.mp4",
+                "video_results": 0.2641910910606384
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000061.mp4",
+                "video_results": 0.147287517786026
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000051.mp4",
+                "video_results": 0.28915852308273315
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000441.mp4",
+                "video_results": 0.26171010732650757
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000631.mp4",
+                "video_results": 0.19423462450504303
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000381.mp4",
+                "video_results": 0.2580030560493469
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000981.mp4",
+                "video_results": 0.257377564907074
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000841.mp4",
+                "video_results": 0.3023413419723511
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000891.mp4",
+                "video_results": 0.26688632369041443
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000901.mp4",
+                "video_results": 0.18319834768772125
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000661.mp4",
+                "video_results": 0.3549656867980957
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000271.mp4",
+                "video_results": 0.19989438354969025
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000371.mp4",
+                "video_results": 0.23397359251976013
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000231.mp4",
+                "video_results": 0.20675067603588104
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000601.mp4",
+                "video_results": 0.2044607400894165
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000691.mp4",
+                "video_results": 0.18837369978427887
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000151.mp4",
+                "video_results": 0.2635447382926941
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000571.mp4",
+                "video_results": 0.2764837145805359
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000751.mp4",
+                "video_results": 0.22355814278125763
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000611.mp4",
+                "video_results": 0.21501317620277405
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000871.mp4",
+                "video_results": 0.25799864530563354
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000071.mp4",
+                "video_results": 0.16742336750030518
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000931.mp4",
+                "video_results": 0.20541806519031525
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000831.mp4",
+                "video_results": 0.21148578822612762
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000501.mp4",
+                "video_results": 0.16981548070907593
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000341.mp4",
+                "video_results": 0.24056100845336914
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000651.mp4",
+                "video_results": 0.21276412904262543
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000781.mp4",
+                "video_results": 0.14520323276519775
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000421.mp4",
+                "video_results": 0.17707182466983795
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000791.mp4",
+                "video_results": 0.2062622606754303
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000291.mp4",
+                "video_results": 0.1776493787765503
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000361.mp4",
+                "video_results": 0.21030718088150024
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000921.mp4",
+                "video_results": 0.2502173185348511
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000471.mp4",
+                "video_results": 0.23571762442588806
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000621.mp4",
+                "video_results": 0.1744696944952011
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000311.mp4",
+                "video_results": 0.18338964879512787
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000451.mp4",
+                "video_results": 0.30337271094322205
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000461.mp4",
+                "video_results": 0.12276439368724823
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000401.mp4",
+                "video_results": 0.2542921304702759
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000591.mp4",
+                "video_results": 0.2526266872882843
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000721.mp4",
+                "video_results": 0.17667651176452637
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000351.mp4",
+                "video_results": 0.2478310763835907
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000161.mp4",
+                "video_results": 0.207594096660614
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000281.mp4",
+                "video_results": 0.15965653955936432
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000851.mp4",
+                "video_results": 0.2233620584011078
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000021.mp4",
+                "video_results": 0.24050413072109222
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000701.mp4",
+                "video_results": 0.2634872794151306
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000111.mp4",
+                "video_results": 0.20130470395088196
+            }
+        ]
+    ],
+    "overall_consistency": [
+        0.21950560621917248,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000241.mp4",
+                "video_results": 0.2254020869731903
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000711.mp4",
+                "video_results": 0.22704540193080902
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000201.mp4",
+                "video_results": 0.1736738383769989
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000171.mp4",
+                "video_results": 0.25328564643859863
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000301.mp4",
+                "video_results": 0.13745951652526855
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000211.mp4",
+                "video_results": 0.1835842877626419
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000801.mp4",
+                "video_results": 0.2024916261434555
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000031.mp4",
+                "video_results": 0.24983060359954834
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000971.mp4",
+                "video_results": 0.23935803771018982
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000141.mp4",
+                "video_results": 0.2755868434906006
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000761.mp4",
+                "video_results": 0.13000355660915375
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000961.mp4",
+                "video_results": 0.19201387465000153
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000121.mp4",
+                "video_results": 0.2526244819164276
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000541.mp4",
+                "video_results": 0.18645817041397095
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000551.mp4",
+                "video_results": 0.2526426911354065
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000081.mp4",
+                "video_results": 0.23860222101211548
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000041.mp4",
+                "video_results": 0.20012468099594116
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000951.mp4",
+                "video_results": 0.277807354927063
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000101.mp4",
+                "video_results": 0.21066634356975555
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000641.mp4",
+                "video_results": 0.25756973028182983
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000321.mp4",
+                "video_results": 0.155626118183136
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000941.mp4",
+                "video_results": 0.262652188539505
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000261.mp4",
+                "video_results": 0.2136257290840149
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000431.mp4",
+                "video_results": 0.07193880528211594
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000481.mp4",
+                "video_results": 0.17213556170463562
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000511.mp4",
+                "video_results": 0.21977290511131287
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000731.mp4",
+                "video_results": 0.1490374058485031
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000991.mp4",
+                "video_results": 0.33573341369628906
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000771.mp4",
+                "video_results": 0.17741286754608154
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000251.mp4",
+                "video_results": 0.28027305006980896
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000561.mp4",
+                "video_results": 0.21279844641685486
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000521.mp4",
+                "video_results": 0.2042820155620575
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000181.mp4",
+                "video_results": 0.22547340393066406
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000881.mp4",
+                "video_results": 0.2986244857311249
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000391.mp4",
+                "video_results": 0.2224770188331604
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000911.mp4",
+                "video_results": 0.15503205358982086
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000411.mp4",
+                "video_results": 0.24832797050476074
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000811.mp4",
+                "video_results": 0.2799098491668701
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000821.mp4",
+                "video_results": 0.2838576138019562
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000681.mp4",
+                "video_results": 0.2971190810203552
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000221.mp4",
+                "video_results": 0.1525195837020874
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000131.mp4",
+                "video_results": 0.16371721029281616
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000011.mp4",
+                "video_results": 0.1838258057832718
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000001.mp4",
+                "video_results": 0.22592231631278992
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000671.mp4",
+                "video_results": 0.19008228182792664
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000531.mp4",
+                "video_results": 0.2278035432100296
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000191.mp4",
+                "video_results": 0.18036362528800964
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000091.mp4",
+                "video_results": 0.21218401193618774
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000861.mp4",
+                "video_results": 0.24427875876426697
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000331.mp4",
+                "video_results": 0.2093401998281479
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000491.mp4",
+                "video_results": 0.19959965348243713
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000741.mp4",
+                "video_results": 0.257948637008667
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000581.mp4",
+                "video_results": 0.2641910910606384
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000061.mp4",
+                "video_results": 0.147287517786026
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000051.mp4",
+                "video_results": 0.28915852308273315
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000441.mp4",
+                "video_results": 0.26171010732650757
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000631.mp4",
+                "video_results": 0.19423462450504303
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000381.mp4",
+                "video_results": 0.2580030560493469
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000981.mp4",
+                "video_results": 0.257377564907074
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000841.mp4",
+                "video_results": 0.3023413419723511
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000891.mp4",
+                "video_results": 0.26688632369041443
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000901.mp4",
+                "video_results": 0.18319834768772125
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000661.mp4",
+                "video_results": 0.3549656867980957
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000271.mp4",
+                "video_results": 0.19989438354969025
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000371.mp4",
+                "video_results": 0.23397359251976013
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000231.mp4",
+                "video_results": 0.20675067603588104
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000601.mp4",
+                "video_results": 0.2044607400894165
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000691.mp4",
+                "video_results": 0.18837369978427887
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000151.mp4",
+                "video_results": 0.2635447382926941
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000571.mp4",
+                "video_results": 0.2764837145805359
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000751.mp4",
+                "video_results": 0.22355814278125763
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000611.mp4",
+                "video_results": 0.21501317620277405
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000871.mp4",
+                "video_results": 0.25799864530563354
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000071.mp4",
+                "video_results": 0.16742336750030518
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000931.mp4",
+                "video_results": 0.20541806519031525
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000831.mp4",
+                "video_results": 0.21148578822612762
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000501.mp4",
+                "video_results": 0.16981548070907593
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000341.mp4",
+                "video_results": 0.24056100845336914
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000651.mp4",
+                "video_results": 0.21276412904262543
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000781.mp4",
+                "video_results": 0.14520323276519775
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000421.mp4",
+                "video_results": 0.17707182466983795
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000791.mp4",
+                "video_results": 0.2062622606754303
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000291.mp4",
+                "video_results": 0.1776493787765503
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000361.mp4",
+                "video_results": 0.21030718088150024
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000921.mp4",
+                "video_results": 0.2502173185348511
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000471.mp4",
+                "video_results": 0.23571762442588806
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000621.mp4",
+                "video_results": 0.1744696944952011
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000311.mp4",
+                "video_results": 0.18338964879512787
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000451.mp4",
+                "video_results": 0.30337271094322205
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000461.mp4",
+                "video_results": 0.12276439368724823
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000401.mp4",
+                "video_results": 0.2542921304702759
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000591.mp4",
+                "video_results": 0.2526266872882843
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000721.mp4",
+                "video_results": 0.17667651176452637
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000351.mp4",
+                "video_results": 0.2478310763835907
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000161.mp4",
+                "video_results": 0.207594096660614
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000281.mp4",
+                "video_results": 0.15965653955936432
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000851.mp4",
+                "video_results": 0.2233620584011078
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000021.mp4",
+                "video_results": 0.24050413072109222
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000701.mp4",
+                "video_results": 0.2634872794151306
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/seaweed/000111.mp4",
+                "video_results": 0.20130470395088196
+            }
+        ]
+    ]
+}

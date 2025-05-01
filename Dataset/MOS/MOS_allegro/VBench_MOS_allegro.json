@@ -1,0 +1,3847 @@
+{
+    "subject_consistency": [
+        0.9262724159572316,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000241.mp4",
+                "video_results": 0.9672277621154127
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000711.mp4",
+                "video_results": 0.9686921721902387
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000201.mp4",
+                "video_results": 0.9595414636463955
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000171.mp4",
+                "video_results": 0.8911781992720461
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000301.mp4",
+                "video_results": 0.902937540720249
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000211.mp4",
+                "video_results": 0.952814195005373
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000801.mp4",
+                "video_results": 0.934312921488422
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000031.mp4",
+                "video_results": 0.9100482090451252
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000971.mp4",
+                "video_results": 0.9849385228650324
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000141.mp4",
+                "video_results": 0.9519890231647711
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000761.mp4",
+                "video_results": 0.9833457596685694
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000961.mp4",
+                "video_results": 0.9253320954311853
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000121.mp4",
+                "video_results": 0.8909516598301372
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000541.mp4",
+                "video_results": 0.7599232672959909
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000551.mp4",
+                "video_results": 0.9878725683552095
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000081.mp4",
+                "video_results": 0.9476376919225714
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000041.mp4",
+                "video_results": 0.8854539363548674
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000951.mp4",
+                "video_results": 0.9503017636551254
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000101.mp4",
+                "video_results": 0.9119203145476593
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000641.mp4",
+                "video_results": 0.8998361452557575
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000321.mp4",
+                "video_results": 0.8822507714403087
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000941.mp4",
+                "video_results": 0.9688180424701208
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000261.mp4",
+                "video_results": 0.872541678534157
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000431.mp4",
+                "video_results": 0.7765328553558766
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000481.mp4",
+                "video_results": 0.7935282649665043
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000511.mp4",
+                "video_results": 0.8438296355735296
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000731.mp4",
+                "video_results": 0.946356068054835
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000991.mp4",
+                "video_results": 0.9338243566025263
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000771.mp4",
+                "video_results": 0.9713465448083549
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000251.mp4",
+                "video_results": 0.9575616244612069
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000561.mp4",
+                "video_results": 0.9988544021529713
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000521.mp4",
+                "video_results": 0.8399385871558354
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000181.mp4",
+                "video_results": 0.8661297021926134
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000881.mp4",
+                "video_results": 0.9996259424878263
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000391.mp4",
+                "video_results": 0.9511263346535036
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000911.mp4",
+                "video_results": 0.9729107436777531
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000411.mp4",
+                "video_results": 0.9748620044911045
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000811.mp4",
+                "video_results": 0.9508260570723435
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000821.mp4",
+                "video_results": 0.9882143461841276
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000681.mp4",
+                "video_results": 0.9932345723968813
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000221.mp4",
+                "video_results": 0.7450568114203968
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000131.mp4",
+                "video_results": 0.9817105250797052
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000011.mp4",
+                "video_results": 0.9541787494873178
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000001.mp4",
+                "video_results": 0.9069483314437428
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000671.mp4",
+                "video_results": 0.9798060641891655
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000531.mp4",
+                "video_results": 0.9215523819813783
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000191.mp4",
+                "video_results": 0.9015991862477928
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000091.mp4",
+                "video_results": 0.9469492692371895
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000861.mp4",
+                "video_results": 0.9308447550083029
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000331.mp4",
+                "video_results": 0.9770439585735058
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000491.mp4",
+                "video_results": 0.7848759663516077
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000741.mp4",
+                "video_results": 0.9378883595439209
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000581.mp4",
+                "video_results": 0.9622796965741564
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000061.mp4",
+                "video_results": 0.8594900153834244
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000051.mp4",
+                "video_results": 0.8756355167120352
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000441.mp4",
+                "video_results": 0.8885381694497734
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000631.mp4",
+                "video_results": 0.9721991817156473
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000381.mp4",
+                "video_results": 0.9086531195147284
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000981.mp4",
+                "video_results": 0.9738512638656572
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000841.mp4",
+                "video_results": 0.906436045964559
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000891.mp4",
+                "video_results": 0.9367989719599142
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000901.mp4",
+                "video_results": 0.9347946047782898
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000661.mp4",
+                "video_results": 0.9590221886662231
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000271.mp4",
+                "video_results": 0.943316989931567
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000371.mp4",
+                "video_results": 0.9640760267602986
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000231.mp4",
+                "video_results": 0.887059136026207
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000601.mp4",
+                "video_results": 0.9513697809186475
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000691.mp4",
+                "video_results": 0.9488035323976101
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000151.mp4",
+                "video_results": 0.9620841296239832
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000571.mp4",
+                "video_results": 0.8620624778599575
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000751.mp4",
+                "video_results": 0.8810586028400509
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000611.mp4",
+                "video_results": 0.8957002092709486
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000871.mp4",
+                "video_results": 0.9575161409789118
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000071.mp4",
+                "video_results": 0.8787242866110527
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000931.mp4",
+                "video_results": 0.9474130495526325
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000831.mp4",
+                "video_results": 0.8658362185132915
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000501.mp4",
+                "video_results": 0.9672926664352417
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000341.mp4",
+                "video_results": 0.8772177761313559
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000651.mp4",
+                "video_results": 0.9085161028237179
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000781.mp4",
+                "video_results": 0.9910445487362215
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000421.mp4",
+                "video_results": 0.8866078079431906
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000791.mp4",
+                "video_results": 0.9697027559252991
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000291.mp4",
+                "video_results": 0.9641110732637602
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000361.mp4",
+                "video_results": 0.9381140874720167
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000921.mp4",
+                "video_results": 0.9777770086951639
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000471.mp4",
+                "video_results": 0.9590463031982553
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000621.mp4",
+                "video_results": 0.9548013621363146
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000311.mp4",
+                "video_results": 0.8811140331043594
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000451.mp4",
+                "video_results": 0.9232762342896955
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000461.mp4",
+                "video_results": 0.9496012586971809
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000401.mp4",
+                "video_results": 0.914928250614254
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000591.mp4",
+                "video_results": 0.890732620981918
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000721.mp4",
+                "video_results": 0.926698005747521
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000351.mp4",
+                "video_results": 0.9735153740507433
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000161.mp4",
+                "video_results": 0.9444816876416919
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000281.mp4",
+                "video_results": 0.9810760881023846
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000851.mp4",
+                "video_results": 0.9485234577080299
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000021.mp4",
+                "video_results": 0.9468193225476934
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000701.mp4",
+                "video_results": 0.9200682424265763
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000111.mp4",
+                "video_results": 0.8924340660544647
+            }
+        ]
+    ],
+    "background_consistency": [
+        0.9518553144082256,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000241.mp4",
+                "video_results": 0.9872850440014368,
+                "video_sim": 85.893798828125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000711.mp4",
+                "video_results": 0.9623883126795977,
+                "video_sim": 83.727783203125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000201.mp4",
+                "video_results": 0.96630859375,
+                "video_sim": 84.06884765625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000171.mp4",
+                "video_results": 0.9040499281609196,
+                "video_sim": 78.65234375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000301.mp4",
+                "video_results": 0.938055630387931,
+                "video_sim": 81.61083984375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000211.mp4",
+                "video_results": 0.9649559985632183,
+                "video_sim": 83.951171875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000801.mp4",
+                "video_results": 0.9349435389727011,
+                "video_sim": 81.340087890625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000031.mp4",
+                "video_results": 0.9591387167744253,
+                "video_sim": 83.445068359375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000971.mp4",
+                "video_results": 0.9664545168821839,
+                "video_sim": 84.08154296875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000141.mp4",
+                "video_results": 0.9511915184985632,
+                "video_sim": 82.753662109375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000761.mp4",
+                "video_results": 0.9854273302801724,
+                "video_sim": 85.732177734375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000961.mp4",
+                "video_results": 0.9725692573635057,
+                "video_sim": 84.613525390625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000121.mp4",
+                "video_results": 0.9419899425287356,
+                "video_sim": 81.953125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000541.mp4",
+                "video_results": 0.9032669944324713,
+                "video_sim": 78.584228515625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000551.mp4",
+                "video_results": 0.986779925466954,
+                "video_sim": 85.849853515625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000081.mp4",
+                "video_results": 0.986395474137931,
+                "video_sim": 85.81640625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000041.mp4",
+                "video_results": 0.9378620016163793,
+                "video_sim": 81.593994140625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000951.mp4",
+                "video_results": 0.9619337059985632,
+                "video_sim": 83.688232421875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000101.mp4",
+                "video_results": 0.8850630836925287,
+                "video_sim": 77.00048828125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000641.mp4",
+                "video_results": 0.9088232983117817,
+                "video_sim": 79.067626953125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000321.mp4",
+                "video_results": 0.972344760237069,
+                "video_sim": 84.593994140625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000941.mp4",
+                "video_results": 0.9727095680675287,
+                "video_sim": 84.625732421875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000261.mp4",
+                "video_results": 0.9403398886494253,
+                "video_sim": 81.8095703125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000431.mp4",
+                "video_results": 0.8232688465337644,
+                "video_sim": 71.6243896484375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000481.mp4",
+                "video_results": 0.8798772000718391,
+                "video_sim": 76.54931640625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000511.mp4",
+                "video_results": 0.9288708917025862,
+                "video_sim": 80.811767578125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000731.mp4",
+                "video_results": 0.9587121722341954,
+                "video_sim": 83.407958984375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000991.mp4",
+                "video_results": 0.9507593615301724,
+                "video_sim": 82.716064453125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000771.mp4",
+                "video_results": 0.968890310704023,
+                "video_sim": 84.29345703125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000251.mp4",
+                "video_results": 0.9706021012931034,
+                "video_sim": 84.4423828125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000561.mp4",
+                "video_results": 0.9954904139727011,
+                "video_sim": 86.607666015625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000521.mp4",
+                "video_results": 0.918353201329023,
+                "video_sim": 79.896728515625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000181.mp4",
+                "video_results": 0.9407748518318966,
+                "video_sim": 81.847412109375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000881.mp4",
+                "video_results": 0.995361328125,
+                "video_sim": 86.596435546875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000391.mp4",
+                "video_results": 0.9426045034123564,
+                "video_sim": 82.006591796875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000911.mp4",
+                "video_results": 0.9505096084770115,
+                "video_sim": 82.6943359375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000411.mp4",
+                "video_results": 0.9813190328663793,
+                "video_sim": 85.374755859375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000811.mp4",
+                "video_results": 0.9490223150143678,
+                "video_sim": 82.56494140625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000821.mp4",
+                "video_results": 0.9888845860272989,
+                "video_sim": 86.032958984375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000681.mp4",
+                "video_results": 0.9729817708333334,
+                "video_sim": 84.6494140625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000221.mp4",
+                "video_results": 0.8859021417025862,
+                "video_sim": 77.073486328125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000131.mp4",
+                "video_results": 0.959405307112069,
+                "video_sim": 83.46826171875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000011.mp4",
+                "video_results": 0.9629691989942529,
+                "video_sim": 83.7783203125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000001.mp4",
+                "video_results": 0.9435922907686781,
+                "video_sim": 82.092529296875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000671.mp4",
+                "video_results": 0.9755101697198276,
+                "video_sim": 84.869384765625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000531.mp4",
+                "video_results": 0.9408365885416666,
+                "video_sim": 81.852783203125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000191.mp4",
+                "video_results": 0.921838519216954,
+                "video_sim": 80.199951171875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000091.mp4",
+                "video_results": 0.9634518678160919,
+                "video_sim": 83.8203125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000861.mp4",
+                "video_results": 0.9504927711925287,
+                "video_sim": 82.69287109375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000331.mp4",
+                "video_results": 0.9706413882902298,
+                "video_sim": 84.44580078125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000491.mp4",
+                "video_results": 0.9083518543462644,
+                "video_sim": 79.026611328125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000741.mp4",
+                "video_results": 0.9716740750718391,
+                "video_sim": 84.53564453125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000581.mp4",
+                "video_results": 0.9809373877514368,
+                "video_sim": 85.341552734375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000061.mp4",
+                "video_results": 0.9209293058548851,
+                "video_sim": 80.120849609375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000051.mp4",
+                "video_results": 0.9376852101293104,
+                "video_sim": 81.57861328125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000441.mp4",
+                "video_results": 0.9466622889727011,
+                "video_sim": 82.359619140625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000631.mp4",
+                "video_results": 0.9787317034841954,
+                "video_sim": 85.149658203125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000381.mp4",
+                "video_results": 0.9367058414152298,
+                "video_sim": 81.493408203125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000981.mp4",
+                "video_results": 0.9802807336566092,
+                "video_sim": 85.284423828125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000841.mp4",
+                "video_results": 0.9292441181752874,
+                "video_sim": 80.84423828125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000891.mp4",
+                "video_results": 0.9426241469109196,
+                "video_sim": 82.00830078125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000901.mp4",
+                "video_results": 0.9599497126436781,
+                "video_sim": 83.515625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000661.mp4",
+                "video_results": 0.9679333917025862,
+                "video_sim": 84.210205078125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000271.mp4",
+                "video_results": 0.9395625673491379,
+                "video_sim": 81.741943359375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000371.mp4",
+                "video_results": 0.9480092717313219,
+                "video_sim": 82.476806640625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000231.mp4",
+                "video_results": 0.9760349317528736,
+                "video_sim": 84.9150390625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000601.mp4",
+                "video_results": 0.9670185659123564,
+                "video_sim": 84.130615234375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000691.mp4",
+                "video_results": 0.9683374865301724,
+                "video_sim": 84.245361328125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000151.mp4",
+                "video_results": 0.9816277164152298,
+                "video_sim": 85.401611328125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000571.mp4",
+                "video_results": 0.9252003636853449,
+                "video_sim": 80.492431640625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000751.mp4",
+                "video_results": 0.9154880567528736,
+                "video_sim": 79.6474609375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000611.mp4",
+                "video_results": 0.966375942887931,
+                "video_sim": 84.07470703125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000871.mp4",
+                "video_results": 0.9767224542025862,
+                "video_sim": 84.974853515625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000071.mp4",
+                "video_results": 0.9256690014367817,
+                "video_sim": 80.533203125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000931.mp4",
+                "video_results": 0.963519216954023,
+                "video_sim": 83.826171875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000831.mp4",
+                "video_results": 0.9414651804956896,
+                "video_sim": 81.907470703125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000501.mp4",
+                "video_results": 0.9697097252155172,
+                "video_sim": 84.36474609375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000341.mp4",
+                "video_results": 0.9326508620689655,
+                "video_sim": 81.140625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000651.mp4",
+                "video_results": 0.9608252514367817,
+                "video_sim": 83.591796875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000781.mp4",
+                "video_results": 0.9891455639367817,
+                "video_sim": 86.0556640625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000421.mp4",
+                "video_results": 0.8926230244252874,
+                "video_sim": 77.658203125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000791.mp4",
+                "video_results": 0.9650766657686781,
+                "video_sim": 83.961669921875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000291.mp4",
+                "video_results": 0.9838305944683908,
+                "video_sim": 85.59326171875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000361.mp4",
+                "video_results": 0.9616053789511494,
+                "video_sim": 83.65966796875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000921.mp4",
+                "video_results": 0.9859745420258621,
+                "video_sim": 85.77978515625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000471.mp4",
+                "video_results": 0.9621778466235632,
+                "video_sim": 83.70947265625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000621.mp4",
+                "video_results": 0.9494376346982759,
+                "video_sim": 82.60107421875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000311.mp4",
+                "video_results": 0.8930271192528736,
+                "video_sim": 77.693359375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000451.mp4",
+                "video_results": 0.9677566002155172,
+                "video_sim": 84.19482421875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000461.mp4",
+                "video_results": 0.9841476966594828,
+                "video_sim": 85.620849609375,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000401.mp4",
+                "video_results": 0.9474901221264368,
+                "video_sim": 82.431640625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000591.mp4",
+                "video_results": 0.9256942573635057,
+                "video_sim": 80.535400390625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000721.mp4",
+                "video_results": 0.9617905890804598,
+                "video_sim": 83.67578125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000351.mp4",
+                "video_results": 0.9839288119612069,
+                "video_sim": 85.601806640625,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000161.mp4",
+                "video_results": 0.9689211790589081,
+                "video_sim": 84.296142578125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000281.mp4",
+                "video_results": 0.9603145204741379,
+                "video_sim": 83.54736328125,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000851.mp4",
+                "video_results": 0.9512700924928161,
+                "video_sim": 82.760498046875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000021.mp4",
+                "video_results": 0.9717217807112069,
+                "video_sim": 84.539794921875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000701.mp4",
+                "video_results": 0.9430310479525862,
+                "video_sim": 82.043701171875,
+                "cnt_per_video": 87
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000111.mp4",
+                "video_results": 0.9354402388649425,
+                "video_sim": 81.38330078125,
+                "cnt_per_video": 87
+            }
+        ]
+    ],
+    "temporal_flickering": [
+        0.9706405797752679,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000241.mp4",
+                "video_results": 0.9861913494035309
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000711.mp4",
+                "video_results": 0.9458149891273648
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000201.mp4",
+                "video_results": 0.9761859201917461
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000171.mp4",
+                "video_results": 0.9804843996085373
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000301.mp4",
+                "video_results": 0.9642479877845914
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000211.mp4",
+                "video_results": 0.9783657410565545
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000801.mp4",
+                "video_results": 0.9804485564138375
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000031.mp4",
+                "video_results": 0.9795812756407495
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000971.mp4",
+                "video_results": 0.9636492037305645
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000141.mp4",
+                "video_results": 0.9730553514817182
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000761.mp4",
+                "video_results": 0.9883941276400697
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000961.mp4",
+                "video_results": 0.9772213711458094
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000121.mp4",
+                "video_results": 0.9671838311588064
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000541.mp4",
+                "video_results": 0.9550388111787684
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000551.mp4",
+                "video_results": 0.9778566023882698
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000081.mp4",
+                "video_results": 0.9858634238149605
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000041.mp4",
+                "video_results": 0.9566660226560106
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000951.mp4",
+                "video_results": 0.9643336165185068
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000101.mp4",
+                "video_results": 0.984342809751922
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000641.mp4",
+                "video_results": 0.9579947378121171
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000321.mp4",
+                "video_results": 0.9830143797631358
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000941.mp4",
+                "video_results": 0.9662895389631683
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000261.mp4",
+                "video_results": 0.9760463602402631
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000431.mp4",
+                "video_results": 0.9056243223302505
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000481.mp4",
+                "video_results": 0.9806289242763145
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000511.mp4",
+                "video_results": 0.9291225283753638
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000731.mp4",
+                "video_results": 0.9831426676581888
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000991.mp4",
+                "video_results": 0.9520703970217237
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000771.mp4",
+                "video_results": 0.9849948883056641
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000251.mp4",
+                "video_results": 0.9717478957830691
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000561.mp4",
+                "video_results": 0.9976825506079431
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000521.mp4",
+                "video_results": 0.9745513934715121
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000181.mp4",
+                "video_results": 0.9646092545752432
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000881.mp4",
+                "video_results": 0.999423261717254
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000391.mp4",
+                "video_results": 0.9735729928110161
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000911.mp4",
+                "video_results": 0.9466681499107211
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000411.mp4",
+                "video_results": 0.9749929989085478
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000811.mp4",
+                "video_results": 0.965961108488195
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000821.mp4",
+                "video_results": 0.9782121153438792
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000681.mp4",
+                "video_results": 0.986475721060061
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000221.mp4",
+                "video_results": 0.9817352276222379
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000131.mp4",
+                "video_results": 0.9777571154575722
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000011.mp4",
+                "video_results": 0.9693535318561629
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000001.mp4",
+                "video_results": 0.9542420667760513
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000671.mp4",
+                "video_results": 0.9914176230337105
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000531.mp4",
+                "video_results": 0.9475404066198012
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000191.mp4",
+                "video_results": 0.9815875520893171
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000091.mp4",
+                "video_results": 0.9712253177867216
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000861.mp4",
+                "video_results": 0.9844182126662311
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000331.mp4",
+                "video_results": 0.9822146733601888
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000491.mp4",
+                "video_results": 0.962987839941885
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000741.mp4",
+                "video_results": 0.9533437317492915
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000581.mp4",
+                "video_results": 0.9913161866805132
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000061.mp4",
+                "video_results": 0.9865390684090408
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000051.mp4",
+                "video_results": 0.958204433964748
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000441.mp4",
+                "video_results": 0.9539721395455155
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000631.mp4",
+                "video_results": 0.9720217947866402
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000381.mp4",
+                "video_results": 0.9510737176034965
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000981.mp4",
+                "video_results": 0.9792557903364593
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000841.mp4",
+                "video_results": 0.8985755097632314
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000891.mp4",
+                "video_results": 0.9720577613980163
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000901.mp4",
+                "video_results": 0.9704194910386029
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000661.mp4",
+                "video_results": 0.9407500360526291
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000271.mp4",
+                "video_results": 0.9477012372484395
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000371.mp4",
+                "video_results": 0.9760072577233408
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000231.mp4",
+                "video_results": 0.979114678326775
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000601.mp4",
+                "video_results": 0.9964841414900387
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000691.mp4",
+                "video_results": 0.966851058660769
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000151.mp4",
+                "video_results": 0.9580851274378159
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000571.mp4",
+                "video_results": 0.9705684100880342
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000751.mp4",
+                "video_results": 0.9526525759229473
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000611.mp4",
+                "video_results": 0.9852526505788167
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000871.mp4",
+                "video_results": 0.9860400190540388
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000071.mp4",
+                "video_results": 0.9654925439871994
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000931.mp4",
+                "video_results": 0.9956300833645989
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000831.mp4",
+                "video_results": 0.9574168784945619
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000501.mp4",
+                "video_results": 0.9673767613429649
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000341.mp4",
+                "video_results": 0.9332675410251992
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000651.mp4",
+                "video_results": 0.97725830078125
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000781.mp4",
+                "video_results": 0.9947861984664319
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000421.mp4",
+                "video_results": 0.972156670514275
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000791.mp4",
+                "video_results": 0.9731351609323539
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000291.mp4",
+                "video_results": 0.9809793042201622
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000361.mp4",
+                "video_results": 0.980540750540939
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000921.mp4",
+                "video_results": 0.9950932156805898
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000471.mp4",
+                "video_results": 0.9567605523502125
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000621.mp4",
+                "video_results": 0.9825767292695887
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000311.mp4",
+                "video_results": 0.9768462461583755
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000451.mp4",
+                "video_results": 0.9605831707225126
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000461.mp4",
+                "video_results": 0.9873659377004586
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000401.mp4",
+                "video_results": 0.9692902153613521
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000591.mp4",
+                "video_results": 0.9729124050514371
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000721.mp4",
+                "video_results": 0.9641931384217506
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000351.mp4",
+                "video_results": 0.9889321888194365
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000161.mp4",
+                "video_results": 0.9780817630244236
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000281.mp4",
+                "video_results": 0.9780511874778598
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000851.mp4",
+                "video_results": 0.9604056938021791
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000021.mp4",
+                "video_results": 0.9734774009854186
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000701.mp4",
+                "video_results": 0.9483726202272902
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000111.mp4",
+                "video_results": 0.9845573556189443
+            }
+        ]
+    ],
+    "motion_smoothness": [
+        0.9863236325439952,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000241.mp4",
+                "video_results": 0.9945812428552655
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000711.mp4",
+                "video_results": 0.9818927639672633
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000201.mp4",
+                "video_results": 0.9895860997573825
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000171.mp4",
+                "video_results": 0.9917699130941675
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000301.mp4",
+                "video_results": 0.9819512509750616
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000211.mp4",
+                "video_results": 0.9905396295926855
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000801.mp4",
+                "video_results": 0.9915433190926833
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000031.mp4",
+                "video_results": 0.9922636397467849
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000971.mp4",
+                "video_results": 0.9867692469119969
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000141.mp4",
+                "video_results": 0.9877936696332819
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000761.mp4",
+                "video_results": 0.9940526744727014
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000961.mp4",
+                "video_results": 0.9912171645022674
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000121.mp4",
+                "video_results": 0.9854620348731654
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000541.mp4",
+                "video_results": 0.9792972998906981
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000551.mp4",
+                "video_results": 0.9927017368236055
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000081.mp4",
+                "video_results": 0.9935899921863125
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000041.mp4",
+                "video_results": 0.9848780520814862
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000951.mp4",
+                "video_results": 0.9864148685751486
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000101.mp4",
+                "video_results": 0.9912011919963668
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000641.mp4",
+                "video_results": 0.9797814242642309
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000321.mp4",
+                "video_results": 0.9894501159320587
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000941.mp4",
+                "video_results": 0.9856531701444304
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000261.mp4",
+                "video_results": 0.9846945622369049
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000431.mp4",
+                "video_results": 0.9423426481077735
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000481.mp4",
+                "video_results": 0.9884525163121611
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000511.mp4",
+                "video_results": 0.9671179345964538
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000731.mp4",
+                "video_results": 0.99131562250627
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000991.mp4",
+                "video_results": 0.9719607250051722
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000771.mp4",
+                "video_results": 0.9930033537040731
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000251.mp4",
+                "video_results": 0.9871313699959151
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000561.mp4",
+                "video_results": 0.997168437907705
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000521.mp4",
+                "video_results": 0.9897327569452361
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000181.mp4",
+                "video_results": 0.9839688222060196
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000881.mp4",
+                "video_results": 0.9990613765020436
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000391.mp4",
+                "video_results": 0.9860088441653577
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000911.mp4",
+                "video_results": 0.9654440119999873
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000411.mp4",
+                "video_results": 0.988300403628021
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000811.mp4",
+                "video_results": 0.9878097613500342
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000821.mp4",
+                "video_results": 0.9899402242021648
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000681.mp4",
+                "video_results": 0.9925158477534263
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000221.mp4",
+                "video_results": 0.9915211787611254
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000131.mp4",
+                "video_results": 0.9874409727499958
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000011.mp4",
+                "video_results": 0.9930969203357484
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000001.mp4",
+                "video_results": 0.988373388674349
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000671.mp4",
+                "video_results": 0.9948565674755852
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000531.mp4",
+                "video_results": 0.9699702391130871
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000191.mp4",
+                "video_results": 0.991356279047337
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000091.mp4",
+                "video_results": 0.987553806151148
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000861.mp4",
+                "video_results": 0.9919167587631521
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000331.mp4",
+                "video_results": 0.9922313227535846
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000491.mp4",
+                "video_results": 0.9780040128932441
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000741.mp4",
+                "video_results": 0.9799412285222552
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000581.mp4",
+                "video_results": 0.9951435364958053
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000061.mp4",
+                "video_results": 0.9934906210021153
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000051.mp4",
+                "video_results": 0.9799213920871966
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000441.mp4",
+                "video_results": 0.9803877709655406
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000631.mp4",
+                "video_results": 0.9926567826224751
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000381.mp4",
+                "video_results": 0.9818332404451875
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000981.mp4",
+                "video_results": 0.9911720887812758
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000841.mp4",
+                "video_results": 0.9648581107184475
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000891.mp4",
+                "video_results": 0.985478510446222
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000901.mp4",
+                "video_results": 0.981791857885623
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000661.mp4",
+                "video_results": 0.991519115166523
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000271.mp4",
+                "video_results": 0.9765566209984209
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000371.mp4",
+                "video_results": 0.9876835980381602
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000231.mp4",
+                "video_results": 0.9920163067185046
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000601.mp4",
+                "video_results": 0.995757946587469
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000691.mp4",
+                "video_results": 0.9746369761055801
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000151.mp4",
+                "video_results": 0.9708236769574593
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000571.mp4",
+                "video_results": 0.9894172552661246
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000751.mp4",
+                "video_results": 0.9802460672953506
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000611.mp4",
+                "video_results": 0.9946078929788701
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000871.mp4",
+                "video_results": 0.9956179738166261
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000071.mp4",
+                "video_results": 0.9869945207868892
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000931.mp4",
+                "video_results": 0.996169482470529
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000831.mp4",
+                "video_results": 0.9824223014740188
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000501.mp4",
+                "video_results": 0.984729170921841
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000341.mp4",
+                "video_results": 0.9706026735293062
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000651.mp4",
+                "video_results": 0.9910111094024443
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000781.mp4",
+                "video_results": 0.9963566205498134
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000421.mp4",
+                "video_results": 0.9854644457427674
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000791.mp4",
+                "video_results": 0.9801017446478484
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000291.mp4",
+                "video_results": 0.9938453355966902
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000361.mp4",
+                "video_results": 0.9900309337976685
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000921.mp4",
+                "video_results": 0.9962344688447353
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000471.mp4",
+                "video_results": 0.9791006349049902
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000621.mp4",
+                "video_results": 0.992433504589255
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000311.mp4",
+                "video_results": 0.9831905019100124
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000451.mp4",
+                "video_results": 0.9780348478323285
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000461.mp4",
+                "video_results": 0.9940970087708049
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000401.mp4",
+                "video_results": 0.9821520207855698
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000591.mp4",
+                "video_results": 0.989594708865593
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000721.mp4",
+                "video_results": 0.9751397468507752
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000351.mp4",
+                "video_results": 0.99517196610691
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000161.mp4",
+                "video_results": 0.9883699211031312
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000281.mp4",
+                "video_results": 0.9940378459489686
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000851.mp4",
+                "video_results": 0.9845174009250287
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000021.mp4",
+                "video_results": 0.9850879811381649
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000701.mp4",
+                "video_results": 0.9746831224482149
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000111.mp4",
+                "video_results": 0.9925494973418685
+            }
+        ]
+    ],
+    "dynamic_degree": [
+        0.76,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000241.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000711.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000201.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000171.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000301.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000211.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000801.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000031.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000971.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000141.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000761.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000961.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000121.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000541.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000551.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000081.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000041.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000951.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000101.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000641.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000321.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000941.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000261.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000431.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000481.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000511.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000731.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000991.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000771.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000251.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000561.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000521.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000181.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000881.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000391.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000911.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000411.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000811.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000821.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000681.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000221.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000131.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000011.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000001.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000671.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000531.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000191.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000091.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000861.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000331.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000491.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000741.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000581.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000061.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000051.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000441.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000631.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000381.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000981.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000841.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000891.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000901.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000661.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000271.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000371.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000231.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000601.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000691.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000151.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000571.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000751.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000611.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000871.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000071.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000931.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000831.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000501.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000341.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000651.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000781.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000421.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000791.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000291.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000361.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000921.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000471.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000621.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000311.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000451.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000461.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000401.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000591.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000721.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000351.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000161.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000281.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000851.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000021.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000701.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000111.mp4",
+                "video_results": true
+            }
+        ]
+    ],
+    "aesthetic_quality": [
+        0.5461005581915379,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000241.mp4",
+                "video_results": 0.5969424843788147
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000711.mp4",
+                "video_results": 0.5703349709510803
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000201.mp4",
+                "video_results": 0.5763674974441528
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000171.mp4",
+                "video_results": 0.5716775059700012
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000301.mp4",
+                "video_results": 0.5832589268684387
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000211.mp4",
+                "video_results": 0.5117341876029968
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000801.mp4",
+                "video_results": 0.5218032598495483
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000031.mp4",
+                "video_results": 0.5608311891555786
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000971.mp4",
+                "video_results": 0.5713570713996887
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000141.mp4",
+                "video_results": 0.6457801461219788
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000761.mp4",
+                "video_results": 0.37449777126312256
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000961.mp4",
+                "video_results": 0.5919325947761536
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000121.mp4",
+                "video_results": 0.5291690230369568
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000541.mp4",
+                "video_results": 0.4982987344264984
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000551.mp4",
+                "video_results": 0.6336472630500793
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000081.mp4",
+                "video_results": 0.5722970366477966
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000041.mp4",
+                "video_results": 0.504433810710907
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000951.mp4",
+                "video_results": 0.5722956657409668
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000101.mp4",
+                "video_results": 0.4097447395324707
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000641.mp4",
+                "video_results": 0.5070992708206177
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000321.mp4",
+                "video_results": 0.18897037208080292
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000941.mp4",
+                "video_results": 0.5761977434158325
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000261.mp4",
+                "video_results": 0.5016139149665833
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000431.mp4",
+                "video_results": 0.2595973610877991
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000481.mp4",
+                "video_results": 0.6794962882995605
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000511.mp4",
+                "video_results": 0.6822721362113953
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000731.mp4",
+                "video_results": 0.4579673409461975
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000991.mp4",
+                "video_results": 0.691095232963562
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000771.mp4",
+                "video_results": 0.5901946425437927
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000251.mp4",
+                "video_results": 0.7065159678459167
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000561.mp4",
+                "video_results": 0.6387014985084534
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000521.mp4",
+                "video_results": 0.5266724228858948
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000181.mp4",
+                "video_results": 0.6319985389709473
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000881.mp4",
+                "video_results": 0.5865875482559204
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000391.mp4",
+                "video_results": 0.6109495162963867
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000911.mp4",
+                "video_results": 0.545723557472229
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000411.mp4",
+                "video_results": 0.6193916201591492
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000811.mp4",
+                "video_results": 0.5565115809440613
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000821.mp4",
+                "video_results": 0.7216275930404663
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000681.mp4",
+                "video_results": 0.6065834164619446
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000221.mp4",
+                "video_results": 0.6112216114997864
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000131.mp4",
+                "video_results": 0.6563267707824707
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000011.mp4",
+                "video_results": 0.6092914342880249
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000001.mp4",
+                "video_results": 0.6053556799888611
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000671.mp4",
+                "video_results": 0.5878947973251343
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000531.mp4",
+                "video_results": 0.5036275386810303
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000191.mp4",
+                "video_results": 0.5139675140380859
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000091.mp4",
+                "video_results": 0.5737261772155762
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000861.mp4",
+                "video_results": 0.5283849239349365
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000331.mp4",
+                "video_results": 0.6358802318572998
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000491.mp4",
+                "video_results": 0.5942968726158142
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000741.mp4",
+                "video_results": 0.6808720231056213
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000581.mp4",
+                "video_results": 0.6149389743804932
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000061.mp4",
+                "video_results": 0.3515958786010742
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000051.mp4",
+                "video_results": 0.5288548469543457
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000441.mp4",
+                "video_results": 0.5013182759284973
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000631.mp4",
+                "video_results": 0.7385579347610474
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000381.mp4",
+                "video_results": 0.6212190389633179
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000981.mp4",
+                "video_results": 0.6161635518074036
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000841.mp4",
+                "video_results": 0.4267725348472595
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000891.mp4",
+                "video_results": 0.5066297054290771
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000901.mp4",
+                "video_results": 0.528877854347229
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000661.mp4",
+                "video_results": 0.5430343151092529
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000271.mp4",
+                "video_results": 0.5615026354789734
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000371.mp4",
+                "video_results": 0.5496463775634766
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000231.mp4",
+                "video_results": 0.5373777151107788
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000601.mp4",
+                "video_results": 0.5632665157318115
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000691.mp4",
+                "video_results": 0.6771050691604614
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000151.mp4",
+                "video_results": 0.5581673979759216
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000571.mp4",
+                "video_results": 0.514872670173645
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000751.mp4",
+                "video_results": 0.46676039695739746
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000611.mp4",
+                "video_results": 0.5504135489463806
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000871.mp4",
+                "video_results": 0.5997517704963684
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000071.mp4",
+                "video_results": 0.49559953808784485
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000931.mp4",
+                "video_results": 0.5750362277030945
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000831.mp4",
+                "video_results": 0.47733020782470703
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000501.mp4",
+                "video_results": 0.6333268284797668
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000341.mp4",
+                "video_results": 0.5361765027046204
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000651.mp4",
+                "video_results": 0.5714317560195923
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000781.mp4",
+                "video_results": 0.5700200796127319
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000421.mp4",
+                "video_results": 0.2193472683429718
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000791.mp4",
+                "video_results": 0.48423030972480774
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000291.mp4",
+                "video_results": 0.6542766690254211
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000361.mp4",
+                "video_results": 0.47857901453971863
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000921.mp4",
+                "video_results": 0.5684958696365356
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000471.mp4",
+                "video_results": 0.5319172143936157
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000621.mp4",
+                "video_results": 0.4677585959434509
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000311.mp4",
+                "video_results": 0.26417383551597595
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000451.mp4",
+                "video_results": 0.5710770487785339
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000461.mp4",
+                "video_results": 0.39556097984313965
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000401.mp4",
+                "video_results": 0.46660923957824707
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000591.mp4",
+                "video_results": 0.4475070834159851
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000721.mp4",
+                "video_results": 0.5937107801437378
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000351.mp4",
+                "video_results": 0.5894379019737244
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000161.mp4",
+                "video_results": 0.5681881308555603
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000281.mp4",
+                "video_results": 0.33333203196525574
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000851.mp4",
+                "video_results": 0.5146297812461853
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000021.mp4",
+                "video_results": 0.5804322957992554
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000701.mp4",
+                "video_results": 0.5853883028030396
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000111.mp4",
+                "video_results": 0.49663829803466797
+            }
+        ]
+    ],
+    "imaging_quality": [
+        0.638496491233869,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000241.mp4",
+                "video_results": 51.36649690974843
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000711.mp4",
+                "video_results": 72.73065809770064
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000201.mp4",
+                "video_results": 67.01581387086348
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000171.mp4",
+                "video_results": 67.32950401306152
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000301.mp4",
+                "video_results": 60.85497318614613
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000211.mp4",
+                "video_results": 69.74426174163818
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000801.mp4",
+                "video_results": 63.215248107910156
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000031.mp4",
+                "video_results": 72.9615351937034
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000971.mp4",
+                "video_results": 48.9387788772583
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000141.mp4",
+                "video_results": 68.86379207264294
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000761.mp4",
+                "video_results": 53.1721958247098
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000961.mp4",
+                "video_results": 70.21805230053988
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000121.mp4",
+                "video_results": 59.877995707771994
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000541.mp4",
+                "video_results": 71.41750036586414
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000551.mp4",
+                "video_results": 68.41361782767557
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000081.mp4",
+                "video_results": 73.71339000355114
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000041.mp4",
+                "video_results": 52.00931367007169
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000951.mp4",
+                "video_results": 54.82639412446456
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000101.mp4",
+                "video_results": 63.95741189609874
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000641.mp4",
+                "video_results": 63.602405071258545
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000321.mp4",
+                "video_results": 44.811013806949965
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000941.mp4",
+                "video_results": 71.13038331812078
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000261.mp4",
+                "video_results": 55.765595056793906
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000431.mp4",
+                "video_results": 54.99859161810441
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000481.mp4",
+                "video_results": 59.386196786707096
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000511.mp4",
+                "video_results": 53.480366013266824
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000731.mp4",
+                "video_results": 54.643751404502176
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000991.mp4",
+                "video_results": 70.69635165821423
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000771.mp4",
+                "video_results": 65.78257417678833
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000251.mp4",
+                "video_results": 72.6930269761519
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000561.mp4",
+                "video_results": 78.85827385295521
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000521.mp4",
+                "video_results": 64.7868084040555
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000181.mp4",
+                "video_results": 72.90138522061434
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000881.mp4",
+                "video_results": 64.82463333823465
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000391.mp4",
+                "video_results": 71.78022740103982
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000911.mp4",
+                "video_results": 67.93174024061723
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000411.mp4",
+                "video_results": 59.025419451973654
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000811.mp4",
+                "video_results": 69.0524915781888
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000821.mp4",
+                "video_results": 65.39778635718606
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000681.mp4",
+                "video_results": 70.96260616996072
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000221.mp4",
+                "video_results": 65.40290386026555
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000131.mp4",
+                "video_results": 70.34082334691828
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000011.mp4",
+                "video_results": 71.68130207061768
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000001.mp4",
+                "video_results": 55.27014736695723
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000671.mp4",
+                "video_results": 77.64492190967907
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000531.mp4",
+                "video_results": 41.9671464399858
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000191.mp4",
+                "video_results": 67.18403525785966
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000091.mp4",
+                "video_results": 71.20383683117953
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000861.mp4",
+                "video_results": 73.9199840372259
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000331.mp4",
+                "video_results": 74.59718721563166
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000491.mp4",
+                "video_results": 69.12141773917459
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000741.mp4",
+                "video_results": 63.178236267783426
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000581.mp4",
+                "video_results": 63.74623068896207
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000061.mp4",
+                "video_results": 62.78117856112394
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000051.mp4",
+                "video_results": 66.13223578713156
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000441.mp4",
+                "video_results": 76.46184262362394
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000631.mp4",
+                "video_results": 55.64703005010431
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000381.mp4",
+                "video_results": 63.67405626990578
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000981.mp4",
+                "video_results": 59.12099890275435
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000841.mp4",
+                "video_results": 67.58594062111594
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000891.mp4",
+                "video_results": 47.62704355066473
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000901.mp4",
+                "video_results": 74.65486565503207
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000661.mp4",
+                "video_results": 75.6742244200273
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000271.mp4",
+                "video_results": 66.55322014201771
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000371.mp4",
+                "video_results": 72.68000732768665
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000231.mp4",
+                "video_results": 58.09093375639482
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000601.mp4",
+                "video_results": 36.16252977197821
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000691.mp4",
+                "video_results": 74.76418772610751
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000151.mp4",
+                "video_results": 58.921761165965684
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000571.mp4",
+                "video_results": 47.58677892251448
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000751.mp4",
+                "video_results": 73.52308004552668
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000611.mp4",
+                "video_results": 62.388806494799525
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000871.mp4",
+                "video_results": 50.82801745154641
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000071.mp4",
+                "video_results": 72.10656157406893
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000931.mp4",
+                "video_results": 55.07428581064398
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000831.mp4",
+                "video_results": 65.52974150397561
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000501.mp4",
+                "video_results": 73.5960641340776
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000341.mp4",
+                "video_results": 57.62428006258878
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000651.mp4",
+                "video_results": 46.33510468222878
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000781.mp4",
+                "video_results": 71.4841007752852
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000421.mp4",
+                "video_results": 70.04067893461747
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000791.mp4",
+                "video_results": 70.98172404549338
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000291.mp4",
+                "video_results": 51.142174850810655
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000361.mp4",
+                "video_results": 48.41843201897361
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000921.mp4",
+                "video_results": 78.82349586486816
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000471.mp4",
+                "video_results": 70.20910297740589
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000621.mp4",
+                "video_results": 67.56959507682107
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000311.mp4",
+                "video_results": 56.95134618065574
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000451.mp4",
+                "video_results": 72.60197032581677
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000461.mp4",
+                "video_results": 50.29774670167403
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000401.mp4",
+                "video_results": 66.54766520586881
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000591.mp4",
+                "video_results": 59.64391860094938
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000721.mp4",
+                "video_results": 63.362885518507525
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000351.mp4",
+                "video_results": 60.490244995463975
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000161.mp4",
+                "video_results": 67.28594160079956
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000281.mp4",
+                "video_results": 65.15324631604281
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000851.mp4",
+                "video_results": 78.37011467326771
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000021.mp4",
+                "video_results": 42.80817395990545
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000701.mp4",
+                "video_results": 68.37119128487326
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000111.mp4",
+                "video_results": 54.8896506916393
+            }
+        ]
+    ],
+    "temporal_style": [
+        0.2253960393369198,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000241.mp4",
+                "video_results": 0.25388655066490173
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000711.mp4",
+                "video_results": 0.22309499979019165
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000201.mp4",
+                "video_results": 0.17505556344985962
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000171.mp4",
+                "video_results": 0.18035849928855896
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000301.mp4",
+                "video_results": 0.16496741771697998
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000211.mp4",
+                "video_results": 0.17874670028686523
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000801.mp4",
+                "video_results": 0.18693217635154724
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000031.mp4",
+                "video_results": 0.21052268147468567
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000971.mp4",
+                "video_results": 0.1995759904384613
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000141.mp4",
+                "video_results": 0.22325515747070312
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000761.mp4",
+                "video_results": 0.18837136030197144
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000961.mp4",
+                "video_results": 0.2643619775772095
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000121.mp4",
+                "video_results": 0.25795093178749084
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000541.mp4",
+                "video_results": 0.21548257768154144
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000551.mp4",
+                "video_results": 0.2790575623512268
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000081.mp4",
+                "video_results": 0.2583669424057007
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000041.mp4",
+                "video_results": 0.1825539469718933
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000951.mp4",
+                "video_results": 0.29416516423225403
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000101.mp4",
+                "video_results": 0.1347564309835434
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000641.mp4",
+                "video_results": 0.2533607482910156
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000321.mp4",
+                "video_results": 0.19588163495063782
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000941.mp4",
+                "video_results": 0.242020383477211
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000261.mp4",
+                "video_results": 0.24696195125579834
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000431.mp4",
+                "video_results": 0.12704607844352722
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000481.mp4",
+                "video_results": 0.280200332403183
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000511.mp4",
+                "video_results": 0.21461999416351318
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000731.mp4",
+                "video_results": 0.23236985504627228
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000991.mp4",
+                "video_results": 0.3477095365524292
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000771.mp4",
+                "video_results": 0.21209542453289032
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000251.mp4",
+                "video_results": 0.3303913176059723
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000561.mp4",
+                "video_results": 0.2146117389202118
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000521.mp4",
+                "video_results": 0.22008037567138672
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000181.mp4",
+                "video_results": 0.23498612642288208
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000881.mp4",
+                "video_results": 0.2584697902202606
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000391.mp4",
+                "video_results": 0.22639288008213043
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000911.mp4",
+                "video_results": 0.24059057235717773
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000411.mp4",
+                "video_results": 0.19871874153614044
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000811.mp4",
+                "video_results": 0.292463481426239
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000821.mp4",
+                "video_results": 0.26071256399154663
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000681.mp4",
+                "video_results": 0.24338151514530182
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000221.mp4",
+                "video_results": 0.2097337245941162
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000131.mp4",
+                "video_results": 0.2617734670639038
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000011.mp4",
+                "video_results": 0.1886710822582245
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000001.mp4",
+                "video_results": 0.24843436479568481
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000671.mp4",
+                "video_results": 0.22159157693386078
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000531.mp4",
+                "video_results": 0.20351725816726685
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000191.mp4",
+                "video_results": 0.11787481606006622
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000091.mp4",
+                "video_results": 0.1896207630634308
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000861.mp4",
+                "video_results": 0.2551746368408203
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000331.mp4",
+                "video_results": 0.2551914155483246
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000491.mp4",
+                "video_results": 0.2085207998752594
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000741.mp4",
+                "video_results": 0.23747189342975616
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000581.mp4",
+                "video_results": 0.2713257074356079
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000061.mp4",
+                "video_results": 0.14898991584777832
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000051.mp4",
+                "video_results": 0.23454760015010834
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000441.mp4",
+                "video_results": 0.252028226852417
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000631.mp4",
+                "video_results": 0.2582785487174988
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000381.mp4",
+                "video_results": 0.23857200145721436
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000981.mp4",
+                "video_results": 0.27241837978363037
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000841.mp4",
+                "video_results": 0.29194730520248413
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000891.mp4",
+                "video_results": 0.21758735179901123
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000901.mp4",
+                "video_results": 0.2362043410539627
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000661.mp4",
+                "video_results": 0.3223003149032593
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000271.mp4",
+                "video_results": 0.2149999886751175
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000371.mp4",
+                "video_results": 0.21049247682094574
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000231.mp4",
+                "video_results": 0.18094749748706818
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000601.mp4",
+                "video_results": 0.19548530876636505
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000691.mp4",
+                "video_results": 0.1922285556793213
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000151.mp4",
+                "video_results": 0.2701616883277893
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000571.mp4",
+                "video_results": 0.3185117542743683
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000751.mp4",
+                "video_results": 0.186262845993042
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000611.mp4",
+                "video_results": 0.23011276125907898
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000871.mp4",
+                "video_results": 0.29578086733818054
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000071.mp4",
+                "video_results": 0.20567822456359863
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000931.mp4",
+                "video_results": 0.18251971900463104
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000831.mp4",
+                "video_results": 0.2641623020172119
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000501.mp4",
+                "video_results": 0.23931339383125305
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000341.mp4",
+                "video_results": 0.25763529539108276
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000651.mp4",
+                "video_results": 0.20659266412258148
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000781.mp4",
+                "video_results": 0.1825231909751892
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000421.mp4",
+                "video_results": 0.22183793783187866
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000791.mp4",
+                "video_results": 0.19341295957565308
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000291.mp4",
+                "video_results": 0.18344584107398987
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000361.mp4",
+                "video_results": 0.15488791465759277
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000921.mp4",
+                "video_results": 0.3084786534309387
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000471.mp4",
+                "video_results": 0.2326159030199051
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000621.mp4",
+                "video_results": 0.23124024271965027
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000311.mp4",
+                "video_results": 0.17955894768238068
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000451.mp4",
+                "video_results": 0.2805553674697876
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000461.mp4",
+                "video_results": 0.19011104106903076
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000401.mp4",
+                "video_results": 0.2171471267938614
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000591.mp4",
+                "video_results": 0.24008402228355408
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000721.mp4",
+                "video_results": 0.12974944710731506
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000351.mp4",
+                "video_results": 0.23252952098846436
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000161.mp4",
+                "video_results": 0.19477620720863342
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000281.mp4",
+                "video_results": 0.15593670308589935
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000851.mp4",
+                "video_results": 0.14061923325061798
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000021.mp4",
+                "video_results": 0.24845674633979797
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000701.mp4",
+                "video_results": 0.26030805706977844
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000111.mp4",
+                "video_results": 0.22414036095142365
+            }
+        ]
+    ],
+    "overall_consistency": [
+        0.2253960393369198,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000241.mp4",
+                "video_results": 0.25388655066490173
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000711.mp4",
+                "video_results": 0.22309499979019165
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000201.mp4",
+                "video_results": 0.17505556344985962
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000171.mp4",
+                "video_results": 0.18035849928855896
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000301.mp4",
+                "video_results": 0.16496741771697998
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000211.mp4",
+                "video_results": 0.17874670028686523
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000801.mp4",
+                "video_results": 0.18693217635154724
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000031.mp4",
+                "video_results": 0.21052268147468567
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000971.mp4",
+                "video_results": 0.1995759904384613
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000141.mp4",
+                "video_results": 0.22325515747070312
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000761.mp4",
+                "video_results": 0.18837136030197144
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000961.mp4",
+                "video_results": 0.2643619775772095
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000121.mp4",
+                "video_results": 0.25795093178749084
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000541.mp4",
+                "video_results": 0.21548257768154144
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000551.mp4",
+                "video_results": 0.2790575623512268
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000081.mp4",
+                "video_results": 0.2583669424057007
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000041.mp4",
+                "video_results": 0.1825539469718933
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000951.mp4",
+                "video_results": 0.29416516423225403
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000101.mp4",
+                "video_results": 0.1347564309835434
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000641.mp4",
+                "video_results": 0.2533607482910156
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000321.mp4",
+                "video_results": 0.19588163495063782
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000941.mp4",
+                "video_results": 0.242020383477211
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000261.mp4",
+                "video_results": 0.24696195125579834
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000431.mp4",
+                "video_results": 0.12704607844352722
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000481.mp4",
+                "video_results": 0.280200332403183
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000511.mp4",
+                "video_results": 0.21461999416351318
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000731.mp4",
+                "video_results": 0.23236985504627228
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000991.mp4",
+                "video_results": 0.3477095365524292
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000771.mp4",
+                "video_results": 0.21209542453289032
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000251.mp4",
+                "video_results": 0.3303913176059723
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000561.mp4",
+                "video_results": 0.2146117389202118
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000521.mp4",
+                "video_results": 0.22008037567138672
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000181.mp4",
+                "video_results": 0.23498612642288208
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000881.mp4",
+                "video_results": 0.2584697902202606
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000391.mp4",
+                "video_results": 0.22639288008213043
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000911.mp4",
+                "video_results": 0.24059057235717773
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000411.mp4",
+                "video_results": 0.19871874153614044
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000811.mp4",
+                "video_results": 0.292463481426239
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000821.mp4",
+                "video_results": 0.26071256399154663
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000681.mp4",
+                "video_results": 0.24338151514530182
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000221.mp4",
+                "video_results": 0.2097337245941162
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000131.mp4",
+                "video_results": 0.2617734670639038
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000011.mp4",
+                "video_results": 0.1886710822582245
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000001.mp4",
+                "video_results": 0.24843436479568481
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000671.mp4",
+                "video_results": 0.22159157693386078
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000531.mp4",
+                "video_results": 0.20351725816726685
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000191.mp4",
+                "video_results": 0.11787481606006622
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000091.mp4",
+                "video_results": 0.1896207630634308
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000861.mp4",
+                "video_results": 0.2551746368408203
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000331.mp4",
+                "video_results": 0.2551914155483246
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000491.mp4",
+                "video_results": 0.2085207998752594
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000741.mp4",
+                "video_results": 0.23747189342975616
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000581.mp4",
+                "video_results": 0.2713257074356079
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000061.mp4",
+                "video_results": 0.14898991584777832
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000051.mp4",
+                "video_results": 0.23454760015010834
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000441.mp4",
+                "video_results": 0.252028226852417
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000631.mp4",
+                "video_results": 0.2582785487174988
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000381.mp4",
+                "video_results": 0.23857200145721436
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000981.mp4",
+                "video_results": 0.27241837978363037
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000841.mp4",
+                "video_results": 0.29194730520248413
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000891.mp4",
+                "video_results": 0.21758735179901123
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000901.mp4",
+                "video_results": 0.2362043410539627
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000661.mp4",
+                "video_results": 0.3223003149032593
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000271.mp4",
+                "video_results": 0.2149999886751175
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000371.mp4",
+                "video_results": 0.21049247682094574
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000231.mp4",
+                "video_results": 0.18094749748706818
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000601.mp4",
+                "video_results": 0.19548530876636505
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000691.mp4",
+                "video_results": 0.1922285556793213
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000151.mp4",
+                "video_results": 0.2701616883277893
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000571.mp4",
+                "video_results": 0.3185117542743683
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000751.mp4",
+                "video_results": 0.186262845993042
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000611.mp4",
+                "video_results": 0.23011276125907898
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000871.mp4",
+                "video_results": 0.29578086733818054
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000071.mp4",
+                "video_results": 0.20567822456359863
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000931.mp4",
+                "video_results": 0.18251971900463104
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000831.mp4",
+                "video_results": 0.2641623020172119
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000501.mp4",
+                "video_results": 0.23931339383125305
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000341.mp4",
+                "video_results": 0.25763529539108276
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000651.mp4",
+                "video_results": 0.20659266412258148
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000781.mp4",
+                "video_results": 0.1825231909751892
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000421.mp4",
+                "video_results": 0.22183793783187866
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000791.mp4",
+                "video_results": 0.19341295957565308
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000291.mp4",
+                "video_results": 0.18344584107398987
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000361.mp4",
+                "video_results": 0.15488791465759277
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000921.mp4",
+                "video_results": 0.3084786534309387
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000471.mp4",
+                "video_results": 0.2326159030199051
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000621.mp4",
+                "video_results": 0.23124024271965027
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000311.mp4",
+                "video_results": 0.17955894768238068
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000451.mp4",
+                "video_results": 0.2805553674697876
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000461.mp4",
+                "video_results": 0.19011104106903076
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000401.mp4",
+                "video_results": 0.2171471267938614
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000591.mp4",
+                "video_results": 0.24008402228355408
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000721.mp4",
+                "video_results": 0.12974944710731506
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000351.mp4",
+                "video_results": 0.23252952098846436
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000161.mp4",
+                "video_results": 0.19477620720863342
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000281.mp4",
+                "video_results": 0.15593670308589935
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000851.mp4",
+                "video_results": 0.14061923325061798
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000021.mp4",
+                "video_results": 0.24845674633979797
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000701.mp4",
+                "video_results": 0.26030805706977844
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/allegro/000111.mp4",
+                "video_results": 0.22414036095142365
+            }
+        ]
+    ]
+}

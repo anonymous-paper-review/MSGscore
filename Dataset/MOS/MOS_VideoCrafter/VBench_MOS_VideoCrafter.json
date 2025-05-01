@@ -1,0 +1,3847 @@
+{
+    "subject_consistency": [
+        0.9448587286174297,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000241.mp4",
+                "video_results": 0.9852383097012838
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000711.mp4",
+                "video_results": 0.9699684321880341
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000201.mp4",
+                "video_results": 0.9731687009334564
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000171.mp4",
+                "video_results": 0.8197686195373535
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000301.mp4",
+                "video_results": 0.9727275609970093
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000211.mp4",
+                "video_results": 0.9300527691841125
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000801.mp4",
+                "video_results": 0.9178698599338532
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000031.mp4",
+                "video_results": 0.9701192816098531
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000971.mp4",
+                "video_results": 0.9677652299404145
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000141.mp4",
+                "video_results": 0.9612805426120759
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000761.mp4",
+                "video_results": 0.9996652026971181
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000961.mp4",
+                "video_results": 0.9137204865614573
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000121.mp4",
+                "video_results": 0.9825837890307109
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000541.mp4",
+                "video_results": 0.9496151169141134
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000551.mp4",
+                "video_results": 0.9880808969338735
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000081.mp4",
+                "video_results": 0.8639697710673014
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000041.mp4",
+                "video_results": 0.8108976503213247
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000951.mp4",
+                "video_results": 0.9877916276454926
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000101.mp4",
+                "video_results": 0.9632798989613851
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000641.mp4",
+                "video_results": 0.9484650949637096
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000321.mp4",
+                "video_results": 0.9568510532379151
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000941.mp4",
+                "video_results": 0.9533358514308929
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000261.mp4",
+                "video_results": 0.991287096341451
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000431.mp4",
+                "video_results": 0.8900153974692027
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000481.mp4",
+                "video_results": 0.929596887032191
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000511.mp4",
+                "video_results": 0.8883590857187907
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000731.mp4",
+                "video_results": 0.9949063301086426
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000991.mp4",
+                "video_results": 0.9749244232972463
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000771.mp4",
+                "video_results": 0.910117091735204
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000251.mp4",
+                "video_results": 0.9275169253349305
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000561.mp4",
+                "video_results": 0.9847304105758667
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000521.mp4",
+                "video_results": 0.9857828358809153
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000181.mp4",
+                "video_results": 0.8850253423055013
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000881.mp4",
+                "video_results": 0.9983209510644276
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000391.mp4",
+                "video_results": 0.9183632334073385
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000911.mp4",
+                "video_results": 0.9898486137390137
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000411.mp4",
+                "video_results": 0.9142046511173249
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000811.mp4",
+                "video_results": 0.9993282238642375
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000821.mp4",
+                "video_results": 0.9866538306077322
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000681.mp4",
+                "video_results": 0.8756850202878316
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000221.mp4",
+                "video_results": 0.9261643350124359
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000131.mp4",
+                "video_results": 0.912958554426829
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000011.mp4",
+                "video_results": 0.9315993050734203
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000001.mp4",
+                "video_results": 0.9787487924098969
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000671.mp4",
+                "video_results": 0.9718777000904083
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000531.mp4",
+                "video_results": 0.9688976089159648
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000191.mp4",
+                "video_results": 0.9855506340662639
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000091.mp4",
+                "video_results": 0.9507183174292246
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000861.mp4",
+                "video_results": 0.8749846378962199
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000331.mp4",
+                "video_results": 0.9417626897493998
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000491.mp4",
+                "video_results": 0.9235575755437215
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000741.mp4",
+                "video_results": 0.9313254594802857
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000581.mp4",
+                "video_results": 0.8911793649196624
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000061.mp4",
+                "video_results": 0.9629063665866852
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000051.mp4",
+                "video_results": 0.9624828159809112
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000441.mp4",
+                "video_results": 0.9252114991346995
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000631.mp4",
+                "video_results": 0.9767846465110779
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000381.mp4",
+                "video_results": 0.9643563648064931
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000981.mp4",
+                "video_results": 0.9449551204840342
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000841.mp4",
+                "video_results": 0.9923632125059764
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000891.mp4",
+                "video_results": 0.9451758325099945
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000901.mp4",
+                "video_results": 0.9631927609443665
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000661.mp4",
+                "video_results": 0.9989075362682343
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000271.mp4",
+                "video_results": 0.929356473684311
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000371.mp4",
+                "video_results": 0.9136587977409363
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000231.mp4",
+                "video_results": 0.7495161304871242
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000601.mp4",
+                "video_results": 0.8658003906408945
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000691.mp4",
+                "video_results": 0.9942995766798656
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000151.mp4",
+                "video_results": 0.9436033686002095
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000571.mp4",
+                "video_results": 0.9296808262666066
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000751.mp4",
+                "video_results": 0.9899185438950856
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000611.mp4",
+                "video_results": 0.8005026837189992
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000871.mp4",
+                "video_results": 0.938254060347875
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000071.mp4",
+                "video_results": 0.9173689842224121
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000931.mp4",
+                "video_results": 0.9585774560769399
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000831.mp4",
+                "video_results": 0.9482213040192922
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000501.mp4",
+                "video_results": 0.9491082588831584
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000341.mp4",
+                "video_results": 0.9683033068974812
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000651.mp4",
+                "video_results": 0.9701530933380127
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000781.mp4",
+                "video_results": 0.9955066959063212
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000421.mp4",
+                "video_results": 0.9673103809356689
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000791.mp4",
+                "video_results": 0.9987268884976704
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000291.mp4",
+                "video_results": 0.9549969871838887
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000361.mp4",
+                "video_results": 0.9667594313621521
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000921.mp4",
+                "video_results": 0.9443726082642873
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000471.mp4",
+                "video_results": 0.9932318230470022
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000621.mp4",
+                "video_results": 0.9083708345890045
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000311.mp4",
+                "video_results": 0.9096993426481883
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000451.mp4",
+                "video_results": 0.9845253745714824
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000461.mp4",
+                "video_results": 0.9355016648769379
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000401.mp4",
+                "video_results": 0.9876675307750702
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000591.mp4",
+                "video_results": 0.9435061891873677
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000721.mp4",
+                "video_results": 0.9987185955047607
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000351.mp4",
+                "video_results": 0.9114990651607513
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000161.mp4",
+                "video_results": 0.9862276792526246
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000281.mp4",
+                "video_results": 0.9750867287317911
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000851.mp4",
+                "video_results": 0.9758889536062877
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000021.mp4",
+                "video_results": 0.9978624741236369
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000701.mp4",
+                "video_results": 0.9959983249505361
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000111.mp4",
+                "video_results": 0.731548806031545
+            }
+        ]
+    ],
+    "background_consistency": [
+        0.9553396809895833,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000241.mp4",
+                "video_results": 0.9866373697916667,
+                "video_sim": 14.799560546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000711.mp4",
+                "video_results": 0.9361165364583334,
+                "video_sim": 14.041748046875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000201.mp4",
+                "video_results": 0.9609049479166667,
+                "video_sim": 14.41357421875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000171.mp4",
+                "video_results": 0.8723307291666667,
+                "video_sim": 13.0849609375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000301.mp4",
+                "video_results": 0.968505859375,
+                "video_sim": 14.527587890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000211.mp4",
+                "video_results": 0.951953125,
+                "video_sim": 14.279296875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000801.mp4",
+                "video_results": 0.9501302083333333,
+                "video_sim": 14.251953125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000031.mp4",
+                "video_results": 0.9773763020833334,
+                "video_sim": 14.66064453125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000971.mp4",
+                "video_results": 0.969921875,
+                "video_sim": 14.548828125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000141.mp4",
+                "video_results": 0.9454427083333333,
+                "video_sim": 14.181640625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000761.mp4",
+                "video_results": 0.998095703125,
+                "video_sim": 14.971435546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000961.mp4",
+                "video_results": 0.92978515625,
+                "video_sim": 13.94677734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000121.mp4",
+                "video_results": 0.974072265625,
+                "video_sim": 14.611083984375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000541.mp4",
+                "video_results": 0.9584147135416666,
+                "video_sim": 14.376220703125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000551.mp4",
+                "video_results": 0.976953125,
+                "video_sim": 14.654296875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000081.mp4",
+                "video_results": 0.9026692708333334,
+                "video_sim": 13.5400390625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000041.mp4",
+                "video_results": 0.91435546875,
+                "video_sim": 13.71533203125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000951.mp4",
+                "video_results": 0.9859375,
+                "video_sim": 14.7890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000101.mp4",
+                "video_results": 0.9537109375,
+                "video_sim": 14.3056640625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000641.mp4",
+                "video_results": 0.9656412760416667,
+                "video_sim": 14.484619140625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000321.mp4",
+                "video_results": 0.9655598958333333,
+                "video_sim": 14.4833984375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000941.mp4",
+                "video_results": 0.9474934895833333,
+                "video_sim": 14.21240234375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000261.mp4",
+                "video_results": 0.9896809895833333,
+                "video_sim": 14.84521484375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000431.mp4",
+                "video_results": 0.921142578125,
+                "video_sim": 13.817138671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000481.mp4",
+                "video_results": 0.9686197916666667,
+                "video_sim": 14.529296875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000511.mp4",
+                "video_results": 0.925048828125,
+                "video_sim": 13.875732421875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000731.mp4",
+                "video_results": 0.9846516927083333,
+                "video_sim": 14.769775390625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000991.mp4",
+                "video_results": 0.973095703125,
+                "video_sim": 14.596435546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000771.mp4",
+                "video_results": 0.9419759114583334,
+                "video_sim": 14.129638671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000251.mp4",
+                "video_results": 0.9400065104166667,
+                "video_sim": 14.10009765625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000561.mp4",
+                "video_results": 0.97841796875,
+                "video_sim": 14.67626953125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000521.mp4",
+                "video_results": 0.9842447916666667,
+                "video_sim": 14.763671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000181.mp4",
+                "video_results": 0.8819010416666667,
+                "video_sim": 13.228515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000881.mp4",
+                "video_results": 0.9759114583333334,
+                "video_sim": 14.638671875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000391.mp4",
+                "video_results": 0.9244466145833333,
+                "video_sim": 13.86669921875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000911.mp4",
+                "video_results": 0.9847981770833333,
+                "video_sim": 14.77197265625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000411.mp4",
+                "video_results": 0.9426432291666667,
+                "video_sim": 14.1396484375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000811.mp4",
+                "video_results": 0.9890950520833334,
+                "video_sim": 14.83642578125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000821.mp4",
+                "video_results": 0.9758463541666667,
+                "video_sim": 14.6376953125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000681.mp4",
+                "video_results": 0.9047526041666667,
+                "video_sim": 13.5712890625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000221.mp4",
+                "video_results": 0.9261881510416666,
+                "video_sim": 13.892822265625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000131.mp4",
+                "video_results": 0.9071451822916666,
+                "video_sim": 13.607177734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000011.mp4",
+                "video_results": 0.9646809895833334,
+                "video_sim": 14.47021484375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000001.mp4",
+                "video_results": 0.96640625,
+                "video_sim": 14.49609375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000671.mp4",
+                "video_results": 0.9639973958333333,
+                "video_sim": 14.4599609375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000531.mp4",
+                "video_results": 0.950341796875,
+                "video_sim": 14.255126953125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000191.mp4",
+                "video_results": 0.9852701822916666,
+                "video_sim": 14.779052734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000091.mp4",
+                "video_results": 0.9665201822916667,
+                "video_sim": 14.497802734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000861.mp4",
+                "video_results": 0.9303385416666666,
+                "video_sim": 13.955078125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000331.mp4",
+                "video_results": 0.9185709635416667,
+                "video_sim": 13.778564453125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000491.mp4",
+                "video_results": 0.9409830729166667,
+                "video_sim": 14.11474609375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000741.mp4",
+                "video_results": 0.9532389322916667,
+                "video_sim": 14.298583984375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000581.mp4",
+                "video_results": 0.9516276041666667,
+                "video_sim": 14.2744140625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000061.mp4",
+                "video_results": 0.9750325520833333,
+                "video_sim": 14.62548828125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000051.mp4",
+                "video_results": 0.9744303385416667,
+                "video_sim": 14.616455078125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000441.mp4",
+                "video_results": 0.9465006510416667,
+                "video_sim": 14.197509765625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000631.mp4",
+                "video_results": 0.9538248697916667,
+                "video_sim": 14.307373046875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000381.mp4",
+                "video_results": 0.9600260416666667,
+                "video_sim": 14.400390625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000981.mp4",
+                "video_results": 0.9659016927083334,
+                "video_sim": 14.488525390625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000841.mp4",
+                "video_results": 0.9824869791666667,
+                "video_sim": 14.7373046875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000891.mp4",
+                "video_results": 0.9568033854166667,
+                "video_sim": 14.35205078125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000901.mp4",
+                "video_results": 0.925439453125,
+                "video_sim": 13.881591796875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000661.mp4",
+                "video_results": 0.9970703125,
+                "video_sim": 14.9560546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000271.mp4",
+                "video_results": 0.9492024739583333,
+                "video_sim": 14.238037109375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000371.mp4",
+                "video_results": 0.93193359375,
+                "video_sim": 13.97900390625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000231.mp4",
+                "video_results": 0.8993815104166667,
+                "video_sim": 13.49072265625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000601.mp4",
+                "video_results": 0.940087890625,
+                "video_sim": 14.101318359375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000691.mp4",
+                "video_results": 0.9901529947916666,
+                "video_sim": 14.852294921875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000151.mp4",
+                "video_results": 0.9183756510416666,
+                "video_sim": 13.775634765625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000571.mp4",
+                "video_results": 0.9494140625,
+                "video_sim": 14.2412109375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000751.mp4",
+                "video_results": 0.986181640625,
+                "video_sim": 14.792724609375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000611.mp4",
+                "video_results": 0.8902669270833333,
+                "video_sim": 13.35400390625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000871.mp4",
+                "video_results": 0.9666341145833334,
+                "video_sim": 14.49951171875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000071.mp4",
+                "video_results": 0.925830078125,
+                "video_sim": 13.887451171875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000931.mp4",
+                "video_results": 0.9650553385416667,
+                "video_sim": 14.475830078125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000831.mp4",
+                "video_results": 0.9491536458333333,
+                "video_sim": 14.2373046875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000501.mp4",
+                "video_results": 0.9773111979166667,
+                "video_sim": 14.65966796875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000341.mp4",
+                "video_results": 0.9631998697916667,
+                "video_sim": 14.447998046875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000651.mp4",
+                "video_results": 0.9697916666666667,
+                "video_sim": 14.546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000781.mp4",
+                "video_results": 0.9888671875,
+                "video_sim": 14.8330078125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000421.mp4",
+                "video_results": 0.9686197916666667,
+                "video_sim": 14.529296875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000791.mp4",
+                "video_results": 0.9945963541666667,
+                "video_sim": 14.9189453125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000291.mp4",
+                "video_results": 0.96240234375,
+                "video_sim": 14.43603515625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000361.mp4",
+                "video_results": 0.9633951822916667,
+                "video_sim": 14.450927734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000921.mp4",
+                "video_results": 0.94150390625,
+                "video_sim": 14.12255859375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000471.mp4",
+                "video_results": 0.9872721354166667,
+                "video_sim": 14.80908203125,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000621.mp4",
+                "video_results": 0.9158528645833334,
+                "video_sim": 13.73779296875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000311.mp4",
+                "video_results": 0.9307942708333333,
+                "video_sim": 13.9619140625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000451.mp4",
+                "video_results": 0.9928873697916667,
+                "video_sim": 14.893310546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000461.mp4",
+                "video_results": 0.9615071614583334,
+                "video_sim": 14.422607421875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000401.mp4",
+                "video_results": 0.9871744791666667,
+                "video_sim": 14.8076171875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000591.mp4",
+                "video_results": 0.9372233072916667,
+                "video_sim": 14.058349609375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000721.mp4",
+                "video_results": 0.9909830729166667,
+                "video_sim": 14.86474609375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000351.mp4",
+                "video_results": 0.9586100260416667,
+                "video_sim": 14.379150390625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000161.mp4",
+                "video_results": 0.9905110677083333,
+                "video_sim": 14.857666015625,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000281.mp4",
+                "video_results": 0.970361328125,
+                "video_sim": 14.555419921875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000851.mp4",
+                "video_results": 0.9460123697916667,
+                "video_sim": 14.190185546875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000021.mp4",
+                "video_results": 0.9833821614583333,
+                "video_sim": 14.750732421875,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000701.mp4",
+                "video_results": 0.9925618489583333,
+                "video_sim": 14.888427734375,
+                "cnt_per_video": 15
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000111.mp4",
+                "video_results": 0.8563639322916666,
+                "video_sim": 12.845458984375,
+                "cnt_per_video": 15
+            }
+        ]
+    ],
+    "temporal_flickering": [
+        0.9384256359969869,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000241.mp4",
+                "video_results": 0.9765991042642033
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000711.mp4",
+                "video_results": 0.9039426541795917
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000201.mp4",
+                "video_results": 0.9519874946743834
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000171.mp4",
+                "video_results": 0.8747876634784774
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000301.mp4",
+                "video_results": 0.9603596668617398
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000211.mp4",
+                "video_results": 0.9267321717505361
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000801.mp4",
+                "video_results": 0.9748937849904976
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000031.mp4",
+                "video_results": 0.9564930074355181
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000971.mp4",
+                "video_results": 0.9657046336753695
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000141.mp4",
+                "video_results": 0.9637607798856848
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000761.mp4",
+                "video_results": 0.987502571180755
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000961.mp4",
+                "video_results": 0.9384625827564913
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000121.mp4",
+                "video_results": 0.9791842124041389
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000541.mp4",
+                "video_results": 0.955972723867379
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000551.mp4",
+                "video_results": 0.9613746530869428
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000081.mp4",
+                "video_results": 0.90456257240445
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000041.mp4",
+                "video_results": 0.9344173805386412
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000951.mp4",
+                "video_results": 0.968103401333678
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000101.mp4",
+                "video_results": 0.9884447191275803
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000641.mp4",
+                "video_results": 0.8713736141429228
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000321.mp4",
+                "video_results": 0.8322363311169194
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000941.mp4",
+                "video_results": 0.9306330886541628
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000261.mp4",
+                "video_results": 0.985109743417478
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000431.mp4",
+                "video_results": 0.9335613400328393
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000481.mp4",
+                "video_results": 0.8551530127431832
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000511.mp4",
+                "video_results": 0.9510801277908625
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000731.mp4",
+                "video_results": 0.9934999741759954
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000991.mp4",
+                "video_results": 0.9805489427903119
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000771.mp4",
+                "video_results": 0.9681366153791839
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000251.mp4",
+                "video_results": 0.9288677888758042
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000561.mp4",
+                "video_results": 0.9850460099238976
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000521.mp4",
+                "video_results": 0.9787861468745213
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000181.mp4",
+                "video_results": 0.9103139316334444
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000881.mp4",
+                "video_results": 0.9940755942288567
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000391.mp4",
+                "video_results": 0.9601618897681142
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000911.mp4",
+                "video_results": 0.9561482560400869
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000411.mp4",
+                "video_results": 0.9199705610088273
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000811.mp4",
+                "video_results": 0.9945195707620359
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000821.mp4",
+                "video_results": 0.9635226754581228
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000681.mp4",
+                "video_results": 0.8577181647805606
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000221.mp4",
+                "video_results": 0.893959322162703
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000131.mp4",
+                "video_results": 0.9033721699434168
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000011.mp4",
+                "video_results": 0.7700077131682751
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000001.mp4",
+                "video_results": 0.9603895075180952
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000671.mp4",
+                "video_results": 0.9778036192351697
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000531.mp4",
+                "video_results": 0.9823014016244925
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000191.mp4",
+                "video_results": 0.9816224509594487
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000091.mp4",
+                "video_results": 0.9748782681483849
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000861.mp4",
+                "video_results": 0.8334788303749234
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000331.mp4",
+                "video_results": 0.970194517397413
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000491.mp4",
+                "video_results": 0.9055995492374196
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000741.mp4",
+                "video_results": 0.8953905292585784
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000581.mp4",
+                "video_results": 0.9708114100437538
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000061.mp4",
+                "video_results": 0.9818022653168323
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000051.mp4",
+                "video_results": 0.9862653937994265
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000441.mp4",
+                "video_results": 0.7755835888432522
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000631.mp4",
+                "video_results": 0.9816656654956294
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000381.mp4",
+                "video_results": 0.9869064349754184
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000981.mp4",
+                "video_results": 0.9437851064345416
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000841.mp4",
+                "video_results": 0.9833478179632449
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000891.mp4",
+                "video_results": 0.9492006451475854
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000901.mp4",
+                "video_results": 0.9775547438976812
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000661.mp4",
+                "video_results": 0.993241729923323
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000271.mp4",
+                "video_results": 0.8504477257822074
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000371.mp4",
+                "video_results": 0.9015462763169233
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000231.mp4",
+                "video_results": 0.9302813436470779
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000601.mp4",
+                "video_results": 0.9268833833582261
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000691.mp4",
+                "video_results": 0.9872818647646436
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000151.mp4",
+                "video_results": 0.9381630729226506
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000571.mp4",
+                "video_results": 0.9569518033195944
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000751.mp4",
+                "video_results": 0.9855918687932631
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000611.mp4",
+                "video_results": 0.9047763450472963
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000871.mp4",
+                "video_results": 0.9754142125447591
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000071.mp4",
+                "video_results": 0.8876225564994064
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000931.mp4",
+                "video_results": 0.5245743097043505
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000831.mp4",
+                "video_results": 0.9511846056171492
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000501.mp4",
+                "video_results": 0.9757997662413354
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000341.mp4",
+                "video_results": 0.9202398786357805
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000651.mp4",
+                "video_results": 0.9651857039507697
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000781.mp4",
+                "video_results": 0.9913406764759737
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000421.mp4",
+                "video_results": 0.9734192661210602
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000791.mp4",
+                "video_results": 0.9915315478455786
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000291.mp4",
+                "video_results": 0.9304606867771522
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000361.mp4",
+                "video_results": 0.9427187676523247
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000921.mp4",
+                "video_results": 0.8224192750220205
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000471.mp4",
+                "video_results": 0.975898499582328
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000621.mp4",
+                "video_results": 0.9483169331270106
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000311.mp4",
+                "video_results": 0.9214525035783356
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000451.mp4",
+                "video_results": 0.9805258002935672
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000461.mp4",
+                "video_results": 0.943615535661286
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000401.mp4",
+                "video_results": 0.9812427427254471
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000591.mp4",
+                "video_results": 0.8409759970272288
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000721.mp4",
+                "video_results": 0.9923757366105622
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000351.mp4",
+                "video_results": 0.7858908709357767
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000161.mp4",
+                "video_results": 0.9864930639079973
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000281.mp4",
+                "video_results": 0.9803040410958085
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000851.mp4",
+                "video_results": 0.96724806766884
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000021.mp4",
+                "video_results": 0.9897570740942861
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000701.mp4",
+                "video_results": 0.991597609426461
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000111.mp4",
+                "video_results": 0.9201223485610064
+            }
+        ]
+    ],
+    "motion_smoothness": [
+        0.9561647237711817,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000241.mp4",
+                "video_results": 0.9902169037735898
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000711.mp4",
+                "video_results": 0.9549460654758866
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000201.mp4",
+                "video_results": 0.9631609944686786
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000171.mp4",
+                "video_results": 0.927428007516664
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000301.mp4",
+                "video_results": 0.969378486076867
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000211.mp4",
+                "video_results": 0.9443816527623782
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000801.mp4",
+                "video_results": 0.9786697902178811
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000031.mp4",
+                "video_results": 0.9771694936474301
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000971.mp4",
+                "video_results": 0.976656246492014
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000141.mp4",
+                "video_results": 0.9780087311617355
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000761.mp4",
+                "video_results": 0.9887534049626071
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000961.mp4",
+                "video_results": 0.9717412536032208
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000121.mp4",
+                "video_results": 0.9906126185192682
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000541.mp4",
+                "video_results": 0.9786905449571323
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000551.mp4",
+                "video_results": 0.9823747103188787
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000081.mp4",
+                "video_results": 0.9514155673119942
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000041.mp4",
+                "video_results": 0.9513892602668238
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000951.mp4",
+                "video_results": 0.9876393851359265
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000101.mp4",
+                "video_results": 0.9935533184989852
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000641.mp4",
+                "video_results": 0.9171312671118794
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000321.mp4",
+                "video_results": 0.8667885704448156
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000941.mp4",
+                "video_results": 0.9659665176291872
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000261.mp4",
+                "video_results": 0.9931669863492996
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000431.mp4",
+                "video_results": 0.9519042582491619
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000481.mp4",
+                "video_results": 0.8751471280334328
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000511.mp4",
+                "video_results": 0.9763974698404391
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000731.mp4",
+                "video_results": 0.99444194041368
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000991.mp4",
+                "video_results": 0.9883945329343398
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000771.mp4",
+                "video_results": 0.9806846481720581
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000251.mp4",
+                "video_results": 0.9504640343550614
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000561.mp4",
+                "video_results": 0.9894133052436107
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000521.mp4",
+                "video_results": 0.9869509555576426
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000181.mp4",
+                "video_results": 0.9508096988795518
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000881.mp4",
+                "video_results": 0.9946929947470886
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000391.mp4",
+                "video_results": 0.968114623326906
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000911.mp4",
+                "video_results": 0.981996093205439
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000411.mp4",
+                "video_results": 0.9661741378409002
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000811.mp4",
+                "video_results": 0.9946344420924474
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000821.mp4",
+                "video_results": 0.9732236923722759
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000681.mp4",
+                "video_results": 0.8733303443266774
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000221.mp4",
+                "video_results": 0.9207336327633628
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000131.mp4",
+                "video_results": 0.9297444126395494
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000011.mp4",
+                "video_results": 0.7917990279155644
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000001.mp4",
+                "video_results": 0.9808473085414722
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000671.mp4",
+                "video_results": 0.9839274633102663
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000531.mp4",
+                "video_results": 0.9854788973242654
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000191.mp4",
+                "video_results": 0.9866838110298374
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000091.mp4",
+                "video_results": 0.9862104890603521
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000861.mp4",
+                "video_results": 0.8646867220376286
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000331.mp4",
+                "video_results": 0.9872983728086865
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000491.mp4",
+                "video_results": 0.9557274671297917
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000741.mp4",
+                "video_results": 0.9537685780149734
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000581.mp4",
+                "video_results": 0.9818010650169355
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000061.mp4",
+                "video_results": 0.9875996527625808
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000051.mp4",
+                "video_results": 0.9889278351314484
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000441.mp4",
+                "video_results": 0.7708476119126036
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000631.mp4",
+                "video_results": 0.9918901070085152
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000381.mp4",
+                "video_results": 0.9915687368697479
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000981.mp4",
+                "video_results": 0.9596618281915631
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000841.mp4",
+                "video_results": 0.9884695303812352
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000891.mp4",
+                "video_results": 0.9660048942989378
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000901.mp4",
+                "video_results": 0.9905672781174826
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000661.mp4",
+                "video_results": 0.993895785310652
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000271.mp4",
+                "video_results": 0.9047567257335516
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000371.mp4",
+                "video_results": 0.9281770872592382
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000231.mp4",
+                "video_results": 0.9661265333951145
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000601.mp4",
+                "video_results": 0.9571328318382474
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000691.mp4",
+                "video_results": 0.9911114902142136
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000151.mp4",
+                "video_results": 0.9444507559697056
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000571.mp4",
+                "video_results": 0.9744574545132
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000751.mp4",
+                "video_results": 0.991718524387113
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000611.mp4",
+                "video_results": 0.9396081241560571
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000871.mp4",
+                "video_results": 0.9799872314377139
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000071.mp4",
+                "video_results": 0.9324474240922498
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000931.mp4",
+                "video_results": 0.5210612365425047
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000831.mp4",
+                "video_results": 0.9599149569224391
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000501.mp4",
+                "video_results": 0.9833704201533767
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000341.mp4",
+                "video_results": 0.9721602628953057
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000651.mp4",
+                "video_results": 0.9736089911224907
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000781.mp4",
+                "video_results": 0.9927728938888201
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000421.mp4",
+                "video_results": 0.988695316134628
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000791.mp4",
+                "video_results": 0.9924173098058667
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000291.mp4",
+                "video_results": 0.9427068731500122
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000361.mp4",
+                "video_results": 0.953898555543094
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000921.mp4",
+                "video_results": 0.8323677342392396
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000471.mp4",
+                "video_results": 0.9841252244351154
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000621.mp4",
+                "video_results": 0.9588355980865292
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000311.mp4",
+                "video_results": 0.928380878447299
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000451.mp4",
+                "video_results": 0.9879157682043448
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000461.mp4",
+                "video_results": 0.9538034308685135
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000401.mp4",
+                "video_results": 0.9899470801323279
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000591.mp4",
+                "video_results": 0.9122858938135439
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000721.mp4",
+                "video_results": 0.9935335468189735
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000351.mp4",
+                "video_results": 0.8719454750577894
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000161.mp4",
+                "video_results": 0.9924357561763855
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000281.mp4",
+                "video_results": 0.9895707732872518
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000851.mp4",
+                "video_results": 0.9807011768646984
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000021.mp4",
+                "video_results": 0.9914108334939155
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000701.mp4",
+                "video_results": 0.9931096969495263
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000111.mp4",
+                "video_results": 0.9313679272164594
+            }
+        ]
+    ],
+    "dynamic_degree": [
+        0.6,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000241.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000711.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000201.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000171.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000301.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000211.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000801.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000031.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000971.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000141.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000761.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000961.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000121.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000541.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000551.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000081.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000041.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000951.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000101.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000641.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000321.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000941.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000261.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000431.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000481.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000511.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000731.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000991.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000771.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000251.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000561.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000521.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000181.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000881.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000391.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000911.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000411.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000811.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000821.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000681.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000221.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000131.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000011.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000001.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000671.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000531.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000191.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000091.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000861.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000331.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000491.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000741.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000581.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000061.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000051.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000441.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000631.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000381.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000981.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000841.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000891.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000901.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000661.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000271.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000371.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000231.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000601.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000691.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000151.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000571.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000751.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000611.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000871.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000071.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000931.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000831.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000501.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000341.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000651.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000781.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000421.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000791.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000291.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000361.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000921.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000471.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000621.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000311.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000451.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000461.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000401.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000591.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000721.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000351.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000161.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000281.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000851.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000021.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000701.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000111.mp4",
+                "video_results": true
+            }
+        ]
+    ],
+    "aesthetic_quality": [
+        0.5333559238910675,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000241.mp4",
+                "video_results": 0.5498830676078796
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000711.mp4",
+                "video_results": 0.557219386100769
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000201.mp4",
+                "video_results": 0.3414921760559082
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000171.mp4",
+                "video_results": 0.4338524341583252
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000301.mp4",
+                "video_results": 0.44134950637817383
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000211.mp4",
+                "video_results": 0.5748488903045654
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000801.mp4",
+                "video_results": 0.5276113748550415
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000031.mp4",
+                "video_results": 0.5805051326751709
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000971.mp4",
+                "video_results": 0.6386778950691223
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000141.mp4",
+                "video_results": 0.4893186688423157
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000761.mp4",
+                "video_results": 0.6444104313850403
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000961.mp4",
+                "video_results": 0.5603122711181641
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000121.mp4",
+                "video_results": 0.5058929920196533
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000541.mp4",
+                "video_results": 0.4722025394439697
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000551.mp4",
+                "video_results": 0.6705961227416992
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000081.mp4",
+                "video_results": 0.4428269565105438
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000041.mp4",
+                "video_results": 0.38766732811927795
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000951.mp4",
+                "video_results": 0.5672564506530762
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000101.mp4",
+                "video_results": 0.523512601852417
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000641.mp4",
+                "video_results": 0.5955641269683838
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000321.mp4",
+                "video_results": 0.4712201952934265
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000941.mp4",
+                "video_results": 0.55352783203125
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000261.mp4",
+                "video_results": 0.652700662612915
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000431.mp4",
+                "video_results": 0.5223773717880249
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000481.mp4",
+                "video_results": 0.7577874064445496
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000511.mp4",
+                "video_results": 0.5063818693161011
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000731.mp4",
+                "video_results": 0.5184570550918579
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000991.mp4",
+                "video_results": 0.6766794919967651
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000771.mp4",
+                "video_results": 0.5092536211013794
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000251.mp4",
+                "video_results": 0.627366840839386
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000561.mp4",
+                "video_results": 0.588607668876648
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000521.mp4",
+                "video_results": 0.5871042609214783
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000181.mp4",
+                "video_results": 0.45392322540283203
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000881.mp4",
+                "video_results": 0.6399171352386475
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000391.mp4",
+                "video_results": 0.6008059978485107
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000911.mp4",
+                "video_results": 0.5486204624176025
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000411.mp4",
+                "video_results": 0.542771577835083
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000811.mp4",
+                "video_results": 0.6074325442314148
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000821.mp4",
+                "video_results": 0.7418100833892822
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000681.mp4",
+                "video_results": 0.5781902074813843
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000221.mp4",
+                "video_results": 0.5609986782073975
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000131.mp4",
+                "video_results": 0.4875698685646057
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000011.mp4",
+                "video_results": 0.6027113199234009
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000001.mp4",
+                "video_results": 0.6118870973587036
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000671.mp4",
+                "video_results": 0.49669238924980164
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000531.mp4",
+                "video_results": 0.4691716730594635
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000191.mp4",
+                "video_results": 0.5062175393104553
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000091.mp4",
+                "video_results": 0.35734280943870544
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000861.mp4",
+                "video_results": 0.4580567479133606
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000331.mp4",
+                "video_results": 0.624798059463501
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000491.mp4",
+                "video_results": 0.579300045967102
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000741.mp4",
+                "video_results": 0.7145540118217468
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000581.mp4",
+                "video_results": 0.5945204496383667
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000061.mp4",
+                "video_results": 0.6239039301872253
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000051.mp4",
+                "video_results": 0.6052083969116211
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000441.mp4",
+                "video_results": 0.4896954894065857
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000631.mp4",
+                "video_results": 0.5036289095878601
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000381.mp4",
+                "video_results": 0.5734357833862305
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000981.mp4",
+                "video_results": 0.6078271865844727
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000841.mp4",
+                "video_results": 0.6089535355567932
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000891.mp4",
+                "video_results": 0.351680189371109
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000901.mp4",
+                "video_results": 0.5441343784332275
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000661.mp4",
+                "video_results": 0.5774012804031372
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000271.mp4",
+                "video_results": 0.5306289196014404
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000371.mp4",
+                "video_results": 0.4669627249240875
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000231.mp4",
+                "video_results": 0.49056610465049744
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000601.mp4",
+                "video_results": 0.38834720849990845
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000691.mp4",
+                "video_results": 0.56317138671875
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000151.mp4",
+                "video_results": 0.5345903038978577
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000571.mp4",
+                "video_results": 0.4489564895629883
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000751.mp4",
+                "video_results": 0.504692792892456
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000611.mp4",
+                "video_results": 0.42218664288520813
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000871.mp4",
+                "video_results": 0.5487706661224365
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000071.mp4",
+                "video_results": 0.47285768389701843
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000931.mp4",
+                "video_results": 0.2782486081123352
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000831.mp4",
+                "video_results": 0.49187666177749634
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000501.mp4",
+                "video_results": 0.6459592580795288
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000341.mp4",
+                "video_results": 0.5600945353507996
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000651.mp4",
+                "video_results": 0.7076390385627747
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000781.mp4",
+                "video_results": 0.5649333000183105
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000421.mp4",
+                "video_results": 0.3542693257331848
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000791.mp4",
+                "video_results": 0.5840321779251099
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000291.mp4",
+                "video_results": 0.3409144878387451
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000361.mp4",
+                "video_results": 0.492887020111084
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000921.mp4",
+                "video_results": 0.472758412361145
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000471.mp4",
+                "video_results": 0.47882556915283203
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000621.mp4",
+                "video_results": 0.46636098623275757
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000311.mp4",
+                "video_results": 0.5247195959091187
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000451.mp4",
+                "video_results": 0.616250216960907
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000461.mp4",
+                "video_results": 0.5103954076766968
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000401.mp4",
+                "video_results": 0.48262035846710205
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000591.mp4",
+                "video_results": 0.4070994257926941
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000721.mp4",
+                "video_results": 0.3750303089618683
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000351.mp4",
+                "video_results": 0.5285058617591858
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000161.mp4",
+                "video_results": 0.6593521237373352
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000281.mp4",
+                "video_results": 0.4852660596370697
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000851.mp4",
+                "video_results": 0.5463247299194336
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000021.mp4",
+                "video_results": 0.755544900894165
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000701.mp4",
+                "video_results": 0.5631746053695679
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000111.mp4",
+                "video_results": 0.33115285634994507
+            }
+        ]
+    ],
+    "imaging_quality": [
+        0.6148610285639763,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000241.mp4",
+                "video_results": 58.09214425086975
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000711.mp4",
+                "video_results": 57.040682554244995
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000201.mp4",
+                "video_results": 42.541821002960205
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000171.mp4",
+                "video_results": 44.670974254608154
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000301.mp4",
+                "video_results": 62.3428168296814
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000211.mp4",
+                "video_results": 54.78116965293884
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000801.mp4",
+                "video_results": 60.6360137462616
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000031.mp4",
+                "video_results": 75.88710308074951
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000971.mp4",
+                "video_results": 73.32173585891724
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000141.mp4",
+                "video_results": 56.78382921218872
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000761.mp4",
+                "video_results": 70.87939929962158
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000961.mp4",
+                "video_results": 61.06415104866028
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000121.mp4",
+                "video_results": 70.18398523330688
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000541.mp4",
+                "video_results": 36.496617555618286
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000551.mp4",
+                "video_results": 75.45299196243286
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000081.mp4",
+                "video_results": 49.893895864486694
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000041.mp4",
+                "video_results": 42.992536544799805
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000951.mp4",
+                "video_results": 61.553950786590576
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000101.mp4",
+                "video_results": 68.13884592056274
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000641.mp4",
+                "video_results": 46.357173204422
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000321.mp4",
+                "video_results": 68.10551047325134
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000941.mp4",
+                "video_results": 67.40126848220825
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000261.mp4",
+                "video_results": 72.2214822769165
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000431.mp4",
+                "video_results": 48.12015914916992
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000481.mp4",
+                "video_results": 54.85646438598633
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000511.mp4",
+                "video_results": 35.202868700027466
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000731.mp4",
+                "video_results": 74.63471174240112
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000991.mp4",
+                "video_results": 60.510098457336426
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000771.mp4",
+                "video_results": 64.78285527229309
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000251.mp4",
+                "video_results": 71.6930365562439
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000561.mp4",
+                "video_results": 49.25432467460632
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000521.mp4",
+                "video_results": 71.97907495498657
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000181.mp4",
+                "video_results": 48.342849254608154
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000881.mp4",
+                "video_results": 74.66109848022461
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000391.mp4",
+                "video_results": 67.41630601882935
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000911.mp4",
+                "video_results": 73.62078475952148
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000411.mp4",
+                "video_results": 59.43298125267029
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000811.mp4",
+                "video_results": 67.6288537979126
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000821.mp4",
+                "video_results": 69.1167221069336
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000681.mp4",
+                "video_results": 68.12520170211792
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000221.mp4",
+                "video_results": 64.17316269874573
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000131.mp4",
+                "video_results": 56.258514404296875
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000011.mp4",
+                "video_results": 56.49682307243347
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000001.mp4",
+                "video_results": 66.3821280002594
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000671.mp4",
+                "video_results": 61.094919204711914
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000531.mp4",
+                "video_results": 74.0626482963562
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000191.mp4",
+                "video_results": 52.95399022102356
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000091.mp4",
+                "video_results": 58.104308128356934
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000861.mp4",
+                "video_results": 73.39993715286255
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000331.mp4",
+                "video_results": 55.34827899932861
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000491.mp4",
+                "video_results": 44.72721219062805
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000741.mp4",
+                "video_results": 63.26977252960205
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000581.mp4",
+                "video_results": 60.46755051612854
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000061.mp4",
+                "video_results": 66.1851544380188
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000051.mp4",
+                "video_results": 75.02188062667847
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000441.mp4",
+                "video_results": 75.721519947052
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000631.mp4",
+                "video_results": 53.43228602409363
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000381.mp4",
+                "video_results": 65.81530594825745
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000981.mp4",
+                "video_results": 70.66107940673828
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000841.mp4",
+                "video_results": 71.46087741851807
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000891.mp4",
+                "video_results": 55.61784100532532
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000901.mp4",
+                "video_results": 61.46253705024719
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000661.mp4",
+                "video_results": 76.56609153747559
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000271.mp4",
+                "video_results": 41.11925268173218
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000371.mp4",
+                "video_results": 40.52791476249695
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000231.mp4",
+                "video_results": 43.934637784957886
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000601.mp4",
+                "video_results": 53.71858620643616
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000691.mp4",
+                "video_results": 74.23900651931763
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000151.mp4",
+                "video_results": 62.85689973831177
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000571.mp4",
+                "video_results": 57.25319504737854
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000751.mp4",
+                "video_results": 74.5627703666687
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000611.mp4",
+                "video_results": 67.31717109680176
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000871.mp4",
+                "video_results": 66.951101064682
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000071.mp4",
+                "video_results": 67.40062212944031
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000931.mp4",
+                "video_results": 49.35303044319153
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000831.mp4",
+                "video_results": 64.28269910812378
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000501.mp4",
+                "video_results": 49.04234480857849
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000341.mp4",
+                "video_results": 54.171591997146606
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000651.mp4",
+                "video_results": 66.54728555679321
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000781.mp4",
+                "video_results": 67.39276504516602
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000421.mp4",
+                "video_results": 66.83283400535583
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000791.mp4",
+                "video_results": 62.72585153579712
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000291.mp4",
+                "video_results": 52.569624185562134
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000361.mp4",
+                "video_results": 75.96146535873413
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000921.mp4",
+                "video_results": 66.47439575195312
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000471.mp4",
+                "video_results": 75.18087673187256
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000621.mp4",
+                "video_results": 41.997597455978394
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000311.mp4",
+                "video_results": 52.797709941864014
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000451.mp4",
+                "video_results": 75.89733982086182
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000461.mp4",
+                "video_results": 72.16218519210815
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000401.mp4",
+                "video_results": 55.35756874084473
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000591.mp4",
+                "video_results": 60.11305212974548
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000721.mp4",
+                "video_results": 73.32513856887817
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000351.mp4",
+                "video_results": 73.06724452972412
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000161.mp4",
+                "video_results": 68.36322355270386
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000281.mp4",
+                "video_results": 59.60792064666748
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000851.mp4",
+                "video_results": 49.748350381851196
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000021.mp4",
+                "video_results": 51.74839925765991
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000701.mp4",
+                "video_results": 74.63488626480103
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000111.mp4",
+                "video_results": 44.47143805027008
+            }
+        ]
+    ],
+    "temporal_style": [
+        0.22883472353219986,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000241.mp4",
+                "video_results": 0.24729549884796143
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000711.mp4",
+                "video_results": 0.2491779774427414
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000201.mp4",
+                "video_results": 0.1714249551296234
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000171.mp4",
+                "video_results": 0.28489160537719727
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000301.mp4",
+                "video_results": 0.19750627875328064
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000211.mp4",
+                "video_results": 0.2223181277513504
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000801.mp4",
+                "video_results": 0.16350752115249634
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000031.mp4",
+                "video_results": 0.21711069345474243
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000971.mp4",
+                "video_results": 0.20328643918037415
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000141.mp4",
+                "video_results": 0.20632578432559967
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000761.mp4",
+                "video_results": 0.19482998549938202
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000961.mp4",
+                "video_results": 0.2790881097316742
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000121.mp4",
+                "video_results": 0.26003897190093994
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000541.mp4",
+                "video_results": 0.20907911658287048
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000551.mp4",
+                "video_results": 0.2559932470321655
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000081.mp4",
+                "video_results": 0.2734772562980652
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000041.mp4",
+                "video_results": 0.19540977478027344
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000951.mp4",
+                "video_results": 0.2672947645187378
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000101.mp4",
+                "video_results": 0.22378815710544586
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000641.mp4",
+                "video_results": 0.21410468220710754
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000321.mp4",
+                "video_results": 0.2269974648952484
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000941.mp4",
+                "video_results": 0.22037819027900696
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000261.mp4",
+                "video_results": 0.30104079842567444
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000431.mp4",
+                "video_results": 0.25779587030410767
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000481.mp4",
+                "video_results": 0.24595481157302856
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000511.mp4",
+                "video_results": 0.20213964581489563
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000731.mp4",
+                "video_results": 0.25573885440826416
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000991.mp4",
+                "video_results": 0.3313824534416199
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000771.mp4",
+                "video_results": 0.28928956389427185
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000251.mp4",
+                "video_results": 0.2664881646633148
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000561.mp4",
+                "video_results": 0.25336742401123047
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000521.mp4",
+                "video_results": 0.18618956208229065
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000181.mp4",
+                "video_results": 0.24447500705718994
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000881.mp4",
+                "video_results": 0.27895593643188477
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000391.mp4",
+                "video_results": 0.2115042507648468
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000911.mp4",
+                "video_results": 0.14052627980709076
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000411.mp4",
+                "video_results": 0.24782702326774597
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000811.mp4",
+                "video_results": 0.28499430418014526
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000821.mp4",
+                "video_results": 0.2872633934020996
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000681.mp4",
+                "video_results": 0.2883586287498474
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000221.mp4",
+                "video_results": 0.2563231587409973
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000131.mp4",
+                "video_results": 0.20431406795978546
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000011.mp4",
+                "video_results": 0.2599433660507202
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000001.mp4",
+                "video_results": 0.26947563886642456
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000671.mp4",
+                "video_results": 0.12900589406490326
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000531.mp4",
+                "video_results": 0.24296332895755768
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000191.mp4",
+                "video_results": 0.20573973655700684
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000091.mp4",
+                "video_results": 0.21009433269500732
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000861.mp4",
+                "video_results": 0.2525894343852997
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000331.mp4",
+                "video_results": 0.22135019302368164
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000491.mp4",
+                "video_results": 0.23008814454078674
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000741.mp4",
+                "video_results": 0.26712915301322937
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000581.mp4",
+                "video_results": 0.23493938148021698
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000061.mp4",
+                "video_results": 0.16396979987621307
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000051.mp4",
+                "video_results": 0.21655379235744476
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000441.mp4",
+                "video_results": 0.21129333972930908
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000631.mp4",
+                "video_results": 0.2788979411125183
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000381.mp4",
+                "video_results": 0.2765219807624817
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000981.mp4",
+                "video_results": 0.2194143831729889
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000841.mp4",
+                "video_results": 0.28586357831954956
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000891.mp4",
+                "video_results": 0.23930025100708008
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000901.mp4",
+                "video_results": 0.21898598968982697
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000661.mp4",
+                "video_results": 0.3379407525062561
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000271.mp4",
+                "video_results": 0.19693058729171753
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000371.mp4",
+                "video_results": 0.2031339406967163
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000231.mp4",
+                "video_results": 0.21006783843040466
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000601.mp4",
+                "video_results": 0.20468129217624664
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000691.mp4",
+                "video_results": 0.16821102797985077
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000151.mp4",
+                "video_results": 0.24535667896270752
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000571.mp4",
+                "video_results": 0.20235119760036469
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000751.mp4",
+                "video_results": 0.277197927236557
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000611.mp4",
+                "video_results": 0.2025412917137146
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000871.mp4",
+                "video_results": 0.26039350032806396
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000071.mp4",
+                "video_results": 0.3033694326877594
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000931.mp4",
+                "video_results": 0.018049001693725586
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000831.mp4",
+                "video_results": 0.28989729285240173
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000501.mp4",
+                "video_results": 0.2416660636663437
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000341.mp4",
+                "video_results": 0.24211201071739197
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000651.mp4",
+                "video_results": 0.2249336540699005
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000781.mp4",
+                "video_results": 0.22090689837932587
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000421.mp4",
+                "video_results": 0.27417004108428955
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000791.mp4",
+                "video_results": 0.22568431496620178
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000291.mp4",
+                "video_results": 0.09508206695318222
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000361.mp4",
+                "video_results": 0.21559540927410126
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000921.mp4",
+                "video_results": 0.31423312425613403
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000471.mp4",
+                "video_results": 0.23142078518867493
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000621.mp4",
+                "video_results": 0.21372929215431213
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000311.mp4",
+                "video_results": 0.19627971947193146
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000451.mp4",
+                "video_results": 0.22692222893238068
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000461.mp4",
+                "video_results": 0.2407267540693283
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000401.mp4",
+                "video_results": 0.2402602732181549
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000591.mp4",
+                "video_results": 0.2643122673034668
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000721.mp4",
+                "video_results": 0.12466436624526978
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000351.mp4",
+                "video_results": 0.22714877128601074
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000161.mp4",
+                "video_results": 0.213640034198761
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000281.mp4",
+                "video_results": 0.14096026122570038
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000851.mp4",
+                "video_results": 0.11159754544496536
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000021.mp4",
+                "video_results": 0.2425113320350647
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000701.mp4",
+                "video_results": 0.21638193726539612
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000111.mp4",
+                "video_results": 0.1670379787683487
+            }
+        ]
+    ],
+    "overall_consistency": [
+        0.22883472353219986,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000241.mp4",
+                "video_results": 0.24729549884796143
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000711.mp4",
+                "video_results": 0.2491779774427414
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000201.mp4",
+                "video_results": 0.1714249551296234
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000171.mp4",
+                "video_results": 0.28489160537719727
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000301.mp4",
+                "video_results": 0.19750627875328064
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000211.mp4",
+                "video_results": 0.2223181277513504
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000801.mp4",
+                "video_results": 0.16350752115249634
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000031.mp4",
+                "video_results": 0.21711069345474243
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000971.mp4",
+                "video_results": 0.20328643918037415
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000141.mp4",
+                "video_results": 0.20632578432559967
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000761.mp4",
+                "video_results": 0.19482998549938202
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000961.mp4",
+                "video_results": 0.2790881097316742
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000121.mp4",
+                "video_results": 0.26003897190093994
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000541.mp4",
+                "video_results": 0.20907911658287048
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000551.mp4",
+                "video_results": 0.2559932470321655
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000081.mp4",
+                "video_results": 0.2734772562980652
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000041.mp4",
+                "video_results": 0.19540977478027344
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000951.mp4",
+                "video_results": 0.2672947645187378
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000101.mp4",
+                "video_results": 0.22378815710544586
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000641.mp4",
+                "video_results": 0.21410468220710754
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000321.mp4",
+                "video_results": 0.2269974648952484
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000941.mp4",
+                "video_results": 0.22037819027900696
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000261.mp4",
+                "video_results": 0.30104079842567444
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000431.mp4",
+                "video_results": 0.25779587030410767
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000481.mp4",
+                "video_results": 0.24595481157302856
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000511.mp4",
+                "video_results": 0.20213964581489563
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000731.mp4",
+                "video_results": 0.25573885440826416
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000991.mp4",
+                "video_results": 0.3313824534416199
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000771.mp4",
+                "video_results": 0.28928956389427185
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000251.mp4",
+                "video_results": 0.2664881646633148
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000561.mp4",
+                "video_results": 0.25336742401123047
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000521.mp4",
+                "video_results": 0.18618956208229065
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000181.mp4",
+                "video_results": 0.24447500705718994
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000881.mp4",
+                "video_results": 0.27895593643188477
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000391.mp4",
+                "video_results": 0.2115042507648468
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000911.mp4",
+                "video_results": 0.14052627980709076
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000411.mp4",
+                "video_results": 0.24782702326774597
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000811.mp4",
+                "video_results": 0.28499430418014526
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000821.mp4",
+                "video_results": 0.2872633934020996
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000681.mp4",
+                "video_results": 0.2883586287498474
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000221.mp4",
+                "video_results": 0.2563231587409973
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000131.mp4",
+                "video_results": 0.20431406795978546
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000011.mp4",
+                "video_results": 0.2599433660507202
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000001.mp4",
+                "video_results": 0.26947563886642456
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000671.mp4",
+                "video_results": 0.12900589406490326
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000531.mp4",
+                "video_results": 0.24296332895755768
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000191.mp4",
+                "video_results": 0.20573973655700684
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000091.mp4",
+                "video_results": 0.21009433269500732
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000861.mp4",
+                "video_results": 0.2525894343852997
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000331.mp4",
+                "video_results": 0.22135019302368164
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000491.mp4",
+                "video_results": 0.23008814454078674
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000741.mp4",
+                "video_results": 0.26712915301322937
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000581.mp4",
+                "video_results": 0.23493938148021698
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000061.mp4",
+                "video_results": 0.16396979987621307
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000051.mp4",
+                "video_results": 0.21655379235744476
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000441.mp4",
+                "video_results": 0.21129333972930908
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000631.mp4",
+                "video_results": 0.2788979411125183
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000381.mp4",
+                "video_results": 0.2765219807624817
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000981.mp4",
+                "video_results": 0.2194143831729889
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000841.mp4",
+                "video_results": 0.28586357831954956
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000891.mp4",
+                "video_results": 0.23930025100708008
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000901.mp4",
+                "video_results": 0.21898598968982697
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000661.mp4",
+                "video_results": 0.3379407525062561
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000271.mp4",
+                "video_results": 0.19693058729171753
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000371.mp4",
+                "video_results": 0.2031339406967163
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000231.mp4",
+                "video_results": 0.21006783843040466
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000601.mp4",
+                "video_results": 0.20468129217624664
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000691.mp4",
+                "video_results": 0.16821102797985077
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000151.mp4",
+                "video_results": 0.24535667896270752
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000571.mp4",
+                "video_results": 0.20235119760036469
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000751.mp4",
+                "video_results": 0.277197927236557
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000611.mp4",
+                "video_results": 0.2025412917137146
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000871.mp4",
+                "video_results": 0.26039350032806396
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000071.mp4",
+                "video_results": 0.3033694326877594
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000931.mp4",
+                "video_results": 0.018049001693725586
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000831.mp4",
+                "video_results": 0.28989729285240173
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000501.mp4",
+                "video_results": 0.2416660636663437
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000341.mp4",
+                "video_results": 0.24211201071739197
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000651.mp4",
+                "video_results": 0.2249336540699005
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000781.mp4",
+                "video_results": 0.22090689837932587
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000421.mp4",
+                "video_results": 0.27417004108428955
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000791.mp4",
+                "video_results": 0.22568431496620178
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000291.mp4",
+                "video_results": 0.09508206695318222
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000361.mp4",
+                "video_results": 0.21559540927410126
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000921.mp4",
+                "video_results": 0.31423312425613403
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000471.mp4",
+                "video_results": 0.23142078518867493
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000621.mp4",
+                "video_results": 0.21372929215431213
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000311.mp4",
+                "video_results": 0.19627971947193146
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000451.mp4",
+                "video_results": 0.22692222893238068
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000461.mp4",
+                "video_results": 0.2407267540693283
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000401.mp4",
+                "video_results": 0.2402602732181549
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000591.mp4",
+                "video_results": 0.2643122673034668
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000721.mp4",
+                "video_results": 0.12466436624526978
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000351.mp4",
+                "video_results": 0.22714877128601074
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000161.mp4",
+                "video_results": 0.213640034198761
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000281.mp4",
+                "video_results": 0.14096026122570038
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000851.mp4",
+                "video_results": 0.11159754544496536
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000021.mp4",
+                "video_results": 0.2425113320350647
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000701.mp4",
+                "video_results": 0.21638193726539612
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/MOS/G2/VideoCrafter/000111.mp4",
+                "video_results": 0.1670379787683487
+            }
+        ]
+    ]
+}

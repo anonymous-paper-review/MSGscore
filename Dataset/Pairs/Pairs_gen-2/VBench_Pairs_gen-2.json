@@ -1,0 +1,3961 @@
+{
+    "subject_consistency": [
+        0.9562273093005742,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000009.mp4",
+                "video_results": 0.9962307054745524
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000036.mp4",
+                "video_results": 0.9419687550318868
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000030.mp4",
+                "video_results": 0.9879296861196819
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000000.mp4",
+                "video_results": 0.9922556883410404
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000052.mp4",
+                "video_results": 0.9201009364504563
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000014.mp4",
+                "video_results": 0.9728548131491008
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000074.mp4",
+                "video_results": 0.9097191741592006
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000031.mp4",
+                "video_results": 0.9669606924057007
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000019.mp4",
+                "video_results": 0.9748334103509
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000076.mp4",
+                "video_results": 0.9338199568422217
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000069.mp4",
+                "video_results": 0.9832348349847292
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000022.mp4",
+                "video_results": 0.948834427720622
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000026.mp4",
+                "video_results": 0.9995697514006966
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000028.mp4",
+                "video_results": 0.9566686078121788
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000081.mp4",
+                "video_results": 0.8566333322148574
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000041.mp4",
+                "video_results": 0.9668802609569148
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000101.mp4",
+                "video_results": 0.9588143599660773
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000046.mp4",
+                "video_results": 0.9578043912586413
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000072.mp4",
+                "video_results": 0.9779958746935192
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000048.mp4",
+                "video_results": 0.9619478768423984
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000095.mp4",
+                "video_results": 0.9827565139845797
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000037.mp4",
+                "video_results": 0.9452240382370196
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000059.mp4",
+                "video_results": 0.9602281404168982
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000047.mp4",
+                "video_results": 0.9808395636709113
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000042.mp4",
+                "video_results": 0.9324551187063518
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000097.mp4",
+                "video_results": 0.9402856977362382
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000099.mp4",
+                "video_results": 0.9738348355418758
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000004.mp4",
+                "video_results": 0.9374196309792368
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000055.mp4",
+                "video_results": 0.9161880929219095
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000015.mp4",
+                "video_results": 0.9374172794191461
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000103.mp4",
+                "video_results": 0.9906486724552356
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000002.mp4",
+                "video_results": 0.9659756682421031
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000044.mp4",
+                "video_results": 0.9707492351531982
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000025.mp4",
+                "video_results": 0.9194467635531175
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000104.mp4",
+                "video_results": 0.968496256753018
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000067.mp4",
+                "video_results": 0.9459693638901961
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000089.mp4",
+                "video_results": 0.9746035280980562
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000066.mp4",
+                "video_results": 0.9485766699439601
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000045.mp4",
+                "video_results": 0.9556351526787407
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000100.mp4",
+                "video_results": 0.9908239662647247
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000038.mp4",
+                "video_results": 0.9735135094115609
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000086.mp4",
+                "video_results": 0.942939206487254
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000062.mp4",
+                "video_results": 0.9800688364003834
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000075.mp4",
+                "video_results": 0.9783982653366892
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000011.mp4",
+                "video_results": 0.9600343613248122
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000001.mp4",
+                "video_results": 0.9081583134437862
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000064.mp4",
+                "video_results": 0.9677115148619602
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000007.mp4",
+                "video_results": 0.9348945053000199
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000091.mp4",
+                "video_results": 0.9865117825959858
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000058.mp4",
+                "video_results": 0.9655838423653653
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000093.mp4",
+                "video_results": 0.9816223800182342
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000012.mp4",
+                "video_results": 0.9805075137238753
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000061.mp4",
+                "video_results": 0.886560774163196
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000090.mp4",
+                "video_results": 0.9808176040649415
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000051.mp4",
+                "video_results": 0.8345660584537606
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000039.mp4",
+                "video_results": 0.9258892112656644
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000080.mp4",
+                "video_results": 0.9572646392019172
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000079.mp4",
+                "video_results": 0.9617719747518239
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000016.mp4",
+                "video_results": 0.9678637275570318
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000073.mp4",
+                "video_results": 0.9640505477001793
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000032.mp4",
+                "video_results": 0.9562113570539574
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000003.mp4",
+                "video_results": 0.9607225643961053
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000063.mp4",
+                "video_results": 0.9419024072195354
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000084.mp4",
+                "video_results": 0.9490099408124623
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000023.mp4",
+                "video_results": 0.8955952223978545
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000056.mp4",
+                "video_results": 0.9602500062239797
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000057.mp4",
+                "video_results": 0.9573815458699276
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000017.mp4",
+                "video_results": 0.973399900135241
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000071.mp4",
+                "video_results": 0.9744577527046203
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000050.mp4",
+                "video_results": 0.921825025897277
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000020.mp4",
+                "video_results": 0.9200678110122681
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000027.mp4",
+                "video_results": 0.9696570932865143
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000033.mp4",
+                "video_results": 0.8812962183826848
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000035.mp4",
+                "video_results": 0.9686577429896907
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000049.mp4",
+                "video_results": 0.8542798578739166
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000008.mp4",
+                "video_results": 0.9751291328354885
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000006.mp4",
+                "video_results": 0.9805475445170152
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000054.mp4",
+                "video_results": 0.9465144963640916
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000065.mp4",
+                "video_results": 0.9594898110941836
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000092.mp4",
+                "video_results": 0.9523028103928817
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000040.mp4",
+                "video_results": 0.975404364498038
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000043.mp4",
+                "video_results": 0.9820444273321252
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000029.mp4",
+                "video_results": 0.9672586164976421
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000078.mp4",
+                "video_results": 0.9801275344271408
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000013.mp4",
+                "video_results": 0.9328611122934442
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000098.mp4",
+                "video_results": 0.9481212368136958
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000083.mp4",
+                "video_results": 0.9770616107865384
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000096.mp4",
+                "video_results": 0.9955906419377578
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000087.mp4",
+                "video_results": 0.924106933882362
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000094.mp4",
+                "video_results": 0.9798084356282887
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000010.mp4",
+                "video_results": 0.9618493334243172
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000018.mp4",
+                "video_results": 0.9676699412496467
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000024.mp4",
+                "video_results": 0.9494962265616969
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000068.mp4",
+                "video_results": 0.9797331116701428
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000060.mp4",
+                "video_results": 0.9640817293995305
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000053.mp4",
+                "video_results": 0.969447283054653
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000005.mp4",
+                "video_results": 0.9846870930571305
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000034.mp4",
+                "video_results": 0.936482939908379
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000021.mp4",
+                "video_results": 0.9896561861038208
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000102.mp4",
+                "video_results": 0.9888150321809869
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000082.mp4",
+                "video_results": 0.939838109832061
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000085.mp4",
+                "video_results": 0.9696997096664027
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000077.mp4",
+                "video_results": 0.9875127130433132
+            }
+        ]
+    ],
+    "background_consistency": [
+        0.9504464642149975,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000009.mp4",
+                "video_results": 0.9833367598684211,
+                "video_sim": 93.4169921875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000036.mp4",
+                "video_results": 0.9874331825657895,
+                "video_sim": 93.80615234375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000030.mp4",
+                "video_results": 0.9924521998355263,
+                "video_sim": 94.282958984375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000000.mp4",
+                "video_results": 0.9821366159539474,
+                "video_sim": 93.302978515625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000052.mp4",
+                "video_results": 0.9767012746710526,
+                "video_sim": 92.78662109375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000014.mp4",
+                "video_results": 0.9162777549342105,
+                "video_sim": 87.04638671875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000074.mp4",
+                "video_results": 0.9453073601973684,
+                "video_sim": 89.80419921875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000031.mp4",
+                "video_results": 0.9728053042763158,
+                "video_sim": 92.41650390625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000019.mp4",
+                "video_results": 0.9721448396381579,
+                "video_sim": 92.353759765625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000076.mp4",
+                "video_results": 0.886315275493421,
+                "video_sim": 84.199951171875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000069.mp4",
+                "video_results": 0.9771381578947368,
+                "video_sim": 92.828125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000022.mp4",
+                "video_results": 0.9415475945723685,
+                "video_sim": 89.447021484375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000026.mp4",
+                "video_results": 0.9971576891447368,
+                "video_sim": 94.72998046875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000028.mp4",
+                "video_results": 0.9377646998355263,
+                "video_sim": 89.087646484375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000081.mp4",
+                "video_results": 0.9266370271381579,
+                "video_sim": 88.030517578125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000041.mp4",
+                "video_results": 0.9649773848684211,
+                "video_sim": 91.6728515625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000101.mp4",
+                "video_results": 0.9377724095394737,
+                "video_sim": 89.08837890625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000046.mp4",
+                "video_results": 0.8798879523026316,
+                "video_sim": 83.58935546875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000072.mp4",
+                "video_results": 0.9548391241776316,
+                "video_sim": 90.709716796875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000048.mp4",
+                "video_results": 0.9538008840460527,
+                "video_sim": 90.611083984375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000095.mp4",
+                "video_results": 0.9558311060855263,
+                "video_sim": 90.803955078125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000037.mp4",
+                "video_results": 0.9567973889802631,
+                "video_sim": 90.895751953125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000059.mp4",
+                "video_results": 0.9811626233552632,
+                "video_sim": 93.21044921875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000047.mp4",
+                "video_results": 0.949133943256579,
+                "video_sim": 90.167724609375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000042.mp4",
+                "video_results": 0.9145327919407895,
+                "video_sim": 86.880615234375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000097.mp4",
+                "video_results": 0.9106111225328948,
+                "video_sim": 86.508056640625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000099.mp4",
+                "video_results": 0.9741390830592105,
+                "video_sim": 92.543212890625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000004.mp4",
+                "video_results": 0.9570569490131579,
+                "video_sim": 90.92041015625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000055.mp4",
+                "video_results": 0.9433336759868421,
+                "video_sim": 89.61669921875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000015.mp4",
+                "video_results": 0.9451814350328948,
+                "video_sim": 89.792236328125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000103.mp4",
+                "video_results": 0.981494140625,
+                "video_sim": 93.241943359375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000002.mp4",
+                "video_results": 0.9718467310855263,
+                "video_sim": 92.325439453125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000044.mp4",
+                "video_results": 0.9408100328947369,
+                "video_sim": 89.376953125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000025.mp4",
+                "video_results": 0.9284128289473684,
+                "video_sim": 88.19921875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000104.mp4",
+                "video_results": 0.9474480879934211,
+                "video_sim": 90.007568359375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000067.mp4",
+                "video_results": 0.9492572985197368,
+                "video_sim": 90.179443359375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000089.mp4",
+                "video_results": 0.927405427631579,
+                "video_sim": 88.103515625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000066.mp4",
+                "video_results": 0.9781404194078948,
+                "video_sim": 92.92333984375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000045.mp4",
+                "video_results": 0.9290167557565789,
+                "video_sim": 88.256591796875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000100.mp4",
+                "video_results": 0.9738178453947368,
+                "video_sim": 92.5126953125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000038.mp4",
+                "video_results": 0.9646587171052632,
+                "video_sim": 91.642578125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000086.mp4",
+                "video_results": 0.9520225123355263,
+                "video_sim": 90.442138671875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000062.mp4",
+                "video_results": 0.9917454769736842,
+                "video_sim": 94.2158203125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000075.mp4",
+                "video_results": 0.9606496710526315,
+                "video_sim": 91.26171875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000011.mp4",
+                "video_results": 0.9279528166118421,
+                "video_sim": 88.155517578125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000001.mp4",
+                "video_results": 0.9469700863486842,
+                "video_sim": 89.962158203125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000064.mp4",
+                "video_results": 0.9431871916118421,
+                "video_sim": 89.602783203125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000007.mp4",
+                "video_results": 0.9387104235197369,
+                "video_sim": 89.177490234375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000091.mp4",
+                "video_results": 0.9617598684210527,
+                "video_sim": 91.3671875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000058.mp4",
+                "video_results": 0.923840974506579,
+                "video_sim": 87.764892578125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000093.mp4",
+                "video_results": 0.9481471011513158,
+                "video_sim": 90.073974609375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000012.mp4",
+                "video_results": 0.9903680098684211,
+                "video_sim": 94.0849609375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000061.mp4",
+                "video_results": 0.9001387746710526,
+                "video_sim": 85.51318359375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000090.mp4",
+                "video_results": 0.9830206620065789,
+                "video_sim": 93.386962890625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000051.mp4",
+                "video_results": 0.9175986842105263,
+                "video_sim": 87.171875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000039.mp4",
+                "video_results": 0.9308568050986842,
+                "video_sim": 88.431396484375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000080.mp4",
+                "video_results": 0.9767680921052632,
+                "video_sim": 92.79296875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000079.mp4",
+                "video_results": 0.9627646998355263,
+                "video_sim": 91.462646484375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000016.mp4",
+                "video_results": 0.9728310032894737,
+                "video_sim": 92.4189453125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000073.mp4",
+                "video_results": 0.9245682565789474,
+                "video_sim": 87.833984375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000032.mp4",
+                "video_results": 0.9754754317434211,
+                "video_sim": 92.670166015625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000003.mp4",
+                "video_results": 0.9640830592105263,
+                "video_sim": 91.587890625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000063.mp4",
+                "video_results": 0.9521792763157895,
+                "video_sim": 90.45703125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000084.mp4",
+                "video_results": 0.9150647615131579,
+                "video_sim": 86.93115234375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000023.mp4",
+                "video_results": 0.9337762129934211,
+                "video_sim": 88.708740234375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000056.mp4",
+                "video_results": 0.97568359375,
+                "video_sim": 92.68994140625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000057.mp4",
+                "video_results": 0.9428762335526316,
+                "video_sim": 89.5732421875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000017.mp4",
+                "video_results": 0.9807051809210526,
+                "video_sim": 93.1669921875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000071.mp4",
+                "video_results": 0.9423468338815789,
+                "video_sim": 89.52294921875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000050.mp4",
+                "video_results": 0.9173905222039473,
+                "video_sim": 87.152099609375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000020.mp4",
+                "video_results": 0.8986251027960527,
+                "video_sim": 85.369384765625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000027.mp4",
+                "video_results": 0.9445415296052632,
+                "video_sim": 89.7314453125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000033.mp4",
+                "video_results": 0.8762952302631579,
+                "video_sim": 83.248046875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000035.mp4",
+                "video_results": 0.9592953330592106,
+                "video_sim": 91.133056640625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000049.mp4",
+                "video_results": 0.8801346628289474,
+                "video_sim": 83.61279296875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000008.mp4",
+                "video_results": 0.9691277754934211,
+                "video_sim": 92.067138671875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000006.mp4",
+                "video_results": 0.9446597450657894,
+                "video_sim": 89.74267578125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000054.mp4",
+                "video_results": 0.9196982935855263,
+                "video_sim": 87.371337890625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000065.mp4",
+                "video_results": 0.9102076480263158,
+                "video_sim": 86.4697265625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000092.mp4",
+                "video_results": 0.971936677631579,
+                "video_sim": 92.333984375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000040.mp4",
+                "video_results": 0.9532123766447368,
+                "video_sim": 90.55517578125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000043.mp4",
+                "video_results": 0.9820158305921053,
+                "video_sim": 93.29150390625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000029.mp4",
+                "video_results": 0.9670564350328947,
+                "video_sim": 91.870361328125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000078.mp4",
+                "video_results": 0.9670924136513158,
+                "video_sim": 91.873779296875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000013.mp4",
+                "video_results": 0.9704281455592105,
+                "video_sim": 92.190673828125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000098.mp4",
+                "video_results": 0.9368498149671053,
+                "video_sim": 89.000732421875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000083.mp4",
+                "video_results": 0.9682077508223684,
+                "video_sim": 91.979736328125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000096.mp4",
+                "video_results": 0.9849249588815789,
+                "video_sim": 93.56787109375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000087.mp4",
+                "video_results": 0.9320029810855263,
+                "video_sim": 88.540283203125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000094.mp4",
+                "video_results": 0.9572317023026315,
+                "video_sim": 90.93701171875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000010.mp4",
+                "video_results": 0.9280067845394737,
+                "video_sim": 88.16064453125,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000018.mp4",
+                "video_results": 0.9506887335526316,
+                "video_sim": 90.3154296875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000024.mp4",
+                "video_results": 0.9702302631578947,
+                "video_sim": 92.171875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000068.mp4",
+                "video_results": 0.9629677220394737,
+                "video_sim": 91.48193359375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000060.mp4",
+                "video_results": 0.9639237253289473,
+                "video_sim": 91.57275390625,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000053.mp4",
+                "video_results": 0.9392064144736842,
+                "video_sim": 89.224609375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000005.mp4",
+                "video_results": 0.965807462993421,
+                "video_sim": 91.751708984375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000034.mp4",
+                "video_results": 0.9365028782894737,
+                "video_sim": 88.9677734375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000021.mp4",
+                "video_results": 0.9870554070723684,
+                "video_sim": 93.770263671875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000102.mp4",
+                "video_results": 0.9616262335526315,
+                "video_sim": 91.3544921875,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000082.mp4",
+                "video_results": 0.9138543379934211,
+                "video_sim": 86.816162109375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000085.mp4",
+                "video_results": 0.9384842722039474,
+                "video_sim": 89.156005859375,
+                "cnt_per_video": 95
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000077.mp4",
+                "video_results": 0.9640830592105263,
+                "video_sim": 91.587890625,
+                "cnt_per_video": 95
+            }
+        ]
+    ],
+    "temporal_flickering": [
+        0.9912389364080065,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000009.mp4",
+                "video_results": 0.9942717379214717
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000036.mp4",
+                "video_results": 0.9937528072618971
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000030.mp4",
+                "video_results": 0.991689338871077
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000000.mp4",
+                "video_results": 0.9921635090136061
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000052.mp4",
+                "video_results": 0.9925383203169879
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000014.mp4",
+                "video_results": 0.9974371077967625
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000074.mp4",
+                "video_results": 0.9917174731983858
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000031.mp4",
+                "video_results": 0.9930837888343661
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000019.mp4",
+                "video_results": 0.9940369909884883
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000076.mp4",
+                "video_results": 0.9914484351289039
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000069.mp4",
+                "video_results": 0.9939349511090447
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000022.mp4",
+                "video_results": 0.9924979490392348
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000026.mp4",
+                "video_results": 0.9972897468828688
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000028.mp4",
+                "video_results": 0.9833029765708774
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000081.mp4",
+                "video_results": 0.9880925674064487
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000041.mp4",
+                "video_results": 0.9925993825875077
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000101.mp4",
+                "video_results": 0.9914975334616268
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000046.mp4",
+                "video_results": 0.9816137388640759
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000072.mp4",
+                "video_results": 0.9893026323879466
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000048.mp4",
+                "video_results": 0.9928423063427794
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000095.mp4",
+                "video_results": 0.9960862699676962
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000037.mp4",
+                "video_results": 0.9937772820977604
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000059.mp4",
+                "video_results": 0.9846336626539043
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000047.mp4",
+                "video_results": 0.9933983732672299
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000042.mp4",
+                "video_results": 0.9912459298676135
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000097.mp4",
+                "video_results": 0.9931381543477377
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000099.mp4",
+                "video_results": 0.99543544030657
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000004.mp4",
+                "video_results": 0.9890081891826555
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000055.mp4",
+                "video_results": 0.9828598751741298
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000015.mp4",
+                "video_results": 0.9910692355212043
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000103.mp4",
+                "video_results": 0.9974235102242115
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000002.mp4",
+                "video_results": 0.9926564576579076
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000044.mp4",
+                "video_results": 0.9940680723564298
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000025.mp4",
+                "video_results": 0.988328504562378
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000104.mp4",
+                "video_results": 0.9906976353888418
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000067.mp4",
+                "video_results": 0.9837405803156835
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000089.mp4",
+                "video_results": 0.9949700420978023
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000066.mp4",
+                "video_results": 0.9924865526311538
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000045.mp4",
+                "video_results": 0.9888884385426839
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000100.mp4",
+                "video_results": 0.9971613993831709
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000038.mp4",
+                "video_results": 0.9951321358774222
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000086.mp4",
+                "video_results": 0.9929386933644613
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000062.mp4",
+                "video_results": 0.9965044437670241
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000075.mp4",
+                "video_results": 0.9966040901109284
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000011.mp4",
+                "video_results": 0.9856739885666791
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000001.mp4",
+                "video_results": 0.992242021186679
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000064.mp4",
+                "video_results": 0.9890837547825831
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000007.mp4",
+                "video_results": 0.9850631536221972
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000091.mp4",
+                "video_results": 0.9962992397009157
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000058.mp4",
+                "video_results": 0.9922905024360208
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000093.mp4",
+                "video_results": 0.9957576377719056
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000012.mp4",
+                "video_results": 0.9913349394704781
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000061.mp4",
+                "video_results": 0.9838439436519847
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000090.mp4",
+                "video_results": 0.9929916947495704
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000051.mp4",
+                "video_results": 0.9795647359361835
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000039.mp4",
+                "video_results": 0.983521930844176
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000080.mp4",
+                "video_results": 0.9863340218861898
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000079.mp4",
+                "video_results": 0.9869171460469564
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000016.mp4",
+                "video_results": 0.9931731065114339
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000073.mp4",
+                "video_results": 0.9921985041861441
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000032.mp4",
+                "video_results": 0.9907710411969353
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000003.mp4",
+                "video_results": 0.9898051561093798
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000063.mp4",
+                "video_results": 0.9790456416560155
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000084.mp4",
+                "video_results": 0.9894587526134416
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000023.mp4",
+                "video_results": 0.9830885531855564
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000056.mp4",
+                "video_results": 0.9940017896540024
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000057.mp4",
+                "video_results": 0.9902746770896164
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000017.mp4",
+                "video_results": 0.9956871659147973
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000071.mp4",
+                "video_results": 0.9908422180250579
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000050.mp4",
+                "video_results": 0.9770606938530417
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000020.mp4",
+                "video_results": 0.9897941318212771
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000027.mp4",
+                "video_results": 0.9916490825952268
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000033.mp4",
+                "video_results": 0.987769406449561
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000035.mp4",
+                "video_results": 0.9904688535952101
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000049.mp4",
+                "video_results": 0.9923907981199377
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000008.mp4",
+                "video_results": 0.9882766003702201
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000006.mp4",
+                "video_results": 0.9904330627591003
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000054.mp4",
+                "video_results": 0.9916756620594099
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000065.mp4",
+                "video_results": 0.9872289900686226
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000092.mp4",
+                "video_results": 0.9938210538789338
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000040.mp4",
+                "video_results": 0.9928118850670609
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000043.mp4",
+                "video_results": 0.9940615948508768
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000029.mp4",
+                "video_results": 0.9961231399984921
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000078.mp4",
+                "video_results": 0.9931381127413581
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000013.mp4",
+                "video_results": 0.9890902463127585
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000098.mp4",
+                "video_results": 0.9852946459078321
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000083.mp4",
+                "video_results": 0.9929994760775098
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000096.mp4",
+                "video_results": 0.9976139430906258
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000087.mp4",
+                "video_results": 0.9899695976107729
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000094.mp4",
+                "video_results": 0.9961379245215771
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000010.mp4",
+                "video_results": 0.9896753591649673
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000018.mp4",
+                "video_results": 0.9953781941357781
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000024.mp4",
+                "video_results": 0.9872811663384531
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000068.mp4",
+                "video_results": 0.9927898098440732
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000060.mp4",
+                "video_results": 0.9945266517938353
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000053.mp4",
+                "video_results": 0.9956897501851998
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000005.mp4",
+                "video_results": 0.9929438404008454
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000034.mp4",
+                "video_results": 0.9930425671970143
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000021.mp4",
+                "video_results": 0.9924980574963139
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000102.mp4",
+                "video_results": 0.9966008340611178
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000082.mp4",
+                "video_results": 0.9934389619266286
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000085.mp4",
+                "video_results": 0.9933420793682921
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000077.mp4",
+                "video_results": 0.9959626969169167
+            }
+        ]
+    ],
+    "motion_smoothness": [
+        0.9954570849333294,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000009.mp4",
+                "video_results": 0.9956509230341358
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000036.mp4",
+                "video_results": 0.9960548110914139
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000030.mp4",
+                "video_results": 0.9953056867313855
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000000.mp4",
+                "video_results": 0.9955869146057138
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000052.mp4",
+                "video_results": 0.9955434710097445
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000014.mp4",
+                "video_results": 0.9969466326081529
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000074.mp4",
+                "video_results": 0.9948402469246777
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000031.mp4",
+                "video_results": 0.9959010391903116
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000019.mp4",
+                "video_results": 0.9960224174454212
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000076.mp4",
+                "video_results": 0.9947291101775818
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000069.mp4",
+                "video_results": 0.9959193531065521
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000022.mp4",
+                "video_results": 0.9957316474507688
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000026.mp4",
+                "video_results": 0.9968923361829504
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000028.mp4",
+                "video_results": 0.9935493649312864
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000081.mp4",
+                "video_results": 0.9943786062705005
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000041.mp4",
+                "video_results": 0.9958009287819133
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000101.mp4",
+                "video_results": 0.9960068968618015
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000046.mp4",
+                "video_results": 0.9935859336841293
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000072.mp4",
+                "video_results": 0.9953865964888425
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000048.mp4",
+                "video_results": 0.9953337316067417
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000095.mp4",
+                "video_results": 0.9966291896872008
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000037.mp4",
+                "video_results": 0.9961965788690875
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000059.mp4",
+                "video_results": 0.994144318339021
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000047.mp4",
+                "video_results": 0.9962583925288161
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000042.mp4",
+                "video_results": 0.9952111532659376
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000097.mp4",
+                "video_results": 0.996175848114673
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000099.mp4",
+                "video_results": 0.996232260990111
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000004.mp4",
+                "video_results": 0.9950672155654259
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000055.mp4",
+                "video_results": 0.9932866331246998
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000015.mp4",
+                "video_results": 0.9951158493217598
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000103.mp4",
+                "video_results": 0.9969837953209807
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000002.mp4",
+                "video_results": 0.995966090707427
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000044.mp4",
+                "video_results": 0.9960760593135
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000025.mp4",
+                "video_results": 0.9947585014616894
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000104.mp4",
+                "video_results": 0.9958555657702373
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000067.mp4",
+                "video_results": 0.9940006313604567
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000089.mp4",
+                "video_results": 0.9963652467608906
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000066.mp4",
+                "video_results": 0.9957556299515579
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000045.mp4",
+                "video_results": 0.9951825998735909
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000100.mp4",
+                "video_results": 0.9968787083597039
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000038.mp4",
+                "video_results": 0.9965458524433458
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000086.mp4",
+                "video_results": 0.995460913092419
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000062.mp4",
+                "video_results": 0.9965650027081263
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000075.mp4",
+                "video_results": 0.9966921326245068
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000011.mp4",
+                "video_results": 0.9925807331203985
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000001.mp4",
+                "video_results": 0.9945679575141176
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000064.mp4",
+                "video_results": 0.9953480369039415
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000007.mp4",
+                "video_results": 0.9946973131922107
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000091.mp4",
+                "video_results": 0.9966769916474961
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000058.mp4",
+                "video_results": 0.9957344769204779
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000093.mp4",
+                "video_results": 0.9965283002094764
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000012.mp4",
+                "video_results": 0.995804515150009
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000061.mp4",
+                "video_results": 0.9935809414418387
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000090.mp4",
+                "video_results": 0.9960504064304622
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000051.mp4",
+                "video_results": 0.992940937688026
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000039.mp4",
+                "video_results": 0.9944188975035181
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000080.mp4",
+                "video_results": 0.9946642833791427
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000079.mp4",
+                "video_results": 0.994192155947718
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000016.mp4",
+                "video_results": 0.9957231577299036
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000073.mp4",
+                "video_results": 0.9958713082947356
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000032.mp4",
+                "video_results": 0.9953862742386085
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000003.mp4",
+                "video_results": 0.9944269823089524
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000063.mp4",
+                "video_results": 0.9920624611221515
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000084.mp4",
+                "video_results": 0.9949400695995484
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000023.mp4",
+                "video_results": 0.9940825049622164
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000056.mp4",
+                "video_results": 0.996078507530498
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000057.mp4",
+                "video_results": 0.9951885689746798
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000017.mp4",
+                "video_results": 0.9964271922116796
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000071.mp4",
+                "video_results": 0.9960371714598035
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000050.mp4",
+                "video_results": 0.9931180074914278
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000020.mp4",
+                "video_results": 0.9955036668429478
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000027.mp4",
+                "video_results": 0.9955701051497601
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000033.mp4",
+                "video_results": 0.9942309673091009
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000035.mp4",
+                "video_results": 0.9955186762861014
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000049.mp4",
+                "video_results": 0.9956216601717234
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000008.mp4",
+                "video_results": 0.9939961904338152
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000006.mp4",
+                "video_results": 0.995500247219865
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000054.mp4",
+                "video_results": 0.9956187380573225
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000065.mp4",
+                "video_results": 0.9944327570928159
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000092.mp4",
+                "video_results": 0.9962293771990279
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000040.mp4",
+                "video_results": 0.9959838056224943
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000043.mp4",
+                "video_results": 0.9964231637365306
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000029.mp4",
+                "video_results": 0.9965665109750245
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000078.mp4",
+                "video_results": 0.9960139287276496
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000013.mp4",
+                "video_results": 0.9950945681004678
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000098.mp4",
+                "video_results": 0.9928531462715504
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000083.mp4",
+                "video_results": 0.9958077746639284
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000096.mp4",
+                "video_results": 0.9969226484869819
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000087.mp4",
+                "video_results": 0.9953121108768624
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000094.mp4",
+                "video_results": 0.9965870106063964
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000010.mp4",
+                "video_results": 0.9954612033465406
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000018.mp4",
+                "video_results": 0.9964265317131555
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000024.mp4",
+                "video_results": 0.9954078624065277
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000068.mp4",
+                "video_results": 0.9961939998898428
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000060.mp4",
+                "video_results": 0.9963791199305319
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000053.mp4",
+                "video_results": 0.9964652869527402
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000005.mp4",
+                "video_results": 0.9956393683737801
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000034.mp4",
+                "video_results": 0.995620167439915
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000021.mp4",
+                "video_results": 0.9955997095783874
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000102.mp4",
+                "video_results": 0.9966204810861783
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000082.mp4",
+                "video_results": 0.9961132220520482
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000085.mp4",
+                "video_results": 0.9960530663516405
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000077.mp4",
+                "video_results": 0.996613704469059
+            }
+        ]
+    ],
+    "dynamic_degree": [
+        0.2912621359223301,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000009.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000036.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000030.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000000.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000052.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000014.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000074.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000031.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000019.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000076.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000069.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000022.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000026.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000028.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000081.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000041.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000101.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000046.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000072.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000048.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000095.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000037.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000059.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000047.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000042.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000097.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000099.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000004.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000055.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000015.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000103.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000002.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000044.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000025.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000104.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000067.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000089.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000066.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000045.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000100.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000038.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000086.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000062.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000075.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000011.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000001.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000064.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000007.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000091.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000058.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000093.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000012.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000061.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000090.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000051.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000039.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000080.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000079.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000016.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000073.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000032.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000003.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000063.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000084.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000023.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000056.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000057.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000017.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000071.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000050.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000020.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000027.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000033.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000035.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000049.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000008.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000006.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000054.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000065.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000092.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000040.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000043.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000029.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000078.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000013.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000098.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000083.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000096.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000087.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000094.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000010.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000018.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000024.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000068.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000060.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000053.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000005.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000034.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000021.mp4",
+                "video_results": true
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000102.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000082.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000085.mp4",
+                "video_results": false
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000077.mp4",
+                "video_results": false
+            }
+        ]
+    ],
+    "aesthetic_quality": [
+        0.6288645765156422,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000009.mp4",
+                "video_results": 0.6587127447128296
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000036.mp4",
+                "video_results": 0.6419755220413208
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000030.mp4",
+                "video_results": 0.624532163143158
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000000.mp4",
+                "video_results": 0.6115898489952087
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000052.mp4",
+                "video_results": 0.5843476057052612
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000014.mp4",
+                "video_results": 0.4506891667842865
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000074.mp4",
+                "video_results": 0.6174345016479492
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000031.mp4",
+                "video_results": 0.6411420702934265
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000019.mp4",
+                "video_results": 0.6159786581993103
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000076.mp4",
+                "video_results": 0.6157601475715637
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000069.mp4",
+                "video_results": 0.6139253973960876
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000022.mp4",
+                "video_results": 0.6995028257369995
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000026.mp4",
+                "video_results": 0.6867632269859314
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000028.mp4",
+                "video_results": 0.5925915241241455
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000081.mp4",
+                "video_results": 0.5362548232078552
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000041.mp4",
+                "video_results": 0.6052993535995483
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000101.mp4",
+                "video_results": 0.7199006080627441
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000046.mp4",
+                "video_results": 0.537628173828125
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000072.mp4",
+                "video_results": 0.5835030674934387
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000048.mp4",
+                "video_results": 0.7114571928977966
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000095.mp4",
+                "video_results": 0.7212569117546082
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000037.mp4",
+                "video_results": 0.6030287146568298
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000059.mp4",
+                "video_results": 0.5607673525810242
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000047.mp4",
+                "video_results": 0.586635410785675
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000042.mp4",
+                "video_results": 0.654399037361145
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000097.mp4",
+                "video_results": 0.648929238319397
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000099.mp4",
+                "video_results": 0.7627421617507935
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000004.mp4",
+                "video_results": 0.6729145050048828
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000055.mp4",
+                "video_results": 0.6761612892150879
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000015.mp4",
+                "video_results": 0.6778024435043335
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000103.mp4",
+                "video_results": 0.7066007852554321
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000002.mp4",
+                "video_results": 0.6529350280761719
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000044.mp4",
+                "video_results": 0.5083986520767212
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000025.mp4",
+                "video_results": 0.5671805739402771
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000104.mp4",
+                "video_results": 0.6618685722351074
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000067.mp4",
+                "video_results": 0.6739101409912109
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000089.mp4",
+                "video_results": 0.8299254179000854
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000066.mp4",
+                "video_results": 0.6027958393096924
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000045.mp4",
+                "video_results": 0.6082335114479065
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000100.mp4",
+                "video_results": 0.6204241514205933
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000038.mp4",
+                "video_results": 0.6423066854476929
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000086.mp4",
+                "video_results": 0.7388398051261902
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000062.mp4",
+                "video_results": 0.6203433275222778
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000075.mp4",
+                "video_results": 0.5340732932090759
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000011.mp4",
+                "video_results": 0.7059321403503418
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000001.mp4",
+                "video_results": 0.6291033029556274
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000064.mp4",
+                "video_results": 0.583683967590332
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000007.mp4",
+                "video_results": 0.6046634912490845
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000091.mp4",
+                "video_results": 0.6986310482025146
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000058.mp4",
+                "video_results": 0.6829416155815125
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000093.mp4",
+                "video_results": 0.6595532894134521
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000012.mp4",
+                "video_results": 0.6578198671340942
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000061.mp4",
+                "video_results": 0.7810441851615906
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000090.mp4",
+                "video_results": 0.6604778170585632
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000051.mp4",
+                "video_results": 0.5472775101661682
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000039.mp4",
+                "video_results": 0.6396462917327881
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000080.mp4",
+                "video_results": 0.6229328513145447
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000079.mp4",
+                "video_results": 0.7122853994369507
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000016.mp4",
+                "video_results": 0.6494036912918091
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000073.mp4",
+                "video_results": 0.6407551765441895
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000032.mp4",
+                "video_results": 0.5853967070579529
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000003.mp4",
+                "video_results": 0.7338702082633972
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000063.mp4",
+                "video_results": 0.6841585040092468
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000084.mp4",
+                "video_results": 0.5438683032989502
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000023.mp4",
+                "video_results": 0.5653828978538513
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000056.mp4",
+                "video_results": 0.6698676943778992
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000057.mp4",
+                "video_results": 0.5725135803222656
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000017.mp4",
+                "video_results": 0.6701831221580505
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000071.mp4",
+                "video_results": 0.5535700917243958
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000050.mp4",
+                "video_results": 0.6032577157020569
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000020.mp4",
+                "video_results": 0.5714584589004517
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000027.mp4",
+                "video_results": 0.6425600051879883
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000033.mp4",
+                "video_results": 0.46454310417175293
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000035.mp4",
+                "video_results": 0.5550567507743835
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000049.mp4",
+                "video_results": 0.4995536804199219
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000008.mp4",
+                "video_results": 0.7475036382675171
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000006.mp4",
+                "video_results": 0.6260780096054077
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000054.mp4",
+                "video_results": 0.6185551285743713
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000065.mp4",
+                "video_results": 0.6045480370521545
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000092.mp4",
+                "video_results": 0.7001444697380066
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000040.mp4",
+                "video_results": 0.6426467299461365
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000043.mp4",
+                "video_results": 0.6640006303787231
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000029.mp4",
+                "video_results": 0.5813983082771301
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000078.mp4",
+                "video_results": 0.5880429148674011
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000013.mp4",
+                "video_results": 0.6342731714248657
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000098.mp4",
+                "video_results": 0.6221283674240112
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000083.mp4",
+                "video_results": 0.5829089879989624
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000096.mp4",
+                "video_results": 0.6531383991241455
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000087.mp4",
+                "video_results": 0.6267182230949402
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000094.mp4",
+                "video_results": 0.491720050573349
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000010.mp4",
+                "video_results": 0.6847366094589233
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000018.mp4",
+                "video_results": 0.5231600999832153
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000024.mp4",
+                "video_results": 0.6616387367248535
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000068.mp4",
+                "video_results": 0.5779943466186523
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000060.mp4",
+                "video_results": 0.5999001264572144
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000053.mp4",
+                "video_results": 0.6857433319091797
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000005.mp4",
+                "video_results": 0.6281648874282837
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000034.mp4",
+                "video_results": 0.5955559015274048
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000021.mp4",
+                "video_results": 0.7342642545700073
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000102.mp4",
+                "video_results": 0.46160662174224854
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000082.mp4",
+                "video_results": 0.544528603553772
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000085.mp4",
+                "video_results": 0.7491664886474609
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000077.mp4",
+                "video_results": 0.6699323654174805
+            }
+        ]
+    ],
+    "imaging_quality": [
+        0.6331570533351991,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000009.mp4",
+                "video_results": 68.48892537752788
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000036.mp4",
+                "video_results": 56.14329715569814
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000030.mp4",
+                "video_results": 65.59993771711986
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000000.mp4",
+                "video_results": 64.77535951137543
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000052.mp4",
+                "video_results": 60.7947633266449
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000014.mp4",
+                "video_results": 51.43685269355774
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000074.mp4",
+                "video_results": 67.948504169782
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000031.mp4",
+                "video_results": 66.90166207154591
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000019.mp4",
+                "video_results": 67.02344226837158
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000076.mp4",
+                "video_results": 71.33031908671062
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000069.mp4",
+                "video_results": 68.88486170768738
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000022.mp4",
+                "video_results": 41.64920429388682
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000026.mp4",
+                "video_results": 75.40748643875122
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000028.mp4",
+                "video_results": 69.94670470555623
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000081.mp4",
+                "video_results": 55.76932350794474
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000041.mp4",
+                "video_results": 52.296981732050575
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000101.mp4",
+                "video_results": 65.26023864746094
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000046.mp4",
+                "video_results": 66.3610242207845
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000072.mp4",
+                "video_results": 66.9765652815501
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000048.mp4",
+                "video_results": 61.12478621800741
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000095.mp4",
+                "video_results": 73.14465363820393
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000037.mp4",
+                "video_results": 53.420692364374794
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000059.mp4",
+                "video_results": 71.86981153488159
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000047.mp4",
+                "video_results": 63.36065785090128
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000042.mp4",
+                "video_results": 64.3859634399414
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000097.mp4",
+                "video_results": 63.63213348388672
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000099.mp4",
+                "video_results": 69.25123286247253
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000004.mp4",
+                "video_results": 66.72699058055878
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000055.mp4",
+                "video_results": 71.95925199985504
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000015.mp4",
+                "video_results": 62.526955127716064
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000103.mp4",
+                "video_results": 72.80462527275085
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000002.mp4",
+                "video_results": 70.12016812960307
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000044.mp4",
+                "video_results": 56.970956921577454
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000025.mp4",
+                "video_results": 70.06168270111084
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000104.mp4",
+                "video_results": 63.99778632322947
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000067.mp4",
+                "video_results": 58.51204804579417
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000089.mp4",
+                "video_results": 59.35102518399557
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000066.mp4",
+                "video_results": 57.98886501789093
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000045.mp4",
+                "video_results": 58.687894225120544
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000100.mp4",
+                "video_results": 62.37926435470581
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000038.mp4",
+                "video_results": 49.78889358043671
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000086.mp4",
+                "video_results": 72.15656177202861
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000062.mp4",
+                "video_results": 70.17604009310405
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000075.mp4",
+                "video_results": 59.829339345296226
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000011.mp4",
+                "video_results": 61.98266931374868
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000001.mp4",
+                "video_results": 49.611623326937355
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000064.mp4",
+                "video_results": 65.84598195552826
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000007.mp4",
+                "video_results": 55.79465250174204
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000091.mp4",
+                "video_results": 72.38272945086162
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000058.mp4",
+                "video_results": 71.39467533429463
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000093.mp4",
+                "video_results": 60.37626898288727
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000012.mp4",
+                "video_results": 55.20628376801809
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000061.mp4",
+                "video_results": 64.01214277744293
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000090.mp4",
+                "video_results": 60.93189688523611
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000051.mp4",
+                "video_results": 41.64117054144541
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000039.mp4",
+                "video_results": 58.932591239611305
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000080.mp4",
+                "video_results": 53.055344343185425
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000079.mp4",
+                "video_results": 57.74853424231211
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000016.mp4",
+                "video_results": 67.81700551509857
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000073.mp4",
+                "video_results": 63.27584159374237
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000032.mp4",
+                "video_results": 66.21295734246571
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000003.mp4",
+                "video_results": 64.66643432776134
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000063.mp4",
+                "video_results": 74.09594003359477
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000084.mp4",
+                "video_results": 61.31476775805155
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000023.mp4",
+                "video_results": 50.50671275456747
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000056.mp4",
+                "video_results": 69.80075510342915
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000057.mp4",
+                "video_results": 65.00648808479309
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000017.mp4",
+                "video_results": 67.43556094169617
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000071.mp4",
+                "video_results": 63.45609827836355
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000050.mp4",
+                "video_results": 71.12761735916138
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000020.mp4",
+                "video_results": 53.86192778746287
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000027.mp4",
+                "video_results": 35.21908003091812
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000033.mp4",
+                "video_results": 56.06147317091624
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000035.mp4",
+                "video_results": 59.16070727507273
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000049.mp4",
+                "video_results": 65.6597553094228
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000008.mp4",
+                "video_results": 65.45707428455353
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000006.mp4",
+                "video_results": 68.36085383097331
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000054.mp4",
+                "video_results": 67.81930196285248
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000065.mp4",
+                "video_results": 67.48716123898824
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000092.mp4",
+                "video_results": 64.1572611729304
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000040.mp4",
+                "video_results": 66.41337168216705
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000043.mp4",
+                "video_results": 60.75786530971527
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000029.mp4",
+                "video_results": 64.8213803768158
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000078.mp4",
+                "video_results": 69.22450876235962
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000013.mp4",
+                "video_results": 66.55303581555684
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000098.mp4",
+                "video_results": 66.13902425765991
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000083.mp4",
+                "video_results": 65.53608636061351
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000096.mp4",
+                "video_results": 66.22536039352417
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000087.mp4",
+                "video_results": 68.22742275396983
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000094.mp4",
+                "video_results": 65.09277987480164
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000010.mp4",
+                "video_results": 70.5812218983968
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000018.mp4",
+                "video_results": 65.43203934033711
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000024.mp4",
+                "video_results": 60.26888767878214
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000068.mp4",
+                "video_results": 66.53824404875438
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000060.mp4",
+                "video_results": 63.81921601295471
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000053.mp4",
+                "video_results": 64.51541566848755
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000005.mp4",
+                "video_results": 64.25690499941508
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000034.mp4",
+                "video_results": 60.79708123207092
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000021.mp4",
+                "video_results": 59.71587554613749
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000102.mp4",
+                "video_results": 61.55677052338918
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000082.mp4",
+                "video_results": 57.026439706484474
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000085.mp4",
+                "video_results": 74.13763157526652
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000077.mp4",
+                "video_results": 69.780011733373
+            }
+        ]
+    ],
+    "temporal_style": [
+        0.22280352743505275,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000009.mp4",
+                "video_results": 0.29088470339775085
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000036.mp4",
+                "video_results": 0.19052669405937195
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000030.mp4",
+                "video_results": 0.2045484483242035
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000000.mp4",
+                "video_results": 0.2769472002983093
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000052.mp4",
+                "video_results": 0.25381651520729065
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000014.mp4",
+                "video_results": 0.20348003506660461
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000074.mp4",
+                "video_results": 0.22332006692886353
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000031.mp4",
+                "video_results": 0.20835617184638977
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000019.mp4",
+                "video_results": 0.2701297104358673
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000076.mp4",
+                "video_results": 0.22023679316043854
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000069.mp4",
+                "video_results": 0.19672876596450806
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000022.mp4",
+                "video_results": 0.19159185886383057
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000026.mp4",
+                "video_results": 0.18539468944072723
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000028.mp4",
+                "video_results": 0.28272899985313416
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000081.mp4",
+                "video_results": 0.25206995010375977
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000041.mp4",
+                "video_results": 0.23643159866333008
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000101.mp4",
+                "video_results": 0.143589049577713
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000046.mp4",
+                "video_results": 0.2493874430656433
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000072.mp4",
+                "video_results": 0.2023926079273224
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000048.mp4",
+                "video_results": 0.27271145582199097
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000095.mp4",
+                "video_results": 0.22206437587738037
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000037.mp4",
+                "video_results": 0.2179410457611084
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000059.mp4",
+                "video_results": 0.21240642666816711
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000047.mp4",
+                "video_results": 0.22330793738365173
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000042.mp4",
+                "video_results": 0.2785256505012512
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000097.mp4",
+                "video_results": 0.19867627322673798
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000099.mp4",
+                "video_results": 0.14338086545467377
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000004.mp4",
+                "video_results": 0.20292404294013977
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000055.mp4",
+                "video_results": 0.2777276635169983
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000015.mp4",
+                "video_results": 0.16138316690921783
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000103.mp4",
+                "video_results": 0.26785925030708313
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000002.mp4",
+                "video_results": 0.21733766794204712
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000044.mp4",
+                "video_results": 0.2400285005569458
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000025.mp4",
+                "video_results": 0.227125346660614
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000104.mp4",
+                "video_results": 0.28488248586654663
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000067.mp4",
+                "video_results": 0.2064141035079956
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000089.mp4",
+                "video_results": 0.2537309229373932
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000066.mp4",
+                "video_results": 0.16533827781677246
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000045.mp4",
+                "video_results": 0.22564154863357544
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000100.mp4",
+                "video_results": 0.1977410465478897
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000038.mp4",
+                "video_results": 0.14343847334384918
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000086.mp4",
+                "video_results": 0.3889957070350647
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000062.mp4",
+                "video_results": 0.20453718304634094
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000075.mp4",
+                "video_results": 0.1839960664510727
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000011.mp4",
+                "video_results": 0.2682936489582062
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000001.mp4",
+                "video_results": 0.2246663123369217
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000064.mp4",
+                "video_results": 0.2045295238494873
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000007.mp4",
+                "video_results": 0.2507171630859375
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000091.mp4",
+                "video_results": 0.18423311412334442
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000058.mp4",
+                "video_results": 0.21387436985969543
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000093.mp4",
+                "video_results": 0.24268199503421783
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000012.mp4",
+                "video_results": 0.24230818450450897
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000061.mp4",
+                "video_results": 0.1611163169145584
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000090.mp4",
+                "video_results": 0.2259632796049118
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000051.mp4",
+                "video_results": 0.24904043972492218
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000039.mp4",
+                "video_results": 0.1624307930469513
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000080.mp4",
+                "video_results": 0.17119133472442627
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000079.mp4",
+                "video_results": 0.21178454160690308
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000016.mp4",
+                "video_results": 0.2275066077709198
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000073.mp4",
+                "video_results": 0.21398448944091797
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000032.mp4",
+                "video_results": 0.20313948392868042
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000003.mp4",
+                "video_results": 0.27775755524635315
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000063.mp4",
+                "video_results": 0.23833519220352173
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000084.mp4",
+                "video_results": 0.22830897569656372
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000023.mp4",
+                "video_results": 0.22668927907943726
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000056.mp4",
+                "video_results": 0.20724615454673767
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000057.mp4",
+                "video_results": 0.22283463180065155
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000017.mp4",
+                "video_results": 0.23049592971801758
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000071.mp4",
+                "video_results": 0.2181357443332672
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000050.mp4",
+                "video_results": 0.20698514580726624
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000020.mp4",
+                "video_results": 0.2211928367614746
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000027.mp4",
+                "video_results": 0.23600739240646362
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000033.mp4",
+                "video_results": 0.2160051167011261
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000035.mp4",
+                "video_results": 0.22599142789840698
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000049.mp4",
+                "video_results": 0.2371288388967514
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000008.mp4",
+                "video_results": 0.24639847874641418
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000006.mp4",
+                "video_results": 0.2096671462059021
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000054.mp4",
+                "video_results": 0.14737209677696228
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000065.mp4",
+                "video_results": 0.2668413519859314
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000092.mp4",
+                "video_results": 0.21945296227931976
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000040.mp4",
+                "video_results": 0.27332302927970886
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000043.mp4",
+                "video_results": 0.2013176679611206
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000029.mp4",
+                "video_results": 0.30091017484664917
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000078.mp4",
+                "video_results": 0.29108452796936035
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000013.mp4",
+                "video_results": 0.2317321002483368
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000098.mp4",
+                "video_results": 0.2603575587272644
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000083.mp4",
+                "video_results": 0.18157152831554413
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000096.mp4",
+                "video_results": 0.2492249608039856
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000087.mp4",
+                "video_results": 0.1964416354894638
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000094.mp4",
+                "video_results": 0.19407245516777039
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000010.mp4",
+                "video_results": 0.3232397437095642
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000018.mp4",
+                "video_results": 0.18807244300842285
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000024.mp4",
+                "video_results": 0.20509396493434906
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000068.mp4",
+                "video_results": 0.1816963106393814
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000060.mp4",
+                "video_results": 0.23820766806602478
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000053.mp4",
+                "video_results": 0.17815636098384857
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000005.mp4",
+                "video_results": 0.19689670205116272
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000034.mp4",
+                "video_results": 0.21371419727802277
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000021.mp4",
+                "video_results": 0.26009494066238403
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000102.mp4",
+                "video_results": 0.09998342394828796
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000082.mp4",
+                "video_results": 0.24119362235069275
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000085.mp4",
+                "video_results": 0.1691894382238388
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000077.mp4",
+                "video_results": 0.23220422863960266
+            }
+        ]
+    ],
+    "overall_consistency": [
+        0.22280352743505275,
+        [
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000009.mp4",
+                "video_results": 0.29088470339775085
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000036.mp4",
+                "video_results": 0.19052669405937195
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000030.mp4",
+                "video_results": 0.2045484483242035
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000000.mp4",
+                "video_results": 0.2769472002983093
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000052.mp4",
+                "video_results": 0.25381651520729065
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000014.mp4",
+                "video_results": 0.20348003506660461
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000074.mp4",
+                "video_results": 0.22332006692886353
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000031.mp4",
+                "video_results": 0.20835617184638977
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000019.mp4",
+                "video_results": 0.2701297104358673
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000076.mp4",
+                "video_results": 0.22023679316043854
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000069.mp4",
+                "video_results": 0.19672876596450806
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000022.mp4",
+                "video_results": 0.19159185886383057
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000026.mp4",
+                "video_results": 0.18539468944072723
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000028.mp4",
+                "video_results": 0.28272899985313416
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000081.mp4",
+                "video_results": 0.25206995010375977
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000041.mp4",
+                "video_results": 0.23643159866333008
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000101.mp4",
+                "video_results": 0.143589049577713
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000046.mp4",
+                "video_results": 0.2493874430656433
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000072.mp4",
+                "video_results": 0.2023926079273224
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000048.mp4",
+                "video_results": 0.27271145582199097
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000095.mp4",
+                "video_results": 0.22206437587738037
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000037.mp4",
+                "video_results": 0.2179410457611084
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000059.mp4",
+                "video_results": 0.21240642666816711
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000047.mp4",
+                "video_results": 0.22330793738365173
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000042.mp4",
+                "video_results": 0.2785256505012512
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000097.mp4",
+                "video_results": 0.19867627322673798
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000099.mp4",
+                "video_results": 0.14338086545467377
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000004.mp4",
+                "video_results": 0.20292404294013977
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000055.mp4",
+                "video_results": 0.2777276635169983
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000015.mp4",
+                "video_results": 0.16138316690921783
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000103.mp4",
+                "video_results": 0.26785925030708313
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000002.mp4",
+                "video_results": 0.21733766794204712
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000044.mp4",
+                "video_results": 0.2400285005569458
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000025.mp4",
+                "video_results": 0.227125346660614
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000104.mp4",
+                "video_results": 0.28488248586654663
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000067.mp4",
+                "video_results": 0.2064141035079956
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000089.mp4",
+                "video_results": 0.2537309229373932
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000066.mp4",
+                "video_results": 0.16533827781677246
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000045.mp4",
+                "video_results": 0.22564154863357544
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000100.mp4",
+                "video_results": 0.1977410465478897
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000038.mp4",
+                "video_results": 0.14343847334384918
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000086.mp4",
+                "video_results": 0.3889957070350647
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000062.mp4",
+                "video_results": 0.20453718304634094
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000075.mp4",
+                "video_results": 0.1839960664510727
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000011.mp4",
+                "video_results": 0.2682936489582062
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000001.mp4",
+                "video_results": 0.2246663123369217
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000064.mp4",
+                "video_results": 0.2045295238494873
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000007.mp4",
+                "video_results": 0.2507171630859375
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000091.mp4",
+                "video_results": 0.18423311412334442
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000058.mp4",
+                "video_results": 0.21387436985969543
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000093.mp4",
+                "video_results": 0.24268199503421783
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000012.mp4",
+                "video_results": 0.24230818450450897
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000061.mp4",
+                "video_results": 0.1611163169145584
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000090.mp4",
+                "video_results": 0.2259632796049118
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000051.mp4",
+                "video_results": 0.24904043972492218
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000039.mp4",
+                "video_results": 0.1624307930469513
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000080.mp4",
+                "video_results": 0.17119133472442627
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000079.mp4",
+                "video_results": 0.21178454160690308
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000016.mp4",
+                "video_results": 0.2275066077709198
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000073.mp4",
+                "video_results": 0.21398448944091797
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000032.mp4",
+                "video_results": 0.20313948392868042
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000003.mp4",
+                "video_results": 0.27775755524635315
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000063.mp4",
+                "video_results": 0.23833519220352173
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000084.mp4",
+                "video_results": 0.22830897569656372
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000023.mp4",
+                "video_results": 0.22668927907943726
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000056.mp4",
+                "video_results": 0.20724615454673767
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000057.mp4",
+                "video_results": 0.22283463180065155
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000017.mp4",
+                "video_results": 0.23049592971801758
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000071.mp4",
+                "video_results": 0.2181357443332672
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000050.mp4",
+                "video_results": 0.20698514580726624
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000020.mp4",
+                "video_results": 0.2211928367614746
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000027.mp4",
+                "video_results": 0.23600739240646362
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000033.mp4",
+                "video_results": 0.2160051167011261
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000035.mp4",
+                "video_results": 0.22599142789840698
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000049.mp4",
+                "video_results": 0.2371288388967514
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000008.mp4",
+                "video_results": 0.24639847874641418
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000006.mp4",
+                "video_results": 0.2096671462059021
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000054.mp4",
+                "video_results": 0.14737209677696228
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000065.mp4",
+                "video_results": 0.2668413519859314
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000092.mp4",
+                "video_results": 0.21945296227931976
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000040.mp4",
+                "video_results": 0.27332302927970886
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000043.mp4",
+                "video_results": 0.2013176679611206
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000029.mp4",
+                "video_results": 0.30091017484664917
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000078.mp4",
+                "video_results": 0.29108452796936035
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000013.mp4",
+                "video_results": 0.2317321002483368
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000098.mp4",
+                "video_results": 0.2603575587272644
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000083.mp4",
+                "video_results": 0.18157152831554413
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000096.mp4",
+                "video_results": 0.2492249608039856
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000087.mp4",
+                "video_results": 0.1964416354894638
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000094.mp4",
+                "video_results": 0.19407245516777039
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000010.mp4",
+                "video_results": 0.3232397437095642
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000018.mp4",
+                "video_results": 0.18807244300842285
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000024.mp4",
+                "video_results": 0.20509396493434906
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000068.mp4",
+                "video_results": 0.1816963106393814
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000060.mp4",
+                "video_results": 0.23820766806602478
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000053.mp4",
+                "video_results": 0.17815636098384857
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000005.mp4",
+                "video_results": 0.19689670205116272
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000034.mp4",
+                "video_results": 0.21371419727802277
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000021.mp4",
+                "video_results": 0.26009494066238403
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000102.mp4",
+                "video_results": 0.09998342394828796
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000082.mp4",
+                "video_results": 0.24119362235069275
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000085.mp4",
+                "video_results": 0.1691894382238388
+            },
+            {
+                "video_path": "/app/data/AIGV_DB/Pairs/gen-2/000077.mp4",
+                "video_results": 0.23220422863960266
+            }
+        ]
+    ]
+}
