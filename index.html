@@ -440,7 +440,7 @@
                             
                             // Create iframe for YouTube video
                             const iframe = document.createElement('iframe');
-                            iframe.src = `https://www.youtube.com/embed/${videoId}`;
+                            iframe.src = `${videoId}`;
                             iframe.frameBorder = '0';
                             iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
                             iframe.allowFullscreen = true;
@@ -662,6 +662,7 @@
             
             // Function to extract YouTube video ID
             function getYoutubeId(url) {
+				return url.replace(/\/view(\?usp=drive_link)?$/, '/preview')
                 try {
                     // Check if URL is valid
                     if (!url || typeof url !== 'string') {
