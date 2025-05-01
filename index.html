@@ -15,6 +15,48 @@
             background-color: #f8f9fa;
         }
         
+        .hero-background {
+            position: relative;
+            width: 100%;
+            height: 700px;
+            overflow: hidden;
+            margin-top: 0px;
+            margin-bottom: 100px;
+        }
+        
+        .hero-background::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: url('./assets/images/Sedna.gif');
+            background-size: cover;
+            background-position: center;
+            filter: brightness(0.7); /* Makes the background slightly darker */
+            z-index: -1;
+        }
+        
+        .hero-content {
+            position: relative;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            color: white;
+            text-align: center;
+            padding: 0 20px;
+            padding-top: 50px; /* Add top padding to move title upward */
+        }
+        
+        .hero-content h1 {
+            font-size: 2.5rem;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            margin-bottom: 10px;
+        }
+        
         .container {
             max-width: 1200px;
             margin: 0 auto;
@@ -50,6 +92,15 @@
         
         .table-container {
             margin-bottom: 30px;
+            overflow-x: auto;
+            max-width: 100%;
+        }
+        
+        .custom-table-container {
+            margin-top: 20px;
+            margin-bottom: 40px;
+            width: 100%;
+            overflow-x: auto;
         }
         
         h2 {
@@ -61,13 +112,65 @@
             width: 100%;
             border-collapse: collapse;
             margin-bottom: 40px;
+            table-layout: fixed; /* Use fixed layout for better control */
         }
         
-        td {
-            width: 20%;
+        #videoTable3 {
+            width: 100%;
+            table-layout: fixed; /* This is key for equal width columns */
+            border-collapse: collapse;
+        }
+        
+        /* Set equal width for all columns in videoTable3 */
+        #videoTable3 th, #videoTable3 td {
+            width: 25%; /* Each column takes exactly 25% of table width */
             padding: 10px;
+            vertical-align: top;
+            text-align: center;
+        }
+        
+        /* Ensure video containers maintain proportion */
+        #videoTable3 .video-container {
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+        }
+        
+        #videoTable3 td {
+            padding: 8px;
+            vertical-align: top;
+        }
+        
+        /* Adjust column widths for the custom 6x4 table */
+        #videoTable3 td:nth-child(1), #videoTable3 td:nth-child(4) {
+            width: 15%; /* URL columns */
+        }
+        
+        #videoTable3 td:nth-child(2), #videoTable3 td:nth-child(3), #videoTable3 td:nth-child(5), #videoTable3 td:nth-child(6) {
+            width: 17.5%; /* Video columns */
+        }
+        
+        td, th {
+            padding: 8px 4px;
             text-align: center;
             vertical-align: top;
+            word-wrap: break-word;
+            overflow: hidden;
+        }
+        
+        th {
+            font-weight: bold;
+            background-color: #f2f2f2;
+        }
+        
+        /* Set width for the first column (shot labels) */
+        td:first-child, th:first-child {
+            width: 120px; /* Increased width to accommodate prompts */
+            padding-bottom: 8px;
+            position: relative;
+        }
+        
+        /* Set width for video columns */
+        td:not(:first-child), th:not(:first-child) {
+            width: calc((100% - 80px) / 5);
         }
         
         .thumbnail {
@@ -105,6 +208,8 @@
             overflow: hidden;
             width: 100%;
             border-radius: 5px;
+            max-width: 100%; /* Ensure it doesn't exceed container width */
+            margin: 0 auto;
         }
         
         .video-container iframe {
@@ -115,50 +220,105 @@
             height: 100%;
             border-radius: 5px;
         }
+        
+        /* Style for URL text to prevent overflow */
+        .url-text {
+            font-size: 14px; /* 10px에서 14px로 증가 */
+            font-weight: bold; /* 글자를 굵게 표시 */
+            margin-top: 4px;
+            overflow-wrap: break-word;
+            word-break: break-all;
+            max-width: 100%;
+            max-height: 40px;
+            overflow-y: auto;
+        }
+        
+        /* Add style for prompt text under row headers */
+        .row-prompt {
+            font-size: 8px;
+            font-weight: normal;
+            line-height: 1.1;
+            text-align: left;
+            max-height: 70px;
+            overflow: hidden;
+            margin-top: 4px;
+            word-wrap: break-word;
+            display: block;
+        }
+        
+        /* Add media queries for better responsive behavior */
+        @media (max-width: 992px) {
+            .table-container {
+                overflow-x: scroll;
+            }
+            
+            table {
+                min-width: 800px; /* Minimum width to ensure columns don't get too narrow */
+            }
+        }
     </style>
 </head>
 <body>
+	<!-- Hero section with background image (moved to bottom) -->
+	<div class="hero-background">
+		<div class="hero-content">
+			<h1>MSG: Benchmarking Multi-Scene Video Generation for Scalable Long-Form Content</h1>
+			<p></p>
+		</div>
+	</div>
+	
     <div class="container">
-        <header>
-            <h1>Project Showcase</h1>
-        </header>
-        
         <div class="main-content">
             <div class="image-container">
-                <img src="./assets/images/main1.jpg" alt="Project Image 1" class="project-image" id="mainImage1">
-                <img src="./assets/images/main2.jpg" alt="Project Image 2" class="project-image" id="mainImage2">
+                <img src="./assets/images/figure2.png" alt="Project Image 2" class="project-image" id="mainImage2">
             </div>
             
             <div class="description">
                 <p>Welcome to our project showcase. Below you'll find a collection of videos demonstrating our work.</p>
             </div>
+			<div style="display: flex; justify-content: center; margin: 20px 0;">
+				<a href="https://github.com/anonymous-paper-review/MSGscore" rel="nofollow"><img src="https://img.shields.io/badge/MSGScore-github-green" alt="Project Page" style="max-width: 100%;"></a>
+			</div>
         </div>
+        
+        <!-- Custom 6x4 table placed at the top of video tables section -->
+        <div class="custom-table-container">
+			<h2>Video evaluation by experts and amateurs</h2>
+            <table id="videoTable3"></table>
+        </div>
+
+		<div class="image-container">
+			<img src="./assets/images/figure1.png" alt="Project Image 1" class="project-image" id="mainImage1">
+		</div>
         
         <div class="video-tables">
             <div class="table-container">
-                <h2>Video Collection - Part 1</h2>
+                <h2>Alien in Redplanet</h2>
                 <table id="videoTable1"></table>
             </div>
             
             <div class="table-container">
-                <h2>Video Collection - Part 2</h2>
+                <h2>Ants and Beetle</h2>
                 <table id="videoTable2"></table>
             </div>
         </div>
         
+        
+        
         <footer>
-            <p>&copy; 2023 Project Team. All rights reserved.</p>
+            <p>&copy; 2025 Project Team. All rights reserved.</p>
         </footer>
     </div>
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            // Function to load video URLs from the text file
-            async function loadVideoUrls() {
+            // Function to load video URLs and prediction data
+            async function loadData() {
                 try {
-                    const response = await fetch('./assets/urls.txt');
-                    const text = await response.text();
-                    const lines = text.trim().split('\n');
+                    // Load URLs
+                    const urlResponse = await fetch('./assets/urls.txt');
+                    const urlText = await urlResponse.text();
+                    const lines = urlText.trim().split('\n');
                     
                     let allUrls = [];
                     lines.forEach(line => {
@@ -169,16 +329,57 @@
                     // Remove any empty strings and trim whitespace
                     allUrls = allUrls.map(url => url.trim()).filter(url => url);
                     
-                    // Create tables
-                    createVideoTable(allUrls.slice(0, 50), 'videoTable1');
-                    createVideoTable(allUrls.slice(50, 100), 'videoTable2');
+                    // Load prediction data and prompts from CSV
+                    const csvResponse = await fetch('./assets/Inference_Result.csv');
+                    const csvText = await csvResponse.text();
+                    const { predictions, prompts } = parseCSVData(csvText);
+                    
+                    // Create tables with URLs and prediction data
+                    createVideoTable(allUrls.slice(0, 50), predictions.slice(0, 50), prompts.slice(0, 10), 'videoTable1');
+                    createVideoTable(allUrls.slice(50, 100), predictions.slice(50, 100), prompts.slice(10, 20), 'videoTable2');
+                    
+                    // Create the custom 6x4 table using URLs from lines 3 and 4
+                    if (lines.length >= 4) {
+                        const line3Urls = lines[2].split(',').map(url => url.trim()).filter(url => url);
+                        const line4Urls = lines[3].split(',').map(url => url.trim()).filter(url => url);
+                        createCustomTable([...line3Urls, ...line4Urls], 'videoTable3');
+                    }
                 } catch (error) {
-                    console.error('Error loading video URLs:', error);
+                    console.error('Error loading data:', error);
                 }
             }
             
-            // Function to create a video table with 5 columns and 10 rows
-            function createVideoTable(urls, tableId) {
+            // Parse CSV file to extract prediction values and prompts
+            function parseCSVData(csvText) {
+                const rows = csvText.trim().split('\n');
+                const header = rows[0].split(',');
+                const predictionIndex = header.findIndex(col => col.trim().toLowerCase() === 'prediction');
+                const promptIndex = header.findIndex(col => col.trim().toLowerCase() === 'prompt');
+                
+                // Extract prediction values (skip header row)
+                const predictions = rows.slice(1).map(row => {
+                    const columns = row.split(',');
+                    return predictionIndex < columns.length ? columns[predictionIndex].trim() : 'N/A';
+                });
+                
+                // Extract prompts from specific rows (1, 6, 11, 16, etc.)
+                const prompts = [];
+                if (promptIndex !== -1) {
+                    for (let i = 1; i < rows.length; i += 5) {
+                        if (i < rows.length) {
+                            const columns = rows[i].split(',');
+                            prompts.push(promptIndex < columns.length ? columns[promptIndex].trim() : 'No prompt available');
+                        }
+                    }
+                } else {
+                    console.error('No prompt column found in CSV');
+                }
+                
+                return { predictions, prompts };
+            }
+            
+            // Function to create a video table with 10 rows and 5 columns
+            function createVideoTable(urls, predictions, rowPrompts, tableId) {
                 const table = document.getElementById(tableId);
                 if (!table) return;
                 
@@ -190,8 +391,8 @@
                 const cornerCell = document.createElement('th');
                 headerRow.appendChild(cornerCell);
                 
-                // Add Shot 01 - Shot 10 headers
-                for (let i = 1; i <= 10; i++) {
+                // Add 01 - 05 headers
+                for (let i = 1; i <= 5; i++) {
                     const th = document.createElement('th');
                     th.textContent = `${i.toString().padStart(2, '0')}`;
                     headerRow.appendChild(th);
@@ -203,43 +404,53 @@
                 // Create table body
                 const tbody = document.createElement('tbody');
                 
-                for (let row = 0; row < 5; row++) {
+                for (let row = 0; row < 10; row++) {
                     const tr = document.createElement('tr');
                     
-                    // Add row number cell (1-5)
+                    // Add row number cell with prompt
                     const rowLabel = document.createElement('td');
-                    rowLabel.textContent = 'shot' + (row+1).toString().padStart(2, '0');
-                    rowLabel.style.fontWeight = 'bold';
+                    const shotNumber = document.createElement('div');
+                    shotNumber.textContent = 'shot ' + (row+1).toString().padStart(2, '0');
+                    shotNumber.style.fontWeight = 'bold';
+                    rowLabel.appendChild(shotNumber);
+                    
+                    // Add prompt text if available
+                    if (rowPrompts && row < rowPrompts.length) {
+                        const promptText = document.createElement('div');
+                        promptText.className = 'row-prompt';
+                        promptText.textContent = rowPrompts[row];
+                        promptText.title = rowPrompts[row]; // Show full prompt on hover
+                        rowLabel.appendChild(promptText);
+                    }
+                    
                     tr.appendChild(rowLabel);
                     
-                    for (let col = 0; col < 10; col++) {
-                        const index = row * 10 + col;
+                    for (let col = 0; col < 5; col++) {
+                        const index = row * 5 + col;
                         const td = document.createElement('td');
                         
                         if (index < urls.length) {
                             const url = urls[index];
+                            const prediction = predictions[index] || 'N/A';
                             const videoId = getYoutubeId(url);
+                            
+                            // Create a container for responsive iframe
+                            const videoContainer = document.createElement('div');
+                            videoContainer.classList.add('video-container');
                             
                             // Create iframe for YouTube video
                             const iframe = document.createElement('iframe');
-                            iframe.width = '100%';
-                            iframe.height = '100%';
                             iframe.src = `https://www.youtube.com/embed/${videoId}`;
                             iframe.frameBorder = '0';
                             iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
                             iframe.allowFullscreen = true;
                             
-                            // Create a container for responsive iframe
-                            const videoContainer = document.createElement('div');
-                            videoContainer.classList.add('video-container');
                             videoContainer.appendChild(iframe);
                             
-                            // Add URL text below video
+                            // Add prediction value below video
                             const urlText = document.createElement('div');
-                            urlText.textContent = url;
-                            urlText.style.fontSize = '12px';
-                            urlText.style.marginTop = '5px';
-                            urlText.style.overflowWrap = 'break-word';
+                            urlText.textContent = `MSG Score : ${prediction}`;
+                            urlText.classList.add('url-text');
                             
                             td.appendChild(videoContainer);
                             td.appendChild(urlText);
@@ -254,26 +465,248 @@
                 table.appendChild(tbody);
             }
             
+            // Function to create a custom 6x4 table with no headers
+            function createCustomTable(urls, tableId) {
+                const table = document.getElementById(tableId);
+                if (!table) return;
+                
+                // Create header row
+                const headerRow = document.createElement('tr');
+                
+                // Create headers
+                const headers = ['Good Score', 'Good Video', 'Bad Video', 'Bad Score'];
+                headers.forEach(headerText => {
+                    const th = document.createElement('th');
+                    th.textContent = headerText;
+                    headerRow.appendChild(th);
+                });
+                
+                table.appendChild(headerRow);
+                
+                // Load the prediction scores from the CSV file
+                async function loadScores() {
+                    try {
+                        const csvResponse = await fetch('./assets/inference_results_human-made.csv');
+                        const csvText = await csvResponse.text();
+                        const rows = csvText.trim().split('\n');
+                        const header = rows[0].split(',');
+                        const predictionIndex = header.findIndex(col => col.trim().toLowerCase() === 'prediction');
+                        
+                        // Extract scores for good and bad videos
+                        const goodScores = [];
+                        const badScores = [];
+                        
+                        rows.slice(1).forEach(row => {
+                            const columns = row.split(',');
+                            const filename = columns[0].trim();
+                            const prediction = predictionIndex < columns.length ? columns[predictionIndex].trim() : 'N/A';
+                            
+                            if (filename.startsWith('good')) {
+                                goodScores.push(prediction);
+                            } else if (filename.startsWith('bad')) {
+                                badScores.push(prediction);
+                            }
+                        });
+                        
+                        // Create five data rows with 4 columns: good score, good video, bad video, bad score
+                        for (let row = 0; row < 5; row++) {
+                            const tr = document.createElement('tr');
+                            
+                            // First column: Good score
+                            const goodScoreCell = document.createElement('td');
+                            const goodScoreText = document.createElement('div');
+                            goodScoreText.textContent = row < goodScores.length ? `Score: ${goodScores[row]}` : "N/A";
+                            goodScoreText.classList.add('url-text');
+                            goodScoreCell.appendChild(goodScoreText);
+                            tr.appendChild(goodScoreCell);
+                            
+                            // Second column: Good video
+                            const goodVideoCell = document.createElement('td');
+                            if (row < urls.length/2) {
+                                const goodVideoIndex = row;
+                                const goodUrl = urls[goodVideoIndex];
+                                const goodVideoId = getYoutubeId(goodUrl);
+                                
+                                // Create video container
+                                const videoContainer = document.createElement('div');
+                                videoContainer.classList.add('video-container');
+                                
+                                const iframe = document.createElement('iframe');
+                                iframe.src = `https://www.youtube.com/embed/${goodVideoId}`;
+                                iframe.frameBorder = '0';
+                                iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+                                iframe.allowFullscreen = true;
+                                
+                                videoContainer.appendChild(iframe);
+                                goodVideoCell.appendChild(videoContainer);
+                            }
+                            tr.appendChild(goodVideoCell);
+                            
+                            // Third column: Bad video
+                            const badVideoCell = document.createElement('td');
+                            if (row < urls.length/2) {
+                                // Use second half of urls array for bad videos
+                                const badVideoIndex = row + Math.floor(urls.length/2);
+                                if (badVideoIndex < urls.length) {
+                                    const badUrl = urls[badVideoIndex];
+                                    const badVideoId = getYoutubeId(badUrl);
+                                    
+                                    // Create video container
+                                    const videoContainer = document.createElement('div');
+                                    videoContainer.classList.add('video-container');
+                                    
+                                    const iframe = document.createElement('iframe');
+                                    iframe.src = `https://www.youtube.com/embed/${badVideoId}`;
+                                    iframe.frameBorder = '0';
+                                    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+                                    iframe.allowFullscreen = true;
+                                    
+                                    videoContainer.appendChild(iframe);
+                                    badVideoCell.appendChild(videoContainer);
+                                }
+                            }
+                            tr.appendChild(badVideoCell);
+                            
+                            // Fourth column: Bad score
+                            const badScoreCell = document.createElement('td');
+                            const badScoreText = document.createElement('div');
+                            badScoreText.textContent = row < badScores.length ? `Score: ${badScores[row]}` : "N/A";
+                            badScoreText.classList.add('url-text');
+                            badScoreCell.appendChild(badScoreText);
+                            tr.appendChild(badScoreCell);
+                            
+                            table.appendChild(tr);
+                        }
+                    } catch (error) {
+                        console.error('Error loading prediction scores:', error);
+                        // Fallback to create table without CSV data
+                        createTableWithoutScores();
+                    }
+                }
+                
+                // Fallback function if CSV loading fails
+                function createTableWithoutScores() {
+                    for (let row = 0; row < 5; row++) {
+                        const tr = document.createElement('tr');
+                        
+                        // First column: Good score
+                        const goodScoreCell = document.createElement('td');
+                        const goodScoreText = document.createElement('div');
+                        goodScoreText.textContent = "Score: N/A";
+                        goodScoreText.classList.add('url-text');
+                        goodScoreCell.appendChild(goodScoreText);
+                        tr.appendChild(goodScoreCell);
+                        
+                        // Second column: Good video
+                        const goodVideoCell = document.createElement('td');
+                        if (row < urls.length/2) {
+                            const goodVideoIndex = row;
+                            const goodUrl = urls[goodVideoIndex];
+                            const goodVideoId = getYoutubeId(goodUrl);
+                            
+                            // Create video container
+                            const videoContainer = document.createElement('div');
+                            videoContainer.classList.add('video-container');
+                            
+                            const iframe = document.createElement('iframe');
+                            iframe.src = `https://www.youtube.com/embed/${goodVideoId}`;
+                            iframe.frameBorder = '0';
+                            iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+                            iframe.allowFullscreen = true;
+                            
+                            videoContainer.appendChild(iframe);
+                            goodVideoCell.appendChild(videoContainer);
+                        }
+                        tr.appendChild(goodVideoCell);
+                        
+                        // Third column: Bad video
+                        const badVideoCell = document.createElement('td');
+                        if (row < urls.length/2) {
+                            // Use second half of urls array for bad videos
+                            const badVideoIndex = row + Math.floor(urls.length/2);
+                            if (badVideoIndex < urls.length) {
+                                const badUrl = urls[badVideoIndex];
+                                const badVideoId = getYoutubeId(badUrl);
+                                
+                                // Create video container
+                                const videoContainer = document.createElement('div');
+                                videoContainer.classList.add('video-container');
+                                
+                                const iframe = document.createElement('iframe');
+                                iframe.src = `https://www.youtube.com/embed/${badVideoId}`;
+                                iframe.frameBorder = '0';
+                                iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+                                iframe.allowFullscreen = true;
+                                
+                                videoContainer.appendChild(iframe);
+                                badVideoCell.appendChild(videoContainer);
+                            }
+                        }
+                        tr.appendChild(badVideoCell);
+                        
+                        // Fourth column: Bad score
+                        const badScoreCell = document.createElement('td');
+                        const badScoreText = document.createElement('div');
+                        badScoreText.textContent = "Score: N/A";
+                        badScoreText.classList.add('url-text');
+                        badScoreCell.appendChild(badScoreText);
+                        tr.appendChild(badScoreCell);
+                        
+                        table.appendChild(tr);
+                    }
+                }
+                
+                // Start loading scores and creating the table
+                loadScores();
+            }
+            
             // Function to extract YouTube video ID
             function getYoutubeId(url) {
-                const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
-                const match = url.match(regExp);
-                return (match && match[2].length === 11) ? match[2] : 'dQw4w9WgXcQ'; // Default video ID
+                try {
+                    // Check if URL is valid
+                    if (!url || typeof url !== 'string') {
+                        return null;
+                    }
+
+                    // Handle various YouTube URL formats
+                    const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/;
+                    const match = url.match(regExp);
+                    
+                    // Only return if it's a valid 11-character YouTube ID
+                    if (match && match[2] && match[2].length === 11) {
+                        return match[2];
+                    }
+                    
+                    // Alternative approach if the regex fails
+                    if (url.includes('youtu.be/')) {
+                        const id = url.split('youtu.be/')[1]?.split(/[?&#]/)[0];
+                        if (id && id.length === 11) return id;
+                    } else if (url.includes('youtube.com/watch?v=')) {
+                        const id = url.split('v=')[1]?.split(/[?&#]/)[0];
+                        if (id && id.length === 11) return id;
+                    }
+                    
+                    // If all extraction attempts fail, use a default video ID
+                    return 'dQw4w9WgXcQ';  // Default video ID as fallback
+                } catch (error) {
+                    console.error("Error parsing YouTube URL:", error, url);
+                    return 'dQw4w9WgXcQ';  // Default video ID as fallback
+                }
             }
             
             // Find the main images and handle if they don't exist
             const mainImage1 = document.getElementById('mainImage1');
             mainImage1.onerror = function() {
-                this.src = 'https://via.placeholder.com/800x400?text=Project+Image+1';
+                this.src = './assets/images/figure1.png';
             };
             
             const mainImage2 = document.getElementById('mainImage2');
             mainImage2.onerror = function() {
-                this.src = 'https://via.placeholder.com/800x400?text=Project+Image+2';
+                this.src = './assets/images/figure2.png';
             };
             
-            // Load video URLs and create tables
-            loadVideoUrls();
+            // Load data and create tables
+            loadData();
         });
     </script>
 </body>

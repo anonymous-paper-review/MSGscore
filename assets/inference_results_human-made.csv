@@ -1,0 +1,13 @@
+filename,name,prompt,prediction
+good1.mp4,shot1,-,39.3583
+good2.mp4,shot2,-,42.3005
+good3.mp4,shot3,-,47.8929
+good4.mp4,shot4,-,37.6623
+good5.mp4,shot5,-,56.1308
+good6.mp4,shot6,-,42.0404
+bad1.mp4,shot1,-,25.7409
+bad2.mp4,shot2,-,22.2168
+bad3.mp4,shot3,-,46.1107
+bad4.mp4,shot4,-,18.4185
+bad5.mp4,shot5,-,43.1217
+bad6.mp4,shot6,-,40.0531
