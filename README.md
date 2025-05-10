@@ -43,10 +43,6 @@ This script performs the following tasks:
 - Calculates MSG score and saves results
 
 Evaluation results will be stored in the configured result directory.
+
 =======
-MSG: Benchmarking Multi-Scene Video Generation for Scalable Long-Form Content
 
-Our Project Page : https://anonymous-paper-review.github.io/MSGscore/
-
-explanation is in prepare but code is available 
->>>>>>> 1200efe0ce31c9018d0584c57e2f1f717491ebfb
