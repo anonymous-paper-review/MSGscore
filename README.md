@@ -45,3 +45,7 @@ This script performs the following tasks:
 Evaluation results will be stored in the configured result directory.
 
 =======
+<<<<<<< HEAD
+=======
+
+>>>>>>> eb35bbf422c85469ef83b7048e3f4946c0caa8e5
