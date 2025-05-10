@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MSG: Benchmarking Multi-Scene Video Generation for Scalable Long-Form Content
 
 <p align="center">
