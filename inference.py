@@ -5,6 +5,7 @@ from model import AttentionModel, analyze_model_parameters
 import warnings
 import joblib
 import numpy as np
+import argparse  # Added import for command line arguments
 
 def load_metrics(json_path, required_keys, scaler=None):
     with open(json_path, "r", encoding="utf-8") as f:
@@ -61,6 +62,12 @@ def run_inference(model_path, metrics_json_path, required_keys, output_csv_path,
 if __name__ == "__main__":
     warnings.filterwarnings("ignore", message="You are using `torch.load` with `weights_only=False`")
 
+    # Command line argument parsing
+    parser = argparse.ArgumentParser(description='Run inference using MSGscore model')
+    parser.add_argument('--metrics_json_path', type=str, default="./merged_results.json",
+                        help='Path to the JSON file containing metrics data')
+    args = parser.parse_args()
+
     required_keys = [
         "overall_consistency", "subject_consistency", "background_consistency",
         "temporal_flickering", "motion_smoothness", "dynamic_degree", "aesthetic_quality",
@@ -71,10 +78,9 @@ if __name__ == "__main__":
 
     run_inference(
         model_path="./models/final_model.pth",
-        metrics_json_path="./Human_made_videos_NoEdit.json",
+        metrics_json_path=args.metrics_json_path,  # Using command line argument
         required_keys=required_keys,
         output_csv_path="./result/inference_results.csv",
-        scaler_path="./models/standard_scaler_NEW.pkl"  # ✅ 학습 시 저장한 스케일러 경로
+        scaler_path="./models/standard_scaler.pkl"  # ✅ 학습 시 저장한 스케일러 경로
     )
 
-    # analyze_model_parameters(model = AttentionModel(input_dim=len(required_keys), hidden_dim=63).to(torch.device("cuda" if torch.cuda.is_available() else "cpu")))

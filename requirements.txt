@@ -1,0 +1,4 @@
+torch==2.2.0
+joblib==1.4.2
+sklearn
+csv
