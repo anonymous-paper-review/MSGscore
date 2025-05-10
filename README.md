@@ -8,9 +8,9 @@
   <img src="assets/figure2.png" width="100%">
 </p>
 
-<h2 align="center">
-  <a href="https://anonymous-paper-review.github.io/MSGscore/">Project Page</a>
-</h2>
+<h1 align="center">
+  <a style = "font-size:50px;" href="https://anonymous-paper-review.github.io/MSGscore/"> >> Project Page << </a>
+</h1> 
 
 ## Usage
 
@@ -43,9 +43,3 @@ This script performs the following tasks:
 - Calculates MSG score and saves results
 
 Evaluation results will be stored in the configured result directory.
-
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> eb35bbf422c85469ef83b7048e3f4946c0caa8e5
