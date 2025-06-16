@@ -36,6 +36,7 @@ pip install torchmetrics==1.2.0
 
 # Install other dependencies
 pip install -r requirements.txt
+pip install tensorrt
 
 # Additional common dependencies that might be needed
 pip install matplotlib tqdm scipy pandas scikit-learn
