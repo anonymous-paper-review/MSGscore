@@ -116,14 +116,14 @@
             table-layout: fixed; /* Use fixed layout for better control */
         }
         
-        #videoTable3 {
+        #videoTable3, #attnMlpTable {
             width: 100%;
             table-layout: fixed; /* This is key for equal width columns */
             border-collapse: collapse;
         }
         
-        /* Set equal width for all columns in videoTable3 */
-        #videoTable3 th, #videoTable3 td {
+        /* Set equal width for all columns in videoTable3 and attnMlpTable */
+        #videoTable3 th, #videoTable3 td, #attnMlpTable th, #attnMlpTable td {
             width: 25%; /* Each column takes exactly 25% of table width */
             padding: 10px;
             vertical-align: top;
@@ -131,21 +131,21 @@
         }
         
         /* Ensure video containers maintain proportion */
-        #videoTable3 .video-container {
+        #videoTable3 .video-container, #attnMlpTable .video-container {
             padding-bottom: 56.25%; /* 16:9 aspect ratio */
         }
         
-        #videoTable3 td {
+        #videoTable3 td, #attnMlpTable td {
             padding: 8px;
             vertical-align: top;
         }
         
         /* Adjust column widths for the custom 6x4 table */
-        #videoTable3 td:nth-child(1), #videoTable3 td:nth-child(4) {
+        #videoTable3 td:nth-child(1), #videoTable3 td:nth-child(4), #attnMlpTable td:nth-child(1), #attnMlpTable td:nth-child(4) {
             width: 15%; /* URL columns */
         }
         
-        #videoTable3 td:nth-child(2), #videoTable3 td:nth-child(3), #videoTable3 td:nth-child(5), #videoTable3 td:nth-child(6) {
+        #videoTable3 td:nth-child(2), #videoTable3 td:nth-child(3), #videoTable3 td:nth-child(5), #videoTable3 td:nth-child(6), #attnMlpTable td:nth-child(2), #attnMlpTable td:nth-child(3), #attnMlpTable td:nth-child(5), #attnMlpTable td:nth-child(6) {
             width: 17.5%; /* Video columns */
         }
         
@@ -230,8 +230,16 @@
             overflow-wrap: break-word;
             word-break: break-all;
             max-width: 100%;
-            max-height: 40px;
+            max-height: 60px; /* 40px에서 60px로 증가 */
             overflow-y: auto;
+            line-height: 1.3; /* 줄 간격 조정 */
+        }
+        
+        /* Specific styling for attention and MLP score cells */
+        #attnMlpTable .url-text {
+            max-height: 80px; /* attnMlpTable의 점수 셀 높이 증가 */
+            font-size: 14px; /* 글자 크기를 약간 줄여서 더 많은 내용이 들어가도록 */
+            padding: 4px;
         }
         
         /* Add style for prompt text under row headers */
@@ -305,6 +313,21 @@
 			<h2>Video evaluation by experts and amateurs</h2>
             <table id="videoTable3"></table>
         </div>
+
+        <div class="custom-table-container">
+			<h2>Attention vs MLP</h2>
+            <table id="attnMlpTable"></table>
+            <div style="text-align: center;">※ The MLP model is designed with the same number of weights as the attention model.</div>
+        </div>
+
+        <div class="custom-table-container">
+            <h2>Main Theme (Image Embedding vs Text VQA)</h2>
+            <div class="image-container">
+                <img src="./assets/images/figure3.png" alt="Project Image 3" class="project-image" id="mainImage3">
+            </div>
+            <table id="mainThemeTable"></table>
+            <div style="text-align: center;">※ Image embeddings are extracted by ViT(DinoV2-Giant) and VQA scores are calculated by GPT-4o.</div>
+        </div>
         
         <div class="hero-background">
             <div class="hero-content">
@@ -353,6 +376,16 @@
                         const line4Urls = lines[3].split(',').map(url => url.trim()).filter(url => url);
                         createCustomTable([...line3Urls, ...line4Urls], 'videoTable3');
                     }
+
+                    // Load Attention vs MLP data
+                    const attnMlpResponse = await fetch('./assets/inference_results_attn-mlp.csv');
+                    const attnMlpText = await attnMlpResponse.text();
+                    createAttnMlpTable(attnMlpText, 'attnMlpTable');
+
+                    // Load Main Theme data
+                    const mainThemeResponse = await fetch('./assets/inference_results_main-theme.csv');
+                    const mainThemeText = await mainThemeResponse.text();
+                    createMainThemeTable(mainThemeText, 'mainThemeTable');
                 } catch (error) {
                     console.error('Error loading data:', error);
                 }
@@ -667,6 +700,209 @@
                 
                 // Start loading scores and creating the table
                 loadScores();
+            }
+
+            // Function to create Attention vs MLP table
+            function createAttnMlpTable(csvText, tableId) {
+                const table = document.getElementById(tableId);
+                if (!table) return;
+
+                const rows = csvText.trim().split('\n');
+                const header = rows[0].split(',');
+                const attnIndex = header.findIndex(col => col.trim().toLowerCase() === 'attention');
+                const mlpIndex = header.findIndex(col => col.trim().toLowerCase() === 'mlp');
+
+                if (attnIndex === -1 || mlpIndex === -1) {
+                    console.error('Attention or MLP column not found in CSV');
+                    return;
+                }
+
+                // Extract scores
+                const attnScores = [];
+                const mlpScores = [];
+                
+                rows.slice(1).forEach(row => {
+                    const columns = row.split(',');
+                    attnScores.push(attnIndex < columns.length ? columns[attnIndex].trim() : 'N/A');
+                    mlpScores.push(mlpIndex < columns.length ? columns[mlpIndex].trim() : 'N/A');
+                });
+
+                // Get the same URLs used in videoTable3 (from lines 3 and 4 of urls.txt)
+                fetch('./assets/urls.txt')
+                    .then(response => response.text())
+                    .then(urlText => {
+                        const lines = urlText.trim().split('\n');
+                        if (lines.length >= 4) {
+                            const line3Urls = lines[2].split(',').map(url => url.trim()).filter(url => url);
+                            const line4Urls = lines[3].split(',').map(url => url.trim()).filter(url => url);
+                            const urls = [...line3Urls, ...line4Urls];
+
+                            // Create header row - copy videoTable3 structure
+                            const headerRow = document.createElement('tr');
+                            const headers = ['Score', 'Expert Video', 'Amatuer Video', 'Score'];
+                            headers.forEach(headerText => {
+                                const th = document.createElement('th');
+                                th.textContent = headerText;
+                                headerRow.appendChild(th);
+                            });
+                            table.appendChild(headerRow);
+
+                            // Create 5 rows with same structure as videoTable3
+                            for (let row = 0; row < 5; row++) {
+                                const tr = document.createElement('tr');
+                                
+                                // First score column (Attention + MLP)
+                                const scoreCell1 = document.createElement('td');
+                                const scoreText1 = document.createElement('div');
+                                const attnScore = row < attnScores.length ? attnScores[row] : 'N/A';
+                                const mlpScore1 = row < mlpScores.length ? mlpScores[row] : 'N/A';
+                                scoreText1.innerHTML = `Attention: ${attnScore}<br>MLP: ${mlpScore1}`;
+                                scoreText1.classList.add('url-text');
+                                scoreCell1.appendChild(scoreText1);
+                                tr.appendChild(scoreCell1);
+                                
+                                // First video
+                                const videoCell1 = document.createElement('td');
+                                if (row < urls.length/2) {
+                                    const videoIndex1 = row;
+                                    const url1 = urls[videoIndex1];
+                                    const videoId1 = getYoutubeId(url1);
+                                    
+                                    const videoContainer1 = document.createElement('div');
+                                    videoContainer1.classList.add('video-container');
+                                    
+                                    const iframe1 = document.createElement('iframe');
+                                    iframe1.src = `${videoId1}`;
+                                    iframe1.frameBorder = '0';
+                                    iframe1.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+                                    iframe1.allowFullscreen = true;
+                                    
+                                    videoContainer1.appendChild(iframe1);
+                                    videoCell1.appendChild(videoContainer1);
+                                }
+                                tr.appendChild(videoCell1);
+                                
+                                // Second video
+                                const videoCell2 = document.createElement('td');
+                                if (row < urls.length/2) {
+                                    const videoIndex2 = row + Math.floor(urls.length/2);
+                                    if (videoIndex2 < urls.length) {
+                                        const url2 = urls[videoIndex2];
+                                        const videoId2 = getYoutubeId(url2);
+                                        
+                                        const videoContainer2 = document.createElement('div');
+                                        videoContainer2.classList.add('video-container');
+                                        
+                                        const iframe2 = document.createElement('iframe');
+                                        iframe2.src = `${videoId2}`;
+                                        iframe2.frameBorder = '0';
+                                        iframe2.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+                                        iframe2.allowFullscreen = true;
+                                        
+                                        videoContainer2.appendChild(iframe2);
+                                        videoCell2.appendChild(videoContainer2);
+                                    }
+                                }
+                                tr.appendChild(videoCell2);
+                                
+                                // Second score column (Attention + MLP)
+                                const scoreCell2 = document.createElement('td');
+                                const scoreText2 = document.createElement('div');
+                                const attnScore2 = (row + 5) < attnScores.length ? attnScores[row + 5] : 'N/A';
+                                const mlpScore2 = (row + 5) < mlpScores.length ? mlpScores[row + 5] : 'N/A';
+                                scoreText2.innerHTML = `Attention: ${attnScore2}<br>MLP: ${mlpScore2}`;
+                                scoreText2.classList.add('url-text');
+                                scoreCell2.appendChild(scoreText2);
+                                tr.appendChild(scoreCell2);
+                                
+                                table.appendChild(tr);
+                            }
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error loading URLs for attnMlpTable:', error);
+                    });
+            }
+
+            // Function to create Main Theme table
+            function createMainThemeTable(csvText, tableId) {
+                const table = document.getElementById(tableId);
+                if (!table) return;
+
+                const rows = csvText.trim().split('\n');
+                
+                // Create header row with proper column separation
+                const headerRow = document.createElement('tr');
+                const headers = ['Case', 'Method', 'Frame 1', 'Frame 2', 'Frame 3', 'Frame 4'];
+                headers.forEach(headerText => {
+                    const th = document.createElement('th');
+                    th.textContent = headerText;
+                    headerRow.appendChild(th);
+                });
+                table.appendChild(headerRow);
+
+                // Process all data rows (skip header)
+                let currentCase = '';
+                let caseRowCount = 0;
+                let caseStartRow = null;
+                
+                for (let i = 1; i < rows.length; i++) {
+                    const columns = rows[i].split(',');
+                    if (columns.length >= 6) {
+                        const tr = document.createElement('tr');
+                        const caseValue = columns[0];
+                        
+                        // Check if this is a new case
+                        if (caseValue !== currentCase) {
+                            currentCase = caseValue;
+                            caseRowCount = 1;
+                            
+                            // Count how many rows this case will have
+                            let totalRowsForCase = 1;
+                            for (let j = i + 1; j < rows.length; j++) {
+                                const nextColumns = rows[j].split(',');
+                                if (nextColumns[0] === caseValue) {
+                                    totalRowsForCase++;
+                                } else {
+                                    break;
+                                }
+                            }
+                            
+                            // Create case cell with rowspan
+                            const caseCell = document.createElement('td');
+                            const caseText = document.createElement('div');
+                            caseText.textContent = caseValue;
+                            caseText.classList.add('url-text');
+                            caseCell.appendChild(caseText);
+                            caseCell.rowSpan = totalRowsForCase;
+                            caseCell.style.verticalAlign = 'middle';
+                            tr.appendChild(caseCell);
+                            
+                            caseStartRow = tr;
+                        }
+                        // For subsequent rows of the same case, don't add case cell (it's already merged)
+                        
+                        // Create method cell
+                        const methodCell = document.createElement('td');
+                        const methodText = document.createElement('div');
+                        methodText.textContent = columns[1]; // ViT or VQA
+                        methodText.classList.add('url-text');
+                        methodCell.appendChild(methodText);
+                        tr.appendChild(methodCell);
+                        
+                        // Add frame scores
+                        for (let j = 2; j <= 5; j++) {
+                            const scoreCell = document.createElement('td');
+                            const scoreText = document.createElement('div');
+                            scoreText.textContent = columns[j];
+                            scoreText.classList.add('url-text');
+                            scoreCell.appendChild(scoreText);
+                            tr.appendChild(scoreCell);
+                        }
+                        
+                        table.appendChild(tr);
+                    }
+                }
             }
             
             // Function to extract YouTube video ID

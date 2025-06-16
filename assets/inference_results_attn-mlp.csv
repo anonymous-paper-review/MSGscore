@@ -1,4 +1,4 @@
-filename,name,prompt,prediction,prediction2
+﻿filename,name,prompt,Attention,MLP
 good1.mp4,-,-,39.3583,41.0302
 good2.mp4,-,-,42.3005,58.0539
 good3.mp4,-,-,47.8929,51.4431
