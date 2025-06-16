@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-  <a style = "font-size:80px;" href="https://anonymous-paper-review.github.io/MSGscore/" target="_blank8"> >> Project Page << </a>
+  <a style = "font-size:80px;" href="https://anonymous-paper-review.github.io/MSGscore/"> >> Project Page << </a>
 </h1> 
 
 ## Usage
