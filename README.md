@@ -13,12 +13,26 @@
 </h1> 
 
 
-## 🏗️ Overall Framework & Workflow
+## 🔄 Overall Framework Workflow
 
-This repository handles **Step 4: Video Evaluation** of the overall video generation and evaluation framework. The overall system works as follows:
+1.  **User Input**
+    * The system receives the user's intent, including the desired topic, style, and concept for the video.
+2.  **Prompt Generation**
+    * Based on the input, the system generates optimized prompts suitable for video generation models.
+3.  **Video Generation**
+    * Multiple candidate videos are generated using various Video Generation APIs.
+4.  **Video Evaluation**
+    * **This is the core feature of this repository.**
+    * The module evaluates the generated candidate videos based on human aesthetic standards and quality metrics to assign a score.
+5.  **Threshold Check**
+    * The system checks if the evaluation score meets a specific **Threshold**.
+    * **Pass**: If the score exceeds the threshold, the video is selected as the final output.
+    * **Fail**: If the score is below the threshold, the process proceeds to the feedback step.
+6.  **Feedback Loop (Refinement)**
+    * Based on the evaluation score and specific deficiencies identified, the system generates feedback.
+    * This feedback is used to refine the prompt, and the process returns to **Step 2** to regenerate better candidates.
 
 ### System Flowchart
-
 
 ```mermaid
 graph TD
