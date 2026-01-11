@@ -11,7 +11,6 @@
 <h1 align="center">
   <a style = "font-size:80px;" href="https://anonymous-paper-review.github.io/MSGscore/" target="_blank8"> >> Project Page << </a>
 </h1> 
-
 ## 🏗️ Overall Framework & Workflow
 
 This repository handles **Step 4: Video Evaluation** of the overall video generation and evaluation framework. The overall system works as follows:
@@ -31,6 +30,7 @@ graph TD
     E -- Pass --> F[Final Video Selection]
     E -- Fail --> G[Feedback Generation]
     G -->|Refined Parameters| B
+
 ```
 
 ## Usage
