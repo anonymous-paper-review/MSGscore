@@ -12,6 +12,26 @@
   <a style = "font-size:80px;" href="https://anonymous-paper-review.github.io/MSGscore/" target="_blank8"> >> Project Page << </a>
 </h1> 
 
+## 🏗️ Overall Framework & Workflow
+
+This repository handles **Step 4: Video Evaluation** of the overall video generation and evaluation framework. The overall system works as follows:
+
+### System Flowchart
+
+```mermaid
+graph TD
+    A[User Input] -->|Topic & Style| B(Prompt Generation)
+    B --> C[Video Generation APIs]
+    C -->|Candidate Videos| D{Evaluation Module<br/>(Current Repo)}
+    
+    style D fill:#f96,stroke:#333,stroke-width:4px
+    
+    D -->|Score Analysis| E{Threshold Check}
+    
+    E -- Pass --> F[Final Video Selection]
+    E -- Fail --> G[Feedback Generation]
+    G -->|Refined Parameters| B
+
 ## Usage
 
 ### 1. Environment Setup
