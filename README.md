@@ -17,11 +17,12 @@ This repository handles **Step 4: Video Evaluation** of the overall video genera
 
 ### System Flowchart
 
+
 ```mermaid
 graph TD
     A[User Input] -->|Topic & Style| B(Prompt Generation)
     B --> C[Video Generation APIs]
-    C -->|Candidate Videos| D{Evaluation Module<br/>(Current Repo)}
+    C -->|Candidate Videos| D{"Evaluation Module<br/>(Current Repo)"}
     
     style D fill:#f96,stroke:#333,stroke-width:4px
     
@@ -30,7 +31,6 @@ graph TD
     E -- Pass --> F[Final Video Selection]
     E -- Fail --> G[Feedback Generation]
     G -->|Refined Parameters| B
-
 ```
 
 ## Usage
